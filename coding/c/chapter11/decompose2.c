@@ -1,0 +1,25 @@
+#include<stdio.h>
+
+void decompose(double n, long *int_part, double *frac_part);
+
+int main(void){
+
+    double j;
+    long n;
+
+    decompose(3.141593, &n, &j);
+    
+    printf("Integer part: %ld\nFraction part: %f\n", n, j);
+
+    return 0;
+}
+
+void decompose(double n, long *int_part, double *frac_part){
+
+    *int_part= (long) n;
+    *frac_part= n - *int_part;
+}
+
+    
+
+   

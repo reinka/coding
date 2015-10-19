@@ -1,0 +1,10 @@
+double medion(double x, double y, double z)
+{
+   if(x<=y)
+	if (y<=z) return y;
+	else if(x<=z) retun z;
+	else return x;
+   if(z<=y) return y;
+   if(x<=z) return x;
+   return z;
+}
