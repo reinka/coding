@@ -17,7 +17,7 @@ void insertEntry (struct entry **neu, struct entry **after)
 
 /***********************************************************
  	ALTERNATIVELY: PASSING POINTER INSTEAD OF ADDRESS.
- 	THOUGHT I COULDNT FIGURE OUT HOW TO INSERT AT THE FRONT
+ 	THOUGH I COULDNT FIGURE OUT HOW TO INSERT AT THE FRONT
  	OF THE LIST. NOT SURE IF IT'S EVEN POSSIBLE WITH THIS 
  	METHOD.
   	
@@ -38,7 +38,7 @@ void removeEntry (struct entry **after)
 
 /***********************************************************
  	ALTERNATIVELY: PASSING POINTER INSTEAD OF ADDRESS.
- 	THOUGHT I COULDNT FIGURE OUT HOW TO REMOVE THE FIRST ITEM
+ 	THOUGH I COULDNT FIGURE OUT HOW TO REMOVE THE FIRST ITEM
  	OF THE LIST. NOT SURE IF IT'S EVEN POSSIBLE WITH THIS 
  	METHOD.
   	
