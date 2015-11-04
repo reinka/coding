@@ -1,0 +1,5 @@
+1. Ubuntu 14.04
+
+2. gcc steht für GNU Compiler Collection und ist eine Kollektion von Compiler, die unter anderem C, C++, Objective-C, Fortran, Java und Ada inkludiert. Es gitb in der Tat Alternativen für gcc, z.B. clang.
+
+3. gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04)

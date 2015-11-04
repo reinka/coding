@@ -1,0 +1,13 @@
+//Blatt 3, Aufgabe 2
+
+#include <stdio.h>
+
+int main(void)
+{
+    int n = 35;
+    
+    while(n > 0)
+        printf("%d\n", n--);
+        
+    return 0;
+}
