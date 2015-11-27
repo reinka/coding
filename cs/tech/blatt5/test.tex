@@ -1,0 +1,25 @@
+\documentclass{article}
+\usepackage{multicol}
+\usepackage[english]{babel}
+\usepackage{blindtext}
+\begin{document}
+  \begin{multicols}{2}[\textbf{Example for a two column text}]
+    \blindtext
+  \end{multicols}
+\begin{table}[ht]
+\caption{default}
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+onecolumn & onecolumn & onecolumn & onecolumn & onecolumn\\
+\hline
+onecolumn & onecolumn & onecolumn & onecolumn & onecolumn\\
+\hline
+\end{tabular}
+\end{center}
+\label{default}
+\end{table}%
+  \begin{multicols}{2}
+    \blindtext[10]
+  \end{multicols}
+\end{document}

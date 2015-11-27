@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+
+
 char menu(void)
 {
     char operation;
@@ -11,22 +13,22 @@ char menu(void)
  
     return operation;
 }
- 
+
 int add(int a, int b)
 {
     return a + b;
 }
- 
+
 int sub(int a, int b)
 {
     return a - b;
 }
- 
+
 int mul(int a, int b)
 {
     return a * b;
 }
- 
+
 int getOperandsAndExecuteOperation(char function)
 {
     int first_operand, second_operand;
@@ -43,12 +45,12 @@ int getOperandsAndExecuteOperation(char function)
  
         return 0;
 }
- 
+
 void print(int a)
 {
     printf("\nDas Ergebnis ist %d\n\n\n", getOperandsAndExecuteOperation(menu()));
 }
- 
+
 int main(int argc, char const *argv[])
 {
     int i = 1;
