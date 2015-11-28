@@ -1,0 +1,9 @@
+1.1	Antwort: 	12
+1.2	Antwort: 	29
+1.3 Antwort: 	verweist auf Adr. 27. printf("%p", p) = 27, printf("%d", *p) = 18 bzw Inhalt der Adr. 27
+1.4 Antwort: 	verweist auf Adr. 18. Liegt auf Adresse 27.
+1.5 Antwort: 	9
+1.6 Antwort: 	a) auf 32-bit maschine 4 bytes, auf 64-bit 8 bytes. hängt jedoch noch von entwicklungsumgebung ab. 
+				b) 1 byte
+				c)printf("%ld", *lp) = 13, also seine eigene adresse. pointer zeigt also auf sich selbst. 	
+1.7 Antwort:	Adresse 17 für pointer. Wert Speicher: 00010000
