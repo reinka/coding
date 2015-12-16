@@ -1,6 +1,16 @@
 #include "malloc.h"
 #include "stdio.h"
 
+/* can't use function call when initializing stattic
+	or global variables! executable code such as assignment
+	statments must be inside functions! 
+*/
+static int *p_wrong = (int*) malloc(sizeof(int)); //wrong!!!
+
+//can be avoided for static variables inside functions though:
+void test(void){
+	static int* p = (int*) malloc(sizeof(int));
+}
 
 int main(int argc, char const *argv[])
 {
