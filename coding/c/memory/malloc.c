@@ -8,8 +8,10 @@
 static int *p_wrong = (int*) malloc(sizeof(int)); //wrong!!!
 
 //can be avoided for static variables inside functions though:
+// split assignment and initialization!
 void test(void){
-	static int* p = (int*) malloc(sizeof(int));
+	static int* p;
+	p = (int*) malloc(sizeof(int));
 }
 
 int main(int argc, char const *argv[])
