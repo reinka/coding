@@ -1,7 +1,7 @@
 #include "stdio.h"
 
-extern int zahl;
+extern int number;
 
 void f2(void){
-	printf("Hier ist f2, zahl = %d\n", zahl);
+	printf("Here is f2, number = %d\n", number);
 }
