@@ -50,7 +50,7 @@ def count_letters(dict):
 
 def main():
   if len(sys.argv) != 2:
-    print ('usage: ./wordcount.py {--count | --topcount} file')
+    print ('usage: ./problem17.py {count letters} file')
     sys.exit(1)
 
   filename = sys.argv[1]
