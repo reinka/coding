@@ -1,5 +1,5 @@
 /*
- Schreiben Sie eine Funktion map welcher ein Array vom Typ int, die Länge des Arrays und ein Funktionspointer übergeben wird. Der Funktionspointer soll auf eine Funktion verweisen welche ein int als Parameter übernimmt und int zurück liefert.
+Schreiben Sie eine Funktion map welcher ein Array vom Typ int, die Länge des Arrays und ein Funktionspointer übergeben wird. Der Funktionspointer soll auf eine Funktion verweisen welche ein int als Parameter übernimmt und int zurück liefert.
 Ihre Funktion map soll für jedes Element des Arrays die übergebene Funkti- on aufrufen und den Rückgabewert statt des originalen Elements im Array speichern.
 • Schreiben Sie drei Funktionen welche:
 – die übergebene Zahl mit 2 multipliziert
