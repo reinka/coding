@@ -40,7 +40,9 @@ int compar_binary_ones(void* thunkIn, const void *x, const void *y)
 {
     
     int *p = (int*)x, *q = (int*)y, *thunk = (int*) thunkIn;
-    int count = 0, arr[2];                //array for holding the binary representations
+    int count = 0, arr[2];                
+                 //^^
+                 //array for holding the binary representations
     
     arr[0] = int_to_bin(*p);
     arr[1] = int_to_bin(*q);
@@ -207,9 +209,9 @@ void get_operation(int *operation){
 }
 
 /**
- *gets variable length array from the user
+ *gets numer of elements for the variable length array of the user
  */
-void get_array(int *arr, long unsigned *numberOfElements){
+void get_number_of_elements(long unsigned *numberOfElements) {
     
     puts("How many Elements would you like to enter");
     while (scanf(" %lu", numberOfElements) != 1){
@@ -218,6 +220,12 @@ void get_array(int *arr, long unsigned *numberOfElements){
             ;
         }
     }while (getchar() != '\n');
+}
+
+/**
+ *gets variable length array from the user
+ */
+void get_array(int *arr, long unsigned *numberOfElements){
     
     puts("Enter your elements");
     
@@ -232,7 +240,7 @@ void get_array(int *arr, long unsigned *numberOfElements){
         
         arr[i] = elements;
     }
-
+    
 }
 
 /**
@@ -292,6 +300,9 @@ wrongInput:
     
     if (operation == 9){
         
+        get_number_of_elements(&numberOfElements);
+        int arr[numberOfElements];
+        
         get_array(arr, &numberOfElements);
         
         puts("Well done, here is your array");
@@ -328,5 +339,5 @@ wrongInput:
     
     
     
-    return 0;
+    return EXIT_SUCCESS;
 }
