@@ -198,14 +198,14 @@ struct dataUs input_address_us(void) {
 void print_address(const struct dataEu *data) {
     printf("\n\n");
     printf("Name : %s", data->name);
-    printf("Length : %d\n", data->length);
+    printf("Length : %d mm\n", data->length);
     printf("Quantity : %d\n", data->quantity);
 }
 
 void print_address_us(const struct dataUs *data) {
     printf("\n\n");
     printf("Name : %s", data->name);
-    printf("Length : %lf\n", data->length);
+    printf("Length : %lf inch\n", data->length);
     printf("Quantity : %d\n", data->quantity);
 }
 
