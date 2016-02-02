@@ -11,10 +11,6 @@ cd//
 
 
 
-//inserts element
-void insert(array_t *arr, size_t offset, void *value){
-    memcpy( ((char*)(arr->data)) + (offset * arr->element_size), value, arr->element_size);
-}
 
 // returns a new array which can store <length> elements of any
 // type that can be stored in <element_size> bytes  <length> elements
