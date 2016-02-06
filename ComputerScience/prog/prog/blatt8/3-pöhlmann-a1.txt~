@@ -1,0 +1,9 @@
+1.1	Antwort: 	12
+1.2	Antwort: 	29
+1.3 Antwort: 	verweist auf Adr. 27. printf("%p", p) = 27, printf("%d", *p) = 18 bzw Inhalt der Adr. 27
+1.4 Antwort: 	verweist auf Adr. 18. Liegt auf Adresse 27.
+1.5 Antwort: 	9
+1.6 Antwort: 	a) 1 byte 
+		b) 1 byte. Man sollte meinen, dass der Speicherbereich 16 bit hat, da der Zeiger als Zeiger auf Datentyp long int (16 bit) deklariert wird. Jedoch hat jede Speicherzelle nur 8 bits zur verfügung (1 byte). Somit kann die länge des speicherbereichs 8 bit nicht übertreffen? 
+		c) printf("%ld", *lp) = 13, also seine eigene adresse. pointer zeigt also auf sich selbst. 	
+1.7 Antwort:	Adresse 17 für pointer. Wert Speicher: 00010000

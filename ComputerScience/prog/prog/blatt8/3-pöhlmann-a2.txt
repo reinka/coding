@@ -1,0 +1,14 @@
+1.1		arguments are passed by value -> lokale variable innerhalb der Funktion. sobald funktion terminiert, werden ursprüngliche variablen wieder vom main programm aufgenommen. diese sind somit unverändert geblieben.
+
+1.2		swap_pointer hat als parameter 2 pointer, also wird der funktion die adresse der variablen one und two als argument gegeben. in der funktion wird eine temporäre variable deklariert, un mit dem wert der variable auf die der pointer a zeigt initialisiert. aus dem grund, damit beim anschließenden ersetzen des wertes der variablen auf die a zeit mit dem wert der variablen auf die b zeigt der ursprüngliche wert nicht verloren geht. anschließend wird der inhalt, auf den b zeigt, durch den wert aux ersetzt, also den ursprünglichen wert auf den a gezeigt hat. die funktion wird anschließend beendet, das main programm wieder aufgerufen. somit wurden die werte der ursprünglichen variablen vertauscht.
+
+1.3. weil die pointer als zeiger auf unterschiedliche datentypen deklariert wurden. bei dem einem int, bei dem zweiten char. bei der adition wird um länge von 1 element des entsprechenden datentyps, auf den der pointer zeigt, erhöht. 
+sind beide als pointer des selben datentyps deklariert, stünde dort "selbe"
+
+1.4 *(char_pointer +i) hat zur folge dass der pointer erst inkrementiert wird, sprich er zeigt eine adresse weiter. in einem array wäre dies möglich, solange der pointer noch nicht das ende des arrays erreicht hat. hier zeigt der pointer jedoch auf eine einzige variable. ferner "erwartet der pointer" eine variable vom typen "char". da char_pointer nun inkrementiert wird (adresse auf die er zeigt eins höher), es sich jedoch um kein array handelt, sodass kein element mehr aufzufinden ist, führt dies zu undefiniertem verhalten. das system könnte crashen, oder gibt wie hier 0 aus (vlt eben weil es daten des typen chars erwartet, und es das nächste element als 0-terminator interpretiert? bin mir hier aber unsicher. jedoch würde es als int pointer wahllos irgendwelche zahlen ausgeben, also muss es an dem erwarteten datentypen liegen). 
+
+1.5. Zeile 6: 1
+	 In der Funktion add(a,b) wird für die selbe Speicheraddresse verwendet, wie in der Funktion return_local_pointer().
+	 Zuerst wird pointer_returned als Zeiger auf Speicheradresse a initialisiert, wobei a in der Funktion return_local_pointer() mit 17 initialisiert wird. Anfangs ist der Wert von *pointer_returned also 17. Schließlich werden die Additionen durchgeführt. Da in dieser Funktion die Variable a aus der selben Speicheradresse stammt, auf die der pointer zeigt, ändert sich somit der Wert, anhängig vom Parameter der für a eingesetzt wird. 
+	 Man könnte die Ausgabe 17 erreichen, indem man die Reihenfolge der add() Funktionen umkehrt. Oder indem pointer_returned erst nach den Additionen initialisiert wird, bzw nochmals mit return_local_pointer() initialisiert wird. 
+
