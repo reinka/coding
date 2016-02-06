@@ -14,7 +14,7 @@ typedef struct {
 } array_t;
 
 //inserts element into array
-void insert(array_t *arr, size_t offset, void *value);
+//void insert(array_t *arr, size_t offset, void *value);
 
 
 // returns a new array which can store <length> elements of any
@@ -33,7 +33,7 @@ void set_element(array_t array, unsigned long long element_number,
                  void *new_value);
 
 // returns a pointer to element number <element_number>
-void *get_element(array_t array, unsigned long long element_number);
+void *get_element(array_t *array, unsigned long long element_number);
 
 //cleans buffer
 void clean_buffer(void);

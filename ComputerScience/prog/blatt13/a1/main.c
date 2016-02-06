@@ -14,18 +14,35 @@ int main(void) {
     array_t arr;
     int i = 0, SIZE = 15;
     
+    user_entry data_type = get_data_type();
+    if (data_type == DOUBLE) {
+        arr = create_array(sizeof(double), SIZE);
+    }
+    else{
+        arr = create_array(sizeof(int), SIZE);
+    }
     
     while (1) {
     
     user_entry entry = get_operation();
 
         if (entry == QUIT) {
+            destroy_array(arr);
             break;
         }
     
         else if (entry == MORE_DATA) {
             if (i < SIZE) {
-                
+                if (data_type == DOUBLE) {
+                    double value;
+                    get_double_data(&value);
+                    set_element(arr, i++, &value);
+                }
+                else {
+                    int value;
+                    get_int_data(&value);
+                    set_element(arr, i++, &value);
+                }
                 
             }else
                 puts("Datensatz voll");
@@ -38,7 +55,9 @@ int main(void) {
                 puts("\n\nEs sind noch keine Datensaetze vorhanden. Geben Sie bitte erst welche ein.\n\n");
             } else{
                 for (int j = 0; j < i;j++) {
-
+                    //void *element_ptr = ;  returns only garbage values, dunno why. tried different approaches, like passing struct pointer
+                    //arr.element_size == sizeof(double) ? printf("%f ", *((double*) get_element(&arr,j))) : printf("%d ", *((int*) get_element(&arr,j)));
+                    arr.element_size == sizeof(double) ? printf("%f ",((double*) arr.data)[j]) : printf("%d ",((int*) arr.data)[j]) ;
                 }puts("");
             }
         }
