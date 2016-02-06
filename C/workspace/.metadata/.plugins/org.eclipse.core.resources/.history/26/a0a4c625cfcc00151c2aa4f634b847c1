@@ -1,0 +1,23 @@
+/*
+ ============================================================================
+ Name        : copy_file.c
+ Author      : Andrei Poehlmann
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#define FILENAME "datei.txt"
+
+
+
+int main(void) {
+
+
+
+
+	return EXIT_SUCCESS;
+}

@@ -1,0 +1,15 @@
+13:24:05 **** Incremental Build of configuration Debug for project copy_file.c ****
+make all 
+Building file: ../src/copy_file.c.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/copy_file.c.d" -MT"src/copy_file.c.o" -o "src/copy_file.c.o" "../src/copy_file.c.c"
+Finished building: ../src/copy_file.c.c
+ 
+Building target: copy_file.c
+Invoking: MacOS X C Linker
+gcc  -o "copy_file.c"  ./src/copy_file.c.o   
+Finished building target: copy_file.c
+ 
+
+13:24:05 Build Finished (took 128ms)
+

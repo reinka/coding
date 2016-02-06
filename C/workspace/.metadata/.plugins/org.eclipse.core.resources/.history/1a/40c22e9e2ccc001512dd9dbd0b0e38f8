@@ -1,0 +1,34 @@
+/*
+ ============================================================================
+ Name        : linked_list.c
+ Author      : Andrei Poehlmann
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct node {
+	int value;
+	struct node *next;
+} *node_ptr;
+
+node_ptr head = NULL;
+
+void insert_node(node_ptr new){
+	if(head == NULL){
+		head = new;
+		new -> next = NULL;
+	}else{
+		node_ptr help = head;
+
+	}
+}
+
+int main(void) {
+	puts(""); /* prints */
+	return EXIT_SUCCESS;
+}
