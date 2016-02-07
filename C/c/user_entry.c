@@ -1,3 +1,7 @@
+/**
+ *Function which asks the user to choose between specific options (here 4)
+ *and checks for right input at the same time
+ */
 typedef enum _user_entry { MORE_DATA = 1, QUIT = 2, INVALID = 3, PRINT = 4 } user_entry;
 
 user_entry get_operation(void) {
