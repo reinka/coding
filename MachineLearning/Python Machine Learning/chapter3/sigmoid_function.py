@@ -29,8 +29,3 @@ fig = plt.gcf()
 
 py.iplot_mpl(fig,strip_style=True, filename="sigmoid function")
 
-
-# In[ ]:
-
-
-
