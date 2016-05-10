@@ -9,7 +9,7 @@ public class Heapsort_BU {
         this.field = data;
         System.out.println("Retrieved following array: " + Arrays.toString(field));
     }
-    public void BottomUp(){
+    public void SortBottomUp(){
         int n = field.length;
         
         for(int i = (n/2); i > 1; i--) {
