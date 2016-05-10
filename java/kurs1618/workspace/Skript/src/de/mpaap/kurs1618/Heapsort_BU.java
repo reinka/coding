@@ -4,13 +4,14 @@ import java.util.Arrays;
 
 public class Heapsort_BU {
     private int[] field;
-    
+    int n;
+
     Heapsort_BU(int[] data){
         this.field = data;
+        this.n = field.length;
         System.out.println("Retrieved following array: " + Arrays.toString(field));
     }
     public void BottomUp(){
-        int n = field.length;
         
         for(int i = (n/2); i > 0; i--) {
             int k = i;
@@ -38,6 +39,17 @@ public class Heapsort_BU {
             field[k-1] = v;
         }
     }
+    public void sort() {
+        int[] sorted = field.clone();
+        int count = n;
+        while(count > 0) {
+            sorted[--count] = field[0];
+            System.arraycopy(field, 1, field, 0, field.length-1);
+            this.BottomUp();
+        }
+        field = sorted;
+    }
+    
     public void print() {
         if(field==null) {
             System.out.println("No elements.");
@@ -47,8 +59,9 @@ public class Heapsort_BU {
     }
     
     public static void main(String[] args) {
-        Heapsort_BU test = new Heapsort_BU(new int[] {9, 23, 3, 14, 10, 20, 5, 13, 15, 11, 18, 17, 7, 24, 2});
+        Heapsort_BU test = new Heapsort_BU(new int[] {60, 15, 23,16, 71, 98, 78, 72, 4});
         test.BottomUp();
+        test.sort();
         test.print();
     }
 }
