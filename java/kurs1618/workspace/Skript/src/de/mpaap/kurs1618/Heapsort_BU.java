@@ -9,7 +9,7 @@ public class Heapsort_BU {
         this.field = data;
         System.out.println("Retrieved following array: " + Arrays.toString(field));
     }
-    public void SortBottomUp(){
+    public void BottomUp(){
         int n = field.length;
         
         for(int i = (n/2); i > 0; i--) {
@@ -43,8 +43,8 @@ public class Heapsort_BU {
     }
     
     public static void main(String[] args) {
-        Heapsort_BU test = new Heapsort_BU(new int[] {60,15,23,71,98,78,72,4});
-        test.SortBottomUp();
+        Heapsort_BU test = new Heapsort_BU(new int[] {9, 23, 3, 14, 10, 20, 5, 13, 15, 11, 18, 17, 7, 24, 2});
+        test.BottomUp();
         test.print();
     }
 }
