@@ -28,9 +28,9 @@ public class Heapsort_BU {
                     heap = true;
                 } else {
                     field[k-1] = field[j-1];
-                    k=j;
+                    k = j;
                 }
-                field[k-1]=v;
+                field[k-1] = v;
             }
         }
     }
