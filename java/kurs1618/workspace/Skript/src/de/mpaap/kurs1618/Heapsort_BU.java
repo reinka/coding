@@ -19,6 +19,10 @@ public class Heapsort_BU {
             
             while(!heap && ((2*k)<=n)) {
                 int j = 2*k;
+                
+                /*
+                 * check whether there are 2 children
+                 */
                 if (j < n) {
                     if(field[j-1]<field[j]) {
                         j++;
