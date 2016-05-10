@@ -44,7 +44,7 @@ public class Heapsort_BU {
     
     public static void main(String[] args) {
         Heapsort_BU test = new Heapsort_BU(new int[] {60,15,23,71,98,78,72,4});
-        test.BottomUp();
+        test.SortBottomUp();
         test.print();
     }
 }
