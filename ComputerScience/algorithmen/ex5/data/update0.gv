@@ -1,0 +1,12 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6.6"
+			98 -> 72
+			98 -> 78
+			72 -> 16
+			72 -> 71
+			78 -> 23
+			78 -> 60
+			16 -> 15
+			16 -> 4
+}
