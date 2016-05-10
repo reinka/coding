@@ -11,7 +11,7 @@ public class Heapsort_BU {
         this.n = field.length;
         System.out.println("Retrieved following array: " + Arrays.toString(field));
     }
-    public void BottomUp(){
+    public void BottomUp(int n){
         
         for(int i = (n/2); i > 0; i--) {
             int k = i;
@@ -39,28 +39,38 @@ public class Heapsort_BU {
             field[k-1] = v;
         }
     }
+    
     public void sort() {
-        int[] sorted = field.clone();
-        int count = n;
+        // create heap first
+        this.BottomUp(n);
+        int count = n-1;
+        System.out.println("Sorting...");
         while(count > 0) {
-            sorted[--count] = field[0];
-            System.arraycopy(field, 1, field, 0, field.length-1);
-            this.BottomUp();
+            // temp variable for last element in array = last added leaf of the tree
+            int temp = field[count];
+            //swap root with last leaf
+            field[count] = field[0];
+            field[0] = temp;
+            
+            // update the heap ranging from 0 to n - 1 
+            // repeat steps until n = 0 
+            this.BottomUp(--count);
+            
+            // print each step
+            System.out.println(Arrays.toString(field)); 
         }
-        field = sorted;
     }
     
     public void print() {
         if(field==null) {
             System.out.println("No elements.");
         } else {
-            System.out.println("Sorting...\nSorted array:" + Arrays.toString(field));
+            System.out.println("Sorted array:" + Arrays.toString(field));
         }
     }
     
     public static void main(String[] args) {
         Heapsort_BU test = new Heapsort_BU(new int[] {60, 15, 23,16, 71, 98, 78, 72, 4});
-        test.BottomUp();
         test.sort();
         test.print();
     }
