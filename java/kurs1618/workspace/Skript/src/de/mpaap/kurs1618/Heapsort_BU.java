@@ -12,7 +12,6 @@ public class Heapsort_BU {
         System.out.println("Retrieved following array: " + Arrays.toString(field));
     }
     public void BottomUp(int n){
-        
         for(int i = (n/2); i > 0; i--) {
             int k = i;
             int v = field[k-1];
@@ -45,6 +44,7 @@ public class Heapsort_BU {
         this.BottomUp(n);
         int count = n-1;
         System.out.println("Sorting...");
+        System.out.println(Arrays.toString(field)); 
         while(count > 0) {
             // temp variable for last element in array = last added leaf of the tree
             int temp = field[count];
