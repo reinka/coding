@@ -12,7 +12,7 @@ public class Heapsort_BU {
     public void SortBottomUp(){
         int n = field.length;
         
-        for(int i = (n/2); i > 1; i--) {
+        for(int i = (n/2); i > 0; i--) {
             int k = i;
             int v = field[k-1];
             boolean heap = false;
