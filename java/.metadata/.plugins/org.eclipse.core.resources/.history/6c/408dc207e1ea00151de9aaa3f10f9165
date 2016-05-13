@@ -1,0 +1,6 @@
+class a1 {
+	static public void main(String args[]){
+		System.out.println(false ^ true == false && true);
+		
+	}
+}

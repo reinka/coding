@@ -6,6 +6,6 @@ public class MyFirstProgram {
 		x = 8;
 		y = 6;
 		z = x*y;
-		System.out.println("Result: x*y = " + z + "where x: " + x + "and y: "+y);
+		System.out.println("Result: x*y = " + z + " where x: " + x + " and y: "+y);
 	}
 }

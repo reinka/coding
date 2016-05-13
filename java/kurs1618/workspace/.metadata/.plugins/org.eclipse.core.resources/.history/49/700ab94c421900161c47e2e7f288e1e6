@@ -1,0 +1,7 @@
+package de.mpaap.kurs1618;
+
+public class Fahrzeug {
+    private int kilometerzaehler;
+    private int tank;
+    
+}

@@ -1,0 +1,6 @@
+package de.mpaap.kurs1618;
+
+public class Bruch {
+    public int nenner;
+    public int zaehler;
+}

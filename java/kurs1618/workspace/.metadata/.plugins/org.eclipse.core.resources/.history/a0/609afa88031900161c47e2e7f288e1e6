@@ -1,0 +1,72 @@
+package de.mpaap.kurs1618;
+
+public class Geometrieobjektverwaltung {
+    public static void main(String args[]) {
+        Kreis circle = new Kreis();
+        Bogenstueck curve = new Bogenstueck();
+        Rechteck rectangle = new Rechteck();
+        
+        /**
+         * Es kann zwar kein Objekt einer abstrakten Klasse 
+         * kreiert werden, jedoch eine Referenzvariable vom 
+         * Typen abstrakte Klasse:
+         */
+        GeometrischesObjekt referenz = rectangle;
+        referenz.druckeEigenschaften();
+        
+        circle.druckeEigenschaft();
+        curve.druckeEigenschaft();
+        rectangle.druckeEigenschaft();
+        
+    }
+}
+
+class Kreis extends GeometrischesObjekt{
+    public Kreis() {
+        super(true, true);
+    }
+    public void druckeEigenschaft() {
+        super.druckeEigenschaften();
+    }
+}
+
+class Bogenstueck extends GeometrischesObjekt{
+    public Bogenstueck() {
+        super(true, false);
+    }
+    public void druckeEigenschaft() {
+        super.druckeEigenschaften();
+    }
+}
+
+class Rechteck extends GeometrischesObjekt{
+    public Rechteck() {
+        super(true, true);
+    }
+    public void druckeEigenschaft() {
+        super.druckeEigenschaften();
+    }
+}
+
+abstract class GeometrischesObjekt{
+    private boolean punktsymmetrisch;
+    private boolean geschlossen;
+    
+    public GeometrischesObjekt(boolean punktsymmetrisch, boolean geschlossen) {
+        this.punktsymmetrisch = punktsymmetrisch;
+        this.geschlossen = geschlossen;
+    }
+    
+    void druckeEigenschaften() {
+        if(punktsymmetrisch)
+            System.out.println("Ist punktsymmentrisch.");
+        else
+            System.out.println("Ist nicht punktsymmentrisch.");
+        if(geschlossen){
+            System.out.println("Ist geschlossen.");
+        }
+        else {
+            System.out.println("Ist nicht geschlossen.");
+        }
+    }
+}

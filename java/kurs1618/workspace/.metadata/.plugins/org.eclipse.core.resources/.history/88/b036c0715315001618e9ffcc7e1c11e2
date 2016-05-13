@@ -1,0 +1,8 @@
+package de.mpaap.kurs1618;
+
+public class BruchTest {
+
+    public static void main(String[] args) {
+        
+    }
+}

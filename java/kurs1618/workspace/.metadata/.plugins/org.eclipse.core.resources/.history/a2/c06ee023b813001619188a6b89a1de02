@@ -1,0 +1,14 @@
+package de.mpaap.kurs1618;
+
+public class a5 {
+    
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+        int a=10;
+        a = a ;
+        System.out.println(a++);
+
+       
+    }
+
+}

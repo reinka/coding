@@ -1,0 +1,19 @@
+class a1 {
+	public static void main(String args[]){
+		System.out.println(false ^ true == false && true);
+		
+		System.out.println("x: " + x y += 7 % ++y + --x; System.out.println("x: " + x x /= x / 2 * y; System.out.println("x: " + x x /= (double) x / 2 * y; System.out.println("x: " + x x = 1; y= 3;
+		y *= (++x == y-- ? 10 : 20); System.out.println("x: " + x x = 1; y= 3;
+		y *= (x++ == y-- ? 30 : 40); System.out.println("x: " + x x = 1; y= 3;
+		y *= (++x == --y ? 50 : 60); System.out.println("x: " + x x = 1; y= 3;
+		y *= (x++ == --y ? 70 : 80); System.out.println("x: " + x
+		+ " y: " + y);
+		+ " y: " + y);
+		+ " y: " + y);
+		+ " y: " + y);
+		+ " y: " + y);
+		+ " y: " + y);
+		+ " y: " + y);
+		+ " y: " + y);
+	}
+}
