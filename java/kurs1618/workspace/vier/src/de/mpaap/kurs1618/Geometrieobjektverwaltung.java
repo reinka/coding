@@ -14,27 +14,30 @@ public class Geometrieobjektverwaltung {
         GeometrischesObjekt referenz = rectangle;
         referenz.druckeEigenschaften();
         
-        circle.druckeEigenschaft();
-        curve.druckeEigenschaft();
-        rectangle.druckeEigenschaft();
+        circle.druckeEigenschaften();
+        curve.druckeEigenschaften();
+        rectangle.druckeEigenschaften();
         
     }
 }
 class Kreis extends GeometrischesObjekt{    
-    public void druckeEigenschaft() {
+    @Override
+    public void druckeEigenschaften() {
         System.out.println("Ist punktsymmetrisch. Ist geschlossen.");
     }
 }
 class Bogenstueck extends GeometrischesObjekt{
-    public void druckeEigenschaft() {
+    @Override
+    public void druckeEigenschaften() {
         System.out.println("Ist nicht punktsymmetrisch. Ist nicht geschlossen.");
     }
 }
 class Rechteck extends GeometrischesObjekt{
-    public void druckeEigenschaft() {
+    @Override
+    public void druckeEigenschaften() {
         System.out.println("Ist punktsymmetrisch. Ist geschlossen.");
     }
 }
 abstract class GeometrischesObjekt{    
-    void druckeEigenschaften() {};
+    public abstract void druckeEigenschaften();
 }

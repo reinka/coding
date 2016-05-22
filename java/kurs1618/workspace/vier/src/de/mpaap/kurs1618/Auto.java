@@ -12,20 +12,27 @@ package de.mpaap.kurs1618;
  */
 
 public class Auto extends Fahrzeug {
-    final boolean landfahrzeug = true;
-    final int reifenAnzahl = 4;
+    private boolean landfahrzeug = true;
+    private boolean wasserfahrzeug = false;
+    private final int reifenAnzahl = 4;
     
-    Auto(int kilometerzaehler, int tank, String marke, String farbe){
+    Auto(float kilometerzaehler, float tank, String marke, String farbe, boolean wasserfahrzeug){
         super(kilometerzaehler, tank, marke, farbe);
+        this.wasserfahrzeug = wasserfahrzeug;
     }
-    public int getReifenAnzahl() {
-        return reifenAnzahl;
+    public void getEigenschaften() {
+        System.out.printf("Reifenanzahl: %d\nKilometeranzahl: %.2f km\nTank: %.2f l\nMarke: %s\nFarbe: %s\nLandfahrzeug: %s\nWasserfahrzeug: %s\n", 
+                reifenAnzahl,getKilometerzaehler(),getTank(),getMarke(),getFarbe(),landfahrzeug ? "wahr" : "falsch", wasserfahrzeug ? "wahr" : "falsch");
     }
     /**
      * @param km gibt an wie viele Kilometer 
-     * das Auto fahren soll
+     * das Auto fahren soll und update gleichzeitig
+     * @param kilometerzaehler
      */
     public void Fahren(float km) {
-        System.out.printf("%.2f km gefahren", km);
+        System.out.printf("***%.2f km gefahren***\n", km);
+        this.updateKilometer(km);
     }
+    
+    
 }

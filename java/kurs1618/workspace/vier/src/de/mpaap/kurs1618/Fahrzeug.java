@@ -7,21 +7,24 @@ package de.mpaap.kurs1618;
  */
 
 public class Fahrzeug {
-    private int kilometerzaehler;
-    private int tank;
+    private float kilometerzaehler;
+    private float tank;
     private String marke;
     private String farbe;
     
-    Fahrzeug(int kilometerzaehler, int tank, String marke, String farbe){
+    Fahrzeug(float kilometerzaehler, float tank, String marke, String farbe){
         this.kilometerzaehler = kilometerzaehler;
         this.tank = tank;
         this.marke = marke;
         this.farbe = farbe;
     }
-    public int kilometerAnzeige() {
+    public void updateKilometer(float km) {
+        kilometerzaehler += km;
+    }
+    public float getKilometerzaehler() {
         return kilometerzaehler;
     }
-    public int tankAnzeige() {
+    public float getTank() {
         return tank;
     }
     public String getMarke() {
