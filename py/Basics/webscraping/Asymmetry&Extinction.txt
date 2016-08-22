@@ -1,0 +1,597 @@
+ <h2>
+  Summary
+ </h2>
+ <p>
+  Someone who wants to do good is faced with the question how to prioritize preventing badness vs. bringing about more individuals with good lives. A relevant idea is the ‘Asymmetry,’ which roughly says that it is bad to bring into existence individuals with bad lives but not good to add individuals with good lives. One objection to the Asymmetry is extinction thought experiments where the reader is asked to compare one outcome in which humanity survives to one in which it goes extinct. The objection says that it is better if humanity survives, which is taken to be a counterargument to the Asymmetry. But, as Professor Meacham has pointed out, the objection lacks force against the Asymmetry because it drags in irrelevant intuitions about, for example, the value of the preservation of species, cultural diversity, traditions, and knowledge. Such extinction thought experiments are not good reasons to doubt the Asymmetry.
+  <br/>
+ </p>
+ <h2>
+  <span id="The_Asymmetry">
+   The Asymmetry
+  </span>
+ </h2>
+ <p>
+  I will be concerned with what has been called the ‘
+  <a href="https://en.wikipedia.org/wiki/The_Asymmetry_(population_ethics)">
+   Asymmetry
+  </a>
+  .’ Professor and philosopher Nils Holtug is a well-known writer on population ethics and he describes it as follows:
+ </p>
+ <blockquote>
+  <p>
+   While it detracts from the value of an outcome to add individuals whose lives are of overall negative value, it does not increase the value of an outcome to add individuals whose lives are of overall positive value. This ‘Asymmetry’ has famously been defended by Narveson (1967, pp. 69-71).
+   <span class="ajs-footnote">
+    <a href="#link_ajs-fn-id_1-263" id="back_ajs-fn-id_1-263">
+     1
+    </a>
+   </span>
+  </p>
+ </blockquote>
+ <h2>
+  <span id="Extinction_thought_experiments">
+   Extinction thought experiments
+  </span>
+ </h2>
+ <p>
+  Holtug finds that the Asymmetry has counterintuitive implications.
+  <span class="ajs-footnote">
+   <a href="#link_ajs-fn-id_2-263" id="back_ajs-fn-id_2-263">
+    2
+   </a>
+  </span>
+  One of implications that he finds counterintuitive is what he calls the
+  <em>
+   Problem of Extinction
+  </em>
+  .
+ </p>
+ <blockquote>
+  <p>
+   Suppose that, sometime in the future, the last few inhabitants of earth can either cause the world to be fully populated again or bring the existence of the human race to an end by refraining from having children. Let us assume that they will be equally happy themselves, whichever choice they make.... Amongst the billions of people they could cause to exist, there would surely be a few (say one in every 100,000) who would be miserable.... [The claim that the outcome in which the existence of the human race comes to an end would be better than the outcome resulting from having children] is pretty counterintuitive, to say the least.
+   <span class="ajs-footnote">
+    <a href="#link_ajs-fn-id_3-263" id="back_ajs-fn-id_3-263">
+     3
+    </a>
+   </span>
+  </p>
+ </blockquote>
+ <h2>
+  <span id="Thought_experiments_should_not_drag_in_distorting_assumptions_and_intuitions">
+   Thought experiments should not drag in distorting assumptions and intuitions
+  </span>
+ </h2>
+ <p>
+  In his text, Holtug assumes a welfarist view of outcome values.
+ </p>
+ <blockquote>
+  <p>
+   I need to make a comment about the conceptual framework I shall employ. I am concerned with axiology. More precisely, my concern is with principles that order outcomes with respect of welfare. In fact, for the sake of simplicity, I shall assume a welfarist doctrine according to which outcome value is a function only of the welfare of individuals.
+   <span class="ajs-footnote">
+    <a href="#link_ajs-fn-id_4-263" id="back_ajs-fn-id_4-263">
+     4
+    </a>
+   </span>
+  </p>
+ </blockquote>
+ <p>
+  According to such a welfarist view (welfarism), biodiversity, cultural diversity, art, and so on have no final value, no value in themselves. For example, consider the two following outcomes: (a) Zebras, rhinos, and giraffes exist. (b) Of the three, only zebras exist, the rhinos and giraffes have become extinct. If (a) and (b) are equal with the respect to the welfare of individuals, welfarism implies that (a) and (b) are equally valuable outcomes. The fact that there are fewer species in (b) does not in itself matter for the value of the outcome, according to welfarism.
+ </p>
+ <p>
+  Given Holtug’s welfarist assumption, he wishes to consider thought experiments where the only difference between the outcomes is the welfare of individuals, and where potential non-welfarist values are held constant in all outcomes.
+ </p>
+ <blockquote>
+  <p>
+   I shall consider outcomes that differ
+   <i>
+    only
+   </i>
+   with respect of welfare, and so even a non-welfarist could accept my claims about how to rank
+   <i>
+    these
+   </i>
+   outcomes. One need only add that, once other values enter the scene, the principles of which these rankings are based do not give the full picture. Besides welfare and functions thereof, this picture may involve other values.
+   <span class="ajs-footnote">
+    <a href="#link_ajs-fn-id_5-263" id="back_ajs-fn-id_5-263">
+     5
+    </a>
+   </span>
+  </p>
+ </blockquote>
+ <p>
+  That is, he wants to consider only outcomes where non-welfarist values do not “enter the scene.” Presumably, he means that this applies also to his
+  <em>
+   Problem of Extinction
+  </em>
+  thought experiment.
+ </p>
+ <p>
+  In the case of a thought experiments that aims to undermine the Asymmetry, the outcomes should only differ with respect to the
+  <em>
+   additional
+  </em>
+  individuals and their welfare, since the Asymmetry can obviously acknowledge that adding individuals to an outcome can increase the value of the outcome, for example if the parents become better off by having children. Holtug tries to guard against such potentially distorting assumptions and intuitions by, for example, stipulating in the
+  <em>
+   Problem of Extinction
+  </em>
+  that the last few humans have a
+  <em>
+   voluntary
+  </em>
+  choice to procreate or not, and that they will be
+  <em>
+   equally happy
+  </em>
+  whatever they choose.
+ </p>
+ <p>
+  Finally, to illustrate, I want to sketch how a thought experiment should
+  <em>
+   not
+  </em>
+  be constructed if it aims to undermine the Asymmetry. The following would be a poor such thought experiment:
+ </p>
+ <blockquote>
+  <p>
+   Due to previous activities by humans, a certain area of nature is threatened. This area happens to be the most beautiful and complex piece of nature on earth, with many endangered animal species and kinds of plants that exist only in this area. The area is looked after and protected by a small group of humans. The group also happens to be the last speakers of an ancient language. If they have children, the area of nature and the language will continue to be preserved (assume forever), if they do not, the area will be destroyed and the language will disappear forever. Assume that the group would be equally well off whether or not they have children and that their children and all subsequent generations in these lineages would have good lives.
+  </p>
+ </blockquote>
+ <p>
+  Even if it would be intuitive that the outcome in which the group has children would be better, this is a weak argument against the Asymmetry since the scenario drags in a host of irrelevant intuitions about beauty, complexity, the environment, species preservation, and preservation of languages.
+ </p>
+ <h2>
+  <span id="Do_extinction_thought_experiments_drag_in_distorting_assumptions_and_intuitions">
+   Do extinction thought experiments drag in distorting assumptions and intuitions?
+  </span>
+ </h2>
+ <p>
+  Associate Professor of Philosophy Christopher J. G. Meacham responds to Holtug’s (and R. I. Sikora’s) discussion of extinction.
+  <span class="ajs-footnote">
+   <a href="#link_ajs-fn-id_6-263" id="back_ajs-fn-id_6-263">
+    6
+   </a>
+  </span>
+  A part of Meacham’s response is that the extinction
+ </p>
+ <blockquote>
+  <p>
+   case drags in a number of misleading or orthogonal intuitions, such as implicit assumptions about the desires of the populace and the consequences of such choices on their well-being, sentiments about things like the “right to procreate”, intuitions regarding the intrinsic value of the survival of the species, and so on. (See Wolf (1997) for a discussion of some of these issues.) And these issues are orthogonal to the question of whether or not there’s an asymmetry with respect to well-being.
+   <span class="ajs-footnote">
+    <a href="#link_ajs-fn-id_7-263" id="back_ajs-fn-id_7-263">
+     7
+    </a>
+   </span>
+  </p>
+ </blockquote>
+ <p>
+  As Meacham mentions, the
+  <em>
+   Problem of Extinction
+  </em>
+  seems to drag in distorting assumptions and intuitions at least about the value of species preservation
+  <em>
+   in itself
+  </em>
+  . As I noted above, Holtug wishes to compare outcomes that differ only with respect to welfare, and where non-welfarist values do not “enter the scene.” But it seems that non-welfarist values in fact enter the scene in the
+  <em>
+   Problem of Extinction
+  </em>
+  , which is a problem for such a thought experiment, at least if it aims to undermine the Asymmetry. The reason why it is a problem is that even if a reader agrees that extinction would be the worse outcome, it is unclear whether the thought experiment undermines the Asymmetry or the assumption of welfarism. That is, even if one finds it counterintuitive in the
+  <em>
+   Problem of Extinction
+  </em>
+  that the outcome with no humans would be better (or not worse than) the populated outcome, this could be taken as supporting the idea that welfarism is incorrect, that non-welfarist values such as human species preservation has value, rather than being taken as undermining the Asymmetry, which only says that, in itself, it does not increases the value of an outcome to add individuals with good lives, all else equal.
+ </p>
+ <p>
+  It is fully compatible with the Asymmetry to hold in the
+  <em>
+   Problem of Extinction
+  </em>
+  that extinction would be worse
+  <em>
+   because
+  </em>
+  it is worse in some non-welfarist way, for example because it has value in itself that the human species continues to exist, even though it, in general, does not increase the value of an outcome to add more individuals with good lives, all else equal. Similarly, many environmentalist would likely say that it is valuable that a certain animal species continues to exist, without holding the view that it would
+  <em>
+   in itself
+  </em>
+  be better the more individuals of this species there are, holding all else equal, assuming that the individuals have good lives, and disregarding instrumental reasons such as avoiding genetic drift. Besides species preservation, other potentially distorting non-welfarist values that the
+  <em>
+   Problem of Extinction
+  </em>
+  risks dragging in include the value of the continuation of cultural diversity, traditions, humanity’s accumulated knowledge, and the preservation of great works of art and architecture.
+ </p>
+ <h2>
+  <span id="What_to_do">
+   What to do?
+  </span>
+ </h2>
+ <p>
+  I have pointed to that extinction thought experiments are problematic as arguments against the Asymmetry if they compare the value of an outcome in which humans exist to another outcome in which humans no longer exist. Sure, it is difficult to completely isolate the issue of interest in a thought experiment, but stipulating that only one of the considered outcomes involves species extinction, the discontinuation of traditions, and so on, unnecessarily opens up for distorting intuitions and values that are irrelevant for the Asymmetry. There are more clean thought experiments that can be used to “test” the Asymmetry against one’s intuitions or to argue against the Asymmetry. For example, Meacham suggests another thought experiment instead of extinction cases.
+ </p>
+ <blockquote>
+  <p>
+   We can get around these complications by setting up a more straightforward case, such as the following: a deity is able to bring about one of two outcomes, both full of well-off subjects who will propagate indefinitely. But one outcome contains an additional pair of subjects, one who is extremely well-off (has a well-being as high as you like), and one who is so miserable that her life isn’t worth living, though only barely so. This case avoids my complaints. And asymmetric theories like [Meacham’s] SHMV [Saturating Harm Minimizing View] will maintain that the deity should decline to create the additional pair of subjects. But once we clean up the case like this, I no longer have the intuition that this prescription is incorrect.
+   <span class="ajs-footnote">
+    <a href="#link_ajs-fn-id_8-263" id="back_ajs-fn-id_8-263">
+     8
+    </a>
+   </span>
+  </p>
+ </blockquote>
+ <p>
+  One could alter this thought experiment so that the deity would create more than two additional individuals: it could be 100,000 additional well-off individuals and one additional individual whose life isn’t worth living. Without getting into the full list of advantages and drawbacks of Meacham’s thought experiment, I want to note that one of its advantages is that Meacham holds the extinction variable constant in both of the hypothetical outcomes by assuming that nothing will go extinct in either outcome; that the subjects will propagate indefinitely in both outcomes. By doing so, he of course leaves the realm of extinction thought experiments, which seems like a good idea to do.
+ </p>
+ <p>
+  If one wants extinction to be a part of the thought experiment, one could construct a thought experiment so that extinction is a part of both outcomes. For example by altering Holtug’s thought experiment as follows:
+ </p>
+ <blockquote>
+  <p>
+   <em>
+    Extinction Sooner or Later
+   </em>
+   : Suppose that, sometime in the future, the last few, say 100, inhabitants of earth can either have children or bring the existence of the human race to an end by refraining from having children. Let us assume that they will be equally happy themselves, whichever choice they make. If they have children, the individuals living 10 generations later will have no interest in having children, will not procreate, and will thereby bring the existence of the human race to an end. In other words, the human race will cease to exist in both outcomes, but in one outcome it will last 10 generations longer. Assume that total population size will stay roughly stable over time and that all individuals in all generations will have good lives. All other potential values are equivalent in both outcomes: the outcome with the 10 extra generations does not affect nonhuman animals or the environment positively or negatively, there is no new great art or substantial new knowledge created by the 10 extra generations, and so on.
+  </p>
+ </blockquote>
+ <p>
+  One could ask: is the outcome in which the extinction of the human race occurs 10 generations later better
+  <em>
+   simply in virtue of
+  </em>
+  that there exist more individuals with good lives before the end? It seems that Swedish philosopher Lars Bergström would say that the outcomes are of roughly equal value.
+ </p>
+ <blockquote>
+  <p>
+   As far as I can see, it makes no greater difference whether after us and until the extinction of humanity there would come 10 or 100 completely happy generations. (My translation)
+   <span class="ajs-footnote">
+    <a href="#link_ajs-fn-id_9-263" id="back_ajs-fn-id_9-263">
+     9
+    </a>
+   </span>
+  </p>
+ </blockquote>
+ <p>
+  A problem with
+  <em>
+   Extinction Sooner or Later
+  </em>
+  as a thought experiment is that it may still drag in intuitions that are irrelevant to the Asymmetry; for example, intuitions about the value of the
+  <em>
+   longer
+  </em>
+  continuation of a species, traditions, communities, or knowledge. Another option is to hold the time aspect constant and just vary the number of individuals in the outcomes.
+ </p>
+ <blockquote>
+  <p>
+   <em>
+    Extinction of Fewer or More
+   </em>
+   : Suppose that, sometime in the future, there are only a few inhabitants of earth. They will have children, which will in turn have children, and so on. But the individuals living 10 generations later will have no interest in having children, will not procreate, and will thereby bring the existence of the human race to an end. Assume that all individuals in all generations will have good lives, and that the starting population size (the number of the few inhabitants) will stay roughly stable over time until extinction. In one outcome, the starting population is 100 individuals and in another outcome it is 200 individuals. Assume that all other potential values are equivalent in both outcomes: the difference between the outcomes does not affect nonhuman animals or the environment positively or negatively, there is no difference in the great art or new knowledge created, and so on. In other words, the human race will cease to exist at the same time in both outcomes, but in one outcome the population size until extinction is 100 individuals and in the other outcome it is 200 individuals.
+  </p>
+ </blockquote>
+ <p>
+  Although Meacham’s thought experiment (perhaps with a change of the number of additional well-off individuals created) and my sketched thought experiments
+  <em>
+   Extinction Sooner or Later
+  </em>
+  and
+  <em>
+   Extinction of Fewer or More
+  </em>
+  are not perfect they still seem to drag in fewer irrelevant intuitions than the
+  <em>
+   Problem of Extinction
+  </em>
+  , and they seem to be better and more clean “tests” of the Asymmetry.
+ </p>
+ <p>
+  To conclude, one should be cautious when confronted with an extinction thought experiment that is claimed to undermine the Asymmetry because the thought experiment may very well drag in distorting assumptions and intuitions that would make it a weak objection to the Asymmetry. This is especially the case when only one of the outcomes in the thought experiment involves extinction.
+  <span class="ajs-footnote">
+   <a href="#link_ajs-fn-id_10-263" id="back_ajs-fn-id_10-263">
+    10
+   </a>
+  </span>
+ </p>
+ <h2>
+  <span id="Works_cited">
+   Works cited
+  </span>
+ </h2>
+ <ul>
+  <li>
+   Bergström, Lars. “Pessimismens Konsekvenser.” In
+   <em>
+    En Filosofibok Tillägnad Anders Wedberg
+   </em>
+   , 24–34. Stockholm: Bonniers, 1978.
+  </li>
+  <li>
+   Holtug, Nils. “Person-affecting Moralities.” In
+   <em>
+    The Repugnant Conclusion
+   </em>
+   , edited by Jesper Ryberg and Torbjörn Tännsjö, 129–61. Dordrecht: Kluwer, 2004.
+  </li>
+  <li>
+   Narveson, Jan. “Utilitarianism and New Generations.”
+   <em>
+    Mind
+   </em>
+   76 (1967): 62–72.
+   <a href="http://www.colorado.edu/philosophy/heathwood/6100/Narveson%20-%20Utilitarianism%20and%20New%20Generations.pdf">
+    Ungated
+   </a>
+   .
+  </li>
+  <li>
+   McMahan, Jefferson. “Problems of Population Policy.”
+   <em>
+    Ethics
+   </em>
+   92 (1981): 96–127.
+  </li>
+  <li>
+   Meacham, Christopher J. G. “Person-affecting Views and Saturating Counterpart Relations.”
+   <em>
+    Philosophical Studies
+   </em>
+   158 (2012): 257–87.
+   <a href="http://philpapers.org/archive/MEAPVA.pdf">
+    Ungated
+   </a>
+   .
+  </li>
+  <li>
+   Sikora, R. I. “Is it Wrong to Prevent the Existence of Future Generations?” In
+   <em>
+    Obligations to Future Generations
+   </em>
+   , edited by R. I. Sikora and Brian Barry, 112–66. Philadelphia: The White Horse Press, 1978.
+  </li>
+  <li>
+   Wolf, Clark. “Person‐affecting Utilitarianism and Population Policy; Or, Sissy Jupe's Theory of Social Choice.” In
+   <em>
+    Contingent Future Persons
+   </em>
+   , edited by Nick Fotion and Jan C. Heller, 99–122. Dordrecht: Kluwer, 1997.
+   <a href="http://www.public.iastate.edu/~jwcwolf/Papers/JUPE.HTM">
+    Ungated
+   </a>
+   .
+  </li>
+ </ul>
+ <h2>
+  <span id="Footnotes">
+   Footnotes
+  </span>
+ </h2>
+ <ol class="ajs-fn">
+  <li>
+   <a id="link_ajs-fn-id_1-263">
+   </a>
+   Holtug, “Person-affecting Moralities,” 138. As Holtug says, “the label is McMahan’s (1981), p. 100. Strictly speaking McMahan formulates the Asymmetry in terms of reasons rather than the value of outcomes, but for the present axiological purposes, my formulation is more appropriate” (p. 157).
+   <a class="ajs-back-link" href="#back_ajs-fn-id_1-263">
+    (back)
+   </a>
+  </li>
+  <li>
+   <a id="link_ajs-fn-id_2-263">
+   </a>
+   Ibid., 138–39.
+   <a class="ajs-back-link" href="#back_ajs-fn-id_2-263">
+    (back)
+   </a>
+  </li>
+  <li>
+   <a id="link_ajs-fn-id_3-263">
+   </a>
+   Ibid., 139–40. R. I. Sikora discusses a similar case in “Is it Wrong to Prevent the Existence of Future Generations?” 136–40.
+   <a class="ajs-back-link" href="#back_ajs-fn-id_3-263">
+    (back)
+   </a>
+  </li>
+  <li>
+   <a id="link_ajs-fn-id_4-263">
+   </a>
+   Holtug, “Person-affecting Moralities,” 129.
+   <a class="ajs-back-link" href="#back_ajs-fn-id_4-263">
+    (back)
+   </a>
+  </li>
+  <li>
+   <a id="link_ajs-fn-id_5-263">
+   </a>
+   Ibid.
+   <a class="ajs-back-link" href="#back_ajs-fn-id_5-263">
+    (back)
+   </a>
+  </li>
+  <li>
+   <a id="link_ajs-fn-id_6-263">
+   </a>
+   Meacham, “Person-affecting Views,” 280. Strictly speaking, Meacham does not respond exactly to Holtug’s
+   <em>
+    Problem of Extinction
+   </em>
+   since Meacham discusses normative issues (more precicely, what we
+   <em>
+    should do
+   </em>
+   ) and Holtug axiological (more precisely, ordering outcomes in respect of welfare), but Meacham’s response still works as a response to the
+   <em>
+    Problem of Extinction
+   </em>
+   .
+   <a class="ajs-back-link" href="#back_ajs-fn-id_6-263">
+    (back)
+   </a>
+  </li>
+  <li>
+   <a id="link_ajs-fn-id_7-263">
+   </a>
+   Ibid.
+   <a class="ajs-back-link" href="#back_ajs-fn-id_7-263">
+    (back)
+   </a>
+  </li>
+  <li>
+   <a id="link_ajs-fn-id_8-263">
+   </a>
+   Ibid., 280–81.
+   <a class="ajs-back-link" href="#back_ajs-fn-id_8-263">
+    (back)
+   </a>
+  </li>
+  <li>
+   <a id="link_ajs-fn-id_9-263">
+   </a>
+   Bergström, “Pessimismens Konsekvenser,” 25.
+   <a class="ajs-back-link" href="#back_ajs-fn-id_9-263">
+    (back)
+   </a>
+  </li>
+  <li>
+   <a id="link_ajs-fn-id_10-263">
+   </a>
+   I am grateful to Lukas Gloor, Brian Tomasik, and Magnus Vinding for helpful comments on earlier versions of this essay, and to Christopher J. G. Meacham for answering questions during my work on it.
+   <a class="ajs-back-link" href="#back_ajs-fn-id_10-263">
+    (back)
+   </a>
+  </li>
+ </ol>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_1-263" style="display:none;margin:0;">
+  <div>
+   Holtug, “Person-affecting Moralities,” 138. As Holtug says, “the label is McMahan’s (1981), p. 100. Strictly speaking McMahan formulates the Asymmetry in terms of reasons rather than the value of outcomes, but for the present axiological purposes, my formulation is more appropriate” (p. 157).
+  </div>
+ </div>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_2-263" style="display:none;margin:0;">
+  <div>
+   Ibid., 138–39.
+  </div>
+ </div>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_3-263" style="display:none;margin:0;">
+  <div>
+   Ibid., 139–40. R. I. Sikora discusses a similar case in “Is it Wrong to Prevent the Existence of Future Generations?” 136–40.
+  </div>
+ </div>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_4-263" style="display:none;margin:0;">
+  <div>
+   Holtug, “Person-affecting Moralities,” 129.
+  </div>
+ </div>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_5-263" style="display:none;margin:0;">
+  <div>
+   Ibid.
+  </div>
+ </div>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_6-263" style="display:none;margin:0;">
+  <div>
+   Meacham, “Person-affecting Views,” 280. Strictly speaking, Meacham does not respond exactly to Holtug’s
+   <em>
+    Problem of Extinction
+   </em>
+   since Meacham discusses normative issues (more precicely, what we
+   <em>
+    should do
+   </em>
+   ) and Holtug axiological (more precisely, ordering outcomes in respect of welfare), but Meacham’s response still works as a response to the
+   <em>
+    Problem of Extinction
+   </em>
+   .
+  </div>
+ </div>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_7-263" style="display:none;margin:0;">
+  <div>
+   Ibid.
+  </div>
+ </div>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_8-263" style="display:none;margin:0;">
+  <div>
+   Ibid., 280–81.
+  </div>
+ </div>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_9-263" style="display:none;margin:0;">
+  <div>
+   Bergström, “Pessimismens Konsekvenser,” 25.
+  </div>
+ </div>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_10-263" style="display:none;margin:0;">
+  <div>
+   I am grateful to Lukas Gloor, Brian Tomasik, and Magnus Vinding for helpful comments on earlier versions of this essay, and to Christopher J. G. Meacham for answering questions during my work on it.
+  </div>
+ </div>
+ <div class="sharedaddy sd-sharing-enabled">
+  <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
+   <h3 class="sd-title">
+    Share this:
+   </h3>
+   <div class="sd-content">
+    <ul>
+     <li class="share-facebook">
+      <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-263" href="http://dev.foundational-research.org/the-asymmetry-and-extinction-thought-experiments/?share=facebook" rel="nofollow" target="_blank" title="Click to share on Facebook">
+       <span>
+       </span>
+       <span class="sharing-screen-reader-text">
+        Click to share on Facebook (Opens in new window)
+       </span>
+      </a>
+     </li>
+     <li class="share-twitter">
+      <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-263" href="http://dev.foundational-research.org/the-asymmetry-and-extinction-thought-experiments/?share=twitter" rel="nofollow" target="_blank" title="Click to share on Twitter">
+       <span>
+       </span>
+       <span class="sharing-screen-reader-text">
+        Click to share on Twitter (Opens in new window)
+       </span>
+      </a>
+     </li>
+     <li class="share-reddit">
+      <a class="share-reddit sd-button share-icon no-text" data-shared="" href="http://dev.foundational-research.org/the-asymmetry-and-extinction-thought-experiments/?share=reddit" rel="nofollow" target="_blank" title="Click to share on Reddit">
+       <span>
+       </span>
+       <span class="sharing-screen-reader-text">
+        Click to share on Reddit (Opens in new window)
+       </span>
+      </a>
+     </li>
+     <li class="share-end">
+     </li>
+    </ul>
+   </div>
+  </div>
+ </div>
+</div>
+<div class="clearfix">
+</div>
+<div class="entry-content post-footer-n-pagination">
+ <div class="metadata">
+  <ul>
+   <li class="meta_date">
+   </li>
+   <li class="meta_tags">
+    By
+    <a href="http://dev.foundational-research.org/author/simon-knutsson/">
+     Simon Knutsson
+    </a>
+    .
+   </li>
+   <li class="meta_tags">
+    <span class="tags-links">
+     Topic:
+     <a href="http://dev.foundational-research.org/topic/ethics/" rel="tag">
+      Ethics
+     </a>
+     .
+    </span>
+   </li>
+   <li class="meta_tags">
+    <a href="/research">
+     View all research
+    </a>
+    .
+   </li>
+  </ul>
+  <div class="clearfix">
+  </div>
+ </div>
+</div>
