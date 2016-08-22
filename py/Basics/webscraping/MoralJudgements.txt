@@ -1,0 +1,594 @@
+<div class="entry-content">
+ <p class="body-dark">
+  First written: 4 July 2013; last update: 28 Nov. 2013
+ </p>
+ <h2>
+  Summary
+ </h2>
+ <p>
+  Different ethical intuitions place different weight on the importance of intentions vs. outcomes in evaluating our actions. One might think that consequentialists would favor the outcome-based approach, and indeed, judging based on outcomes is sometimes the best way to optimize performance. However, in other circumstances – e.g., when you have strong prior knowledge or when you can't afford multiple trial-and-error rounds – moral assessment should be based on whether a person took the option that had the highest ex-ante expected value rather than whether it actually brought about the best results. Comparisons of moral evaluation with employee reviews can be illuminating.
+ </p>
+ <div class="no_bullets" id="toc_container">
+  <p class="toc_title">
+   Contents
+  </p>
+  <ul class="toc_list">
+   <li>
+    <a href="#Epigraphs">
+     <span class="toc_number toc_depth_1">
+      1
+     </span>
+     Epigraphs
+    </a>
+   </li>
+   <li>
+    <a href="#Introduction">
+     <span class="toc_number toc_depth_1">
+      2
+     </span>
+     Introduction
+    </a>
+   </li>
+   <li>
+    <a href="#The_model-free_approach">
+     <span class="toc_number toc_depth_1">
+      3
+     </span>
+     The model-free approach
+    </a>
+   </li>
+   <li>
+    <a href="#The_model-based_approach">
+     <span class="toc_number toc_depth_1">
+      4
+     </span>
+     The model-based approach
+    </a>
+   </li>
+   <li>
+    <a href="#The_mixed_approach">
+     <span class="toc_number toc_depth_1">
+      5
+     </span>
+     The mixed approach
+    </a>
+   </li>
+   <li>
+    <a href="#Comparison_of_the_strategies">
+     <span class="toc_number toc_depth_1">
+      6
+     </span>
+     Comparison of the strategies
+    </a>
+   </li>
+   <li>
+    <a href="#Analogy_to_performance_assessments">
+     <span class="toc_number toc_depth_1">
+      7
+     </span>
+     Analogy to performance assessments
+    </a>
+    <ul>
+     <li>
+      <a href="#Loss_aversion_and_demoralization">
+       <span class="toc_number toc_depth_2">
+        7.1
+       </span>
+       Loss aversion and demoralization
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li>
+    <a href="#Footnotes">
+     <span class="toc_number toc_depth_1">
+      8
+     </span>
+     Footnotes
+    </a>
+   </li>
+  </ul>
+ </div>
+ <h2 id="Epigraphs">
+  <span id="Epigraphs">
+   Epigraphs
+  </span>
+ </h2>
+ <blockquote>
+  <p>
+   "if you confront the universe with good intentions in your heart, it will reflect that and reward your intent. Usually." --
+   <a href="http://www.searchquotes.com/quotation/I'm_delirious_with_joy._It_proves_that_if_you_confront_the_universe_with_good_intentions_in_your_hea/230073/">
+    J Michael Straczynski
+   </a>
+  </p>
+  <p>
+   "Remember, people will judge you by your actions, not your intentions. You may have a heart of gold -- but so does a hard-boiled egg." --
+   <a href="http://www.quotegarden.com/action.html">
+    author unknown
+   </a>
+  </p>
+ </blockquote>
+ <h2 id="Introduction">
+  <span id="Introduction">
+   Introduction
+  </span>
+ </h2>
+ <p>
+  In "
+  <a href="http://www.utilitarian-essays.com/judgment.html">
+   Instrumental Judgment and Expectational Consequentialism
+  </a>
+  ," I reviewed several cases in which the moral evaluation of an action depended on the ex-ante expected value of the action rather than the particular result that occurred. In these instances, consequentialists look like their moral evaluations are based on intentions.
+  <span class="ajs-footnote">
+   <a href="#link_ajs-fn-id_1-275" id="back_ajs-fn-id_1-275">
+    1
+   </a>
+  </span>
+  For example, from "
+  <a href="http://www.telegraph.co.uk/history/world-war-two/8996576/Adolf-Hitler-nearly-drowned-as-a-child.html">
+   Adolf Hitler 'nearly drowned as a child'
+  </a>
+  ":
+ </p>
+ <blockquote>
+  <p>
+   "Everyone in Passau knew the story. Some of the other stories told about him were that he never learned to swim and needed glasses," she wrote. "In 1894, while playing tag with a group of other children, the way many children do in Passau to this day, Adolf fell into the river. The current was very strong and the water ice cold, flowing as it did straight from the mountains. Luckily for young Adolf, the son of the owner of the house where he lived was able to pull him out in time and so saved his life."
+  </p>
+ </blockquote>
+ <p>
+  In rare cases, saving drowning children may cause more harm than good. Does this mean their rescuers should be scolded in such cases for doing the wrong thing? This is a complicated question, but I think a plausible answer is that, no, they should be praised for
+  <i>
+   trying
+  </i>
+  to do the right thing. An intention-based moralist might phrase this by saying "their hearts were in the right place," even though the actions sometimes went badly.
+ </p>
+ <h2 id="The_modelfree_approach">
+  <span id="The_model-free_approach">
+   The model-free approach
+  </span>
+ </h2>
+ <p>
+  Suffering reduction can be seen as an
+  <a href="http://en.wikipedia.org/wiki/Optimal_control">
+   optimal control
+  </a>
+  problem: Choosing an action policy to minimize suffering. One direct and computationally feasible approach to optimal control
+  <a href="http://webdocs.cs.ualberta.ca/~sutton/papers/sutton-barto-williams-91.pdf">
+   is reinforcement learning
+  </a>
+  (RL).
+ </p>
+ <p>
+  We have some control over RL rewards that we experience through our evaluation of an action: We feel bad for doing the wrong thing and good for doing the right thing. If our aim is to shape the behavior of others, we can praise them for actions that reduce suffering and criticize them for actions that increase suffering. If, hypothetically, we were to set these reward/punishment values for an actor (possibly including ourselves) proportionally to the aggregate suffering-reduction/increase impact of the actor's choices, then if the actor optimizes undiscounted expected reward, his own RL process would cause him to converge to the utilitarian-optimal actions. Of course, it's not possible to do this completely, but we can tweak our self-assessments and interpersonal moral approbation in ways that change the reward values so as to reduce suffering in the future.
+ </p>
+ <p>
+  Consider this example:
+ </p>
+ <blockquote>
+  <p>
+   <span style="text-decoration: underline;">
+    Fishing girl
+   </span>
+   . Mariko is part of a family that earns its living by fishing in a small boat off the coast. Mariko feels sorry for the fish but knows that her family will continue to kill them no matter what she does. She volunteers to do the fish killing for the family, because otherwise the family members would just leave the fish to an awful death by asphyxiation.
+  </p>
+  <p>
+   Mariko practices
+   <a href="https://en.wikipedia.org/wiki/Ikejime">
+    ikejime
+   </a>
+   in an effort to destroy the fish brains as quickly as possible. However, despite her best efforts, 1% of the time, she misses the brain, and the fish gets out of control and flops around on the floor for a minute afterward, which is perhaps more painful than if Mariko had not tried to kill it humanely in the first place. Should we blame Mariko for those failure cases?
+  </p>
+ </blockquote>
+ <p>
+  Let's apply
+  <a href="http://en.wikipedia.org/wiki/Q-learning">
+   Q-learning
+  </a>
+  to this example. The initial state is getting a fish to kill, and the possible actions are Ikejime or Asphyxiate.
+  <img align="right" alt="" height="45%" src="http://utilitarian-essays.com/Pacific_cod_caught_on_jigging_gear.jpg" title="'Adult Pacific cod, Gadus macrocephalus, caught on jigging gear aboard the fishing vessel Miss O in April 2007.' See page for author [Public domain], via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Pacific_cod_caught_on_jigging_gear.jpg" width="45%"/>
+ </p>
+ <p>
+  Asphyxiate leads to a state of immense suffering, but let's adjust the suffering scale so that it's represented by value 0. Ikejime leads to one of two possible states: Successful_Ikejime with value +1 and Failed_Ikejime with value -1. Eventually all of these states return back to another state of getting a fish to kill, at which point the process repeats indefinitely. Assume no gamma discount factor but some finite time horizon such that the expected values are finite. Since after an Ikejime action, the probability of Successful_Ikejime is 0.99 and the probability of Failed_Ikejime is 0.01, after enough iterations, Q would float around something implying a per-action value of 0.99-0.01 = 0.98. We can see this from the fact that Q is essentially just an
+  <a href="http://en.wikipedia.org/wiki/Exponential_smoothing">
+   exponential moving average
+  </a>
+  with a smoothing factor equal to the learning rate. Because the Q value 0.98 for ikejime is greater than 0 for asphyxiation, Mariko continues doing ikejime.
+ </p>
+ <p>
+  Of course, real humans may not use exactly Q-learning, but the general intuition remains the same: With enough repetitions of an accurately calibrated reward, an individual's learned behavior should track the utilitarian-optimal behavior without any additional work.
+  <span class="ajs-footnote">
+   <a href="#link_ajs-fn-id_2-275" id="back_ajs-fn-id_2-275">
+    2
+   </a>
+  </span>
+  This "model-free" reinforcement-learning approach suggests that we don't need to deal with expectations or intentions -- just reward or punish based on the actual results, and that's good enough!
+ </p>
+ <h2 id="The_modelbased_approach">
+  <span id="The_model-based_approach">
+   The model-based approach
+  </span>
+ </h2>
+ <p>
+  The RL approach works under the assumptions just mentioned: Accurate calibration of reward between individual and utilitarian evaluations and sufficient samples from which to learn. What happens if we don't have enough samples? For instance, the quote that begins "
+  <a href="http://www.utilitarian-essays.com/judgment.html">
+   Instrumental Judgment and Expectational Consequentialism
+  </a>
+  " comes from Noam Chomsky discussing the Cuban Missile Crisis and noting that even though nuclear war did not result, it was highly probable that it could have resulted, and therefore, those who led to the crisis shouldn't get off the moral hook. This is not a case where you can try the actions multiple times and converge on the best response. Model-free RL has nothing to say here.
+ </p>
+ <p>
+  Instead, we need to use our prior knowledge and models of the world to compute an optimal policy. As a parallel to RL, this could be done using a
+  <a href="http://webdocs.cs.ualberta.ca/~sutton/book/4/node1.html">
+   dynamic programming approach
+  </a>
+  for a Markov decision process. The goal is not to learn but to apply the given model to the situation at hand.
+ </p>
+ <p>
+  When the probabilities are known with certainty, then the model is all we need, and attempting to learn would only introduce noise. For example:
+ </p>
+ <blockquote>
+  <p>
+   <span style="text-decoration: underline;">
+    Coin toss
+   </span>
+   . You can choose to toss a fair coin if you wish. If it's not tossed, nothing happens. If it is tossed and comes heads, 1 extra chicken endures a life of suffering on a factory farm. If it comes tails, 2 chickens are prevented from a life of suffering on a factory farm.
+  </p>
+ </blockquote>
+ <p>
+  In this case, we should stick to the policy of flipping the coin. Even if when we do so, it comes up heads, this should not deter us from what we know is the right policy in the long run.
+ </p>
+ <p>
+  Of course, humans are naturally reinforcement-trained creatures. Flipping a lot of heads is liable to put a crimp in the flipper's enthusiasm, even though, assuming she knows the coin is fair, she should keep flipping. This is a case where the expectational-consequentialist / "good intentions" approach shines, because the flipper can keep her spirits up by remembering that she's doing the right thing even though it doesn't seem that way.
+ </p>
+ <h2 id="The_mixed_approach">
+  <span id="The_mixed_approach">
+   The mixed approach
+  </span>
+ </h2>
+ <p>
+  In almost any real-life situation, we won't have perfect knowledge of the probabilities at hand. Even with the coin-flipping case, after enough successive heads, the flipper should begin to doubt whether the coin is indeed fair (though I assumed that away in the example). Thus, we should indeed keep learning from what we see happen. On the other hand, we might be dealing with a problem that has been extensively studied or where large numbers of people before us have refined the strategy. In this case, we shouldn't place too much weight on the immediate observations that we see; we should instead lean mostly on the prior.
+ </p>
+ <p>
+  As an example, if we were using Q-learning, we could incorporate pre-existing knowledge by setting the initial Q-values to our prior expectations and then using a small learning rate so that we need a lot of additional evidence to change our views.
+  <span class="ajs-footnote">
+   <a href="#link_ajs-fn-id_3-275" id="back_ajs-fn-id_3-275">
+    3
+   </a>
+  </span>
+  In this case, our policy decisions would be dominated by the received wisdom about the values of various actions.
+  <span class="ajs-footnote">
+   <a href="#link_ajs-fn-id_4-275" id="back_ajs-fn-id_4-275">
+    4
+   </a>
+  </span>
+ </p>
+ <p>
+  When the prior strength is high, this kind of prior-influenced RL becomes more and more like the modeling approach. Because our own brains are probably not encoding the prior knowledge or doing the learning updates in the same way as the modeling-like RL approach would advise, we may need to override our internal reinforcement signals and instead keep ourselves happy with following the policy of trusting the model -- e.g., when not letting short-term gains or losses influence our stock-trading behavior. Therefore, we would morally evaluate trusting the model as good rather than the specific outcomes as good or bad, hence again the basic expectational/intent-based approach. We do still update, but the updating is done explicitly through external computations rather than with our
+  <a href="http://www.scholarpedia.org/article/Reward_signals">
+   brain's internal dopamine system
+  </a>
+  .
+ </p>
+ <h2 id="Comparison_of_the_strategies">
+  <span id="Comparison_of_the_strategies">
+   Comparison of the strategies
+  </span>
+ </h2>
+ <p>
+  Interestingly, Sutton and Barto
+  <a href="http://webdocs.cs.ualberta.ca/~sutton/book/ebook/node96.html">
+   discuss
+  </a>
+  a very similar contrast in the reinforcement-learning context:
+ </p>
+ <blockquote>
+  <p>
+   Within a planning agent, there are at least two roles for real experience: it can be used to improve the model (to make it more accurately match the real environment) and it can be used to directly improve the value function and policy using the kinds of reinforcement learning methods we have discussed in previous chapters [such as Q-learning]. The former we call
+   <i>
+    model-learning
+   </i>
+   , and the latter we call
+   <i>
+    direct reinforcement learning
+   </i>
+   (direct RL).
+  </p>
+ </blockquote>
+ <p>
+  If we have lots of existing data, then the model-learning approach is best, but because we are biological creatures who use direct RL in our actions, we need to comfort ourselves about using the model-based approach by reinforcements highlighting our good intentions.
+ </p>
+ <p>
+  Sutton and Barto continue:
+ </p>
+ <blockquote>
+  <p>
+   Both direct and indirect methods have advantages and disadvantages. Indirect methods often make fuller use of a limited amount of experience and thus achieve a better policy with fewer environmental interactions. On the other hand, direct methods are much simpler and are not affected by biases in the design of the model. Some have argued that indirect methods are always superior to direct ones, while others have argued that direct methods are responsible for most human and animal learning. Related debates in psychology and AI concern the relative importance of cognition as opposed to trial-and-error learning, and of deliberative planning as opposed to reactive decision-making.
+  </p>
+ </blockquote>
+ <p>
+  Indeed, there are many cases where explicit learning is suboptimal or even disastrous -- e.g.,
+  <a href="http://lesswrong.com/lw/sg/when_not_to_use_probabilities/">
+   if you're trying to catch a baseball
+  </a>
+  . We can see a strong analogy between this dichotomy and the
+  <a href="http://en.wikipedia.org/wiki/Dual_process_theory">
+   dual process theory
+  </a>
+  of cognition.
+ </p>
+ <p>
+  One failure mode for our natively trained instincts is
+  <a href="http://en.wikipedia.org/wiki/List_of_cognitive_biases">
+   cognitive bias
+  </a>
+  . Another is that our actions may not be reigned in by theoretical considerations like Occam's razor. We can see this with superstition, which is a byproduct of operant conditioning (i.e., direct RL). The operant learning systems in your brain may not realize that the hypothesis that wearing a green shirt improves your test scores beyond placebo effects is vastly more implausible given our understanding of the physical world than the hypothesis that, say, a good night's rest before the exam improves your scores.
+ </p>
+ <p>
+  The modeling approach has risks as well. It too is prone to cognitive biases, like wishful thinking or overconfidence in its predictions. It also opens up the possibility of "cheating," i.e., modifying your beliefs in order to reach the conclusion that you prefer rather than the one that would actually reduce the most suffering. In contrast, it's harder to cheat your brain's learned reward system. Of course, in our appraisals of behavior, we usually condemn cheating: If someone did something that turned out to have negative consequences due to distorting her epistemology in self-serving ways, we don't consider this an instance of "good intentions."
+ </p>
+ <p>
+  Let's record some of these observations:
+ </p>
+ <table border="1">
+  <tbody>
+   <tr>
+    <td>
+    </td>
+    <td>
+     Model-based
+    </td>
+    <td>
+     Model-free
+    </td>
+   </tr>
+   <tr>
+    <td>
+     When to use
+     <span style="color: #ffffff;">
+      .
+     </span>
+    </td>
+    <td>
+     <ul>
+      <li>
+       Have strong prior information, based on past data, theory, or Occam's razor
+      </li>
+      <li>
+       Can perform only one or a few trials, especially when failure would be disastrous
+      </li>
+      <li>
+       If your internal reward system doesn't properly track expected values, e.g., due to loss aversion (see next section)
+      </li>
+      <li>
+       Reduces risk of some biases and superstitions
+      </li>
+     </ul>
+    </td>
+    <td>
+     <ul>
+      <li>
+       Small, everyday actions that happen a lot
+      </li>
+      <li>
+       Failure is not a huge deal
+      </li>
+      <li>
+       Not worth the cognitive/speed costs of explicit modeling
+      </li>
+      <li>
+       Avoids risks of "cheating" the model and some systematic biases
+      </li>
+     </ul>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <h2 id="Analogy_to_performance_assessments">
+  <span id="Analogy_to_performance_assessments">
+   Analogy to performance assessments
+  </span>
+ </h2>
+ <p>
+  In addition to moral judgments of actions, there's another context in which it's common to evaluate based on something like intentions rather than outcomes: Performance assessments. "
+  <a href="http://idioms.thefreedictionary.com/A+for+effort">
+   A for effort
+  </a>
+  " is not just a saying but is commonly used in schools and even in workplaces to some degree. A big portion of your grade or performance review may be based on the amount of work you put in rather than what ended up being achieved.
+ </p>
+ <p>
+  At first this might seem nonsensical. Suppose you're an employer, and your employee is working on a risky project that might produce anywhere between $100K and $300K of company value. In order to maximally incentivize the employee to take the right actions in the project, it seems you should pay a
+  <a href="http://en.wikipedia.org/wiki/Commission_(remuneration)">
+   commission
+  </a>
+  in direct proportion to the value produced (say, 1/2 of it) in order to substantially reduce
+  <a href="http://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem">
+   principal-agent divergence
+  </a>
+  .
+ </p>
+ <p>
+  The problem is that people are loss-averse with respect to compensation. Faced with a choice between a job where the payoffs are random between $50K and $150K vs. a job with an assured payout of $90K, many people would choose the latter. Thus, because evaluating only based on actual outcomes introduces excess noise, it has a disadvantage relative to an effort/intention-based approach.
+ </p>
+ <p>
+  Of course, effort-based evaluation has its own problems, which is why most companies use a mix of effort and results in their assessments. An ineffective employee may have the best of intentions. Even if the employee is effective, it can be harder to assess changes in effort than changes in results at review time. That said,
+  <i>
+   if
+  </i>
+  employee effort could be measured very precisely, then effort-based assessments could in some circumstances be superior to results-based assessments for the reasons discussed earlier in this essay: Actual results (especially in just one year of work) may be noisy and not reflect priors. Of course, actual results matter a lot for updating beliefs about an employee's effectiveness, but if after such an update, you still conclude that the employee had good intentions but merely got unlucky, then you should reward the employee and keep her around.
+ </p>
+ <p>
+  An employer compares results between two employees to (a) assess which one is more competent and (b) motivate the employees to align incentives with the company. A moral actor uses results between two actions to inform the assessment of which is better, but consideration (b) doesn't directly apply in this case, because the possible actions aren't other agents that need motivation. Of course, the actor himself needs motivation to pick the right action, but we can praise him either for model-free or model-based action selection. By definition, a pure-hearted moral actor is perfectly aligned with moral incentives. As external observers, we unfortunately can't always assess good intentions, but we can assess them in ourselves (except insofar as we deceive ourselves), and many religions claim that God can assess them in everyone, thereby skirting information asymmetry. Like in the employer context, our moral feedback to other people should not just reflect their pure-heartedness but also should amend incorrect beliefs they may have about the expected value of different actions.
+ </p>
+ <h3 id="Loss_aversion_and_demoralization">
+  <span id="Loss_aversion_and_demoralization">
+   Loss aversion and demoralization
+  </span>
+ </h3>
+ <p>
+  The comparison of job and moral evaluation highlights another possibility: Just as employees are usually loss-averse with respect to income, moral actors may be loss-averse with respect to what they accomplish. For instance, you
+  <a href="http://en.wikipedia.org/wiki/Status_quo_bias">
+   might feel worse
+  </a>
+  about causing one chicken to be factory-farmed than you feel good about preventing two chickens from being factory-farmed, even though the latter is twice as good on a chicken-by-chicken basis. A loss-averse moral actor may, ceteris paribus, do better with the explicit modeling approach in which actions are assessed based on intention to maximize expected value rather than the actual outcomes, because if he took to heart the actual outcomes, he would be discouraged from taking risks that are net positive altruistically.
+ </p>
+ <p>
+  Evaluating based on outcomes also runs the risk of being demoralizing, given the nature of human psychology. If someone does everything right in terms of ex-ante expectation but gets unlucky with the result, the person might feel "that's not fair" and be discouraged from making a good effort in the future. This is especially true if she sees someone else who made less wise choices but got lucky with success anyway. In theory an RL agent should just shrug this off as one more training example with which to update its assessments of actions, but in practice, a setback of this type might dampen a person's spirits or, in the worst case, turn her away from altruism entirely. If we base praise on expectations instead of outcomes, it's more likely the person will feel good about what she tried to do.
+ </p>
+ <p>
+  One final observation suggested by the comparison of employee reviews with moral evaluations is that, as is often true in practice, our moral evaluations can be a mix of intent-based and outcome-based assessments. The mixing ratio can be determined based on the table in the previous section, depending on which considerations are most important in the given context.
+ </p>
+ <h2>
+  <span id="Footnotes">
+   Footnotes
+  </span>
+ </h2>
+ <ol class="ajs-fn">
+  <li>
+   <a id="link_ajs-fn-id_1-275">
+   </a>
+   By "intentions" in this essay, I mean utilitarian intentions to maximize expected value. I don't mean "pure-hearted" intentions to do other things, like to be virtuous in a way that neglects the urgency of reducing suffering.
+   <a class="ajs-back-link" href="#back_ajs-fn-id_1-275">
+    (back)
+   </a>
+  </li>
+  <li>
+   <a id="link_ajs-fn-id_2-275">
+   </a>
+   Here I'm pretending that human behavior is entirely determined by RL, and it seems very likely this isn't true, given the kludgey nature of the human brain and its multiplicity of behavioral determinants. There may be in-built reflexes that are unlearned, and maybe we can also override the behaviors that RL would advise. For instance, if we were Q-learners, then we would usually take whatever action had optimal Q, but maybe other cognitive processes could trump this?
+   <p>
+    Even within the context of Q-learning, we would sometimes take seemingly-suboptimal actions for the purpose of exploration (or perhaps these exploration values would be incorporated into Q directly through boredom vs. novelty -- see
+    <a href="http://webdocs.cs.ualberta.ca/~sutton/book/ebook/node97.html">
+     Example 9.2
+    </a>
+    in Sutton and Barto for one instance of this). Humans also have rewards that are hard-wired rather than learned, but these are just the intrinsic reward values (unconditioned stimuli) in RL and so aren't an exception to the claim that behavior is determined by RL.
+    <a class="ajs-back-link" href="#back_ajs-fn-id_2-275">
+     (back)
+    </a>
+   </p>
+  </li>
+  <li>
+   <a id="link_ajs-fn-id_3-275">
+   </a>
+   This is not a principled Bayesian approach, but there are many other genuinely Bayesian RL algorithms that could also work for this purpose.
+   <a class="ajs-back-link" href="#back_ajs-fn-id_3-275">
+    (back)
+   </a>
+  </li>
+  <li>
+   <a id="link_ajs-fn-id_4-275">
+   </a>
+   Of course, we shouldn't sit back and only rely on the received wisdom indefinitely. Exploratory learning
+   <a href="http://en.wikipedia.org/wiki/Multi-armed_bandit">
+    is important
+   </a>
+   in addition to exploitation of the model's current predictions.
+   <a class="ajs-back-link" href="#back_ajs-fn-id_4-275">
+    (back)
+   </a>
+  </li>
+ </ol>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_1-275" style="display:none;margin:0;">
+  <div>
+   By "intentions" in this essay, I mean utilitarian intentions to maximize expected value. I don't mean "pure-hearted" intentions to do other things, like to be virtuous in a way that neglects the urgency of reducing suffering.
+  </div>
+ </div>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_2-275" style="display:none;margin:0;">
+  <div>
+   Here I'm pretending that human behavior is entirely determined by RL, and it seems very likely this isn't true, given the kludgey nature of the human brain and its multiplicity of behavioral determinants. There may be in-built reflexes that are unlearned, and maybe we can also override the behaviors that RL would advise. For instance, if we were Q-learners, then we would usually take whatever action had optimal Q, but maybe other cognitive processes could trump this?
+   <p>
+    Even within the context of Q-learning, we would sometimes take seemingly-suboptimal actions for the purpose of exploration (or perhaps these exploration values would be incorporated into Q directly through boredom vs. novelty -- see
+    <a href="http://webdocs.cs.ualberta.ca/~sutton/book/ebook/node97.html">
+     Example 9.2
+    </a>
+    in Sutton and Barto for one instance of this). Humans also have rewards that are hard-wired rather than learned, but these are just the intrinsic reward values (unconditioned stimuli) in RL and so aren't an exception to the claim that behavior is determined by RL.
+   </p>
+  </div>
+ </div>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_3-275" style="display:none;margin:0;">
+  <div>
+   This is not a principled Bayesian approach, but there are many other genuinely Bayesian RL algorithms that could also work for this purpose.
+  </div>
+ </div>
+ <div class="ajs-footnote-popup" id="ajs-fn-id_4-275" style="display:none;margin:0;">
+  <div>
+   Of course, we shouldn't sit back and only rely on the received wisdom indefinitely. Exploratory learning
+   <a href="http://en.wikipedia.org/wiki/Multi-armed_bandit">
+    is important
+   </a>
+   in addition to exploitation of the model's current predictions.
+  </div>
+ </div>
+ <div class="sharedaddy sd-sharing-enabled">
+  <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
+   <h3 class="sd-title">
+    Share this:
+   </h3>
+   <div class="sd-content">
+    <ul>
+     <li class="share-facebook">
+      <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-275" href="http://dev.foundational-research.org/should-we-base-moral-judgments-on-intentions-or-outcomes/?share=facebook" rel="nofollow" target="_blank" title="Click to share on Facebook">
+       <span>
+       </span>
+       <span class="sharing-screen-reader-text">
+        Click to share on Facebook (Opens in new window)
+       </span>
+      </a>
+     </li>
+     <li class="share-twitter">
+      <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-275" href="http://dev.foundational-research.org/should-we-base-moral-judgments-on-intentions-or-outcomes/?share=twitter" rel="nofollow" target="_blank" title="Click to share on Twitter">
+       <span>
+       </span>
+       <span class="sharing-screen-reader-text">
+        Click to share on Twitter (Opens in new window)
+       </span>
+      </a>
+     </li>
+     <li class="share-reddit">
+      <a class="share-reddit sd-button share-icon no-text" data-shared="" href="http://dev.foundational-research.org/should-we-base-moral-judgments-on-intentions-or-outcomes/?share=reddit" rel="nofollow" target="_blank" title="Click to share on Reddit">
+       <span>
+       </span>
+       <span class="sharing-screen-reader-text">
+        Click to share on Reddit (Opens in new window)
+       </span>
+      </a>
+     </li>
+     <li class="share-end">
+     </li>
+    </ul>
+   </div>
+  </div>
+ </div>
+</div>
+<div class="clearfix">
+</div>
+<div class="entry-content post-footer-n-pagination">
+ <div class="metadata">
+  <ul>
+   <li class="meta_date">
+   </li>
+   <li class="meta_tags">
+    By
+    <a href="http://dev.foundational-research.org/author/brian-tomasik/">
+     Brian Tomasik
+    </a>
+    .
+   </li>
+   <li class="meta_tags">
+    <span class="tags-links">
+     Topic:
+     <a href="http://dev.foundational-research.org/topic/ethics/" rel="tag">
+      Ethics
+     </a>
+     .
+    </span>
+   </li>
+   <li class="meta_tags">
+    <a href="/research">
+     View all research
+    </a>
+    .
+   </li>
+  </ul>
+  <div class="clearfix">
+  </div>
+ </div>
+</div>
