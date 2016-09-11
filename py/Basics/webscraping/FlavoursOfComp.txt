@@ -1,0 +1,1196 @@
+<div class="entry-content">
+ <p class="body-dark">
+  First written: 19 Jul. 2014; last update: 13 Aug. 2015
+ </p>
+ <h2>
+  Summary
+ </h2>
+ <p>
+  If we don't understand why we're conscious, how come we're so sure that extremely simple minds are not? I propose to think of consciousness as intrinsic to computation, although different types of computation may have very different types of consciousness – some so alien that we can't imagine them. Since all physical processes are computations, this view amounts to a kind of panpsychism. How we conceptualize consciousness is always a sort of spiritual poetry, but I think this perspective better accounts for why we ourselves are conscious despite not being different in a discontinuous way from the rest of the universe.
+ </p>
+ <div class="no_bullets" id="toc_container">
+  <p class="toc_title">
+   Contents
+  </p>
+  <ul class="toc_list">
+   <li>
+    <a href="#Introduction">
+     <span class="toc_number toc_depth_1">
+      1
+     </span>
+     Introduction
+    </a>
+   </li>
+   <li>
+    <a href="#Given_perfect_neuroscience_where_is_consciousness">
+     <span class="toc_number toc_depth_1">
+      2
+     </span>
+     Given perfect neuroscience, where is consciousness?
+    </a>
+   </li>
+   <li>
+    <a href="#Seeing_consciousness_from_a_third-person_perspective">
+     <span class="toc_number toc_depth_1">
+      3
+     </span>
+     Seeing consciousness from a third-person perspective
+    </a>
+   </li>
+   <li>
+    <a href="#Imagining_other_kinds_of_consciousness">
+     <span class="toc_number toc_depth_1">
+      4
+     </span>
+     Imagining other kinds of consciousness
+    </a>
+    <ul>
+     <li>
+      <a href="#Pretending_to_be_a_worm">
+       <span class="toc_number toc_depth_2">
+        4.1
+       </span>
+       Pretending to be a worm
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li>
+    <a href="#Flavors_of_computation_and_consciousness">
+     <span class="toc_number toc_depth_1">
+      5
+     </span>
+     Flavors of computation and consciousness
+    </a>
+   </li>
+   <li>
+    <a href="#Human_correlates_vs_fundamental_principles">
+     <span class="toc_number toc_depth_1">
+      6
+     </span>
+     Human correlates vs. fundamental principles
+    </a>
+   </li>
+   <li>
+    <a href="#Sentience_and_sapience">
+     <span class="toc_number toc_depth_1">
+      7
+     </span>
+     Sentience and sapience
+    </a>
+   </li>
+   <li>
+    <a href="#Is_The_Rite_of_Spring_classical_music">
+     <span class="toc_number toc_depth_1">
+      8
+     </span>
+     Is The Rite of Spring classical music?
+    </a>
+   </li>
+   <li>
+    <a href="#How_not_to_think_about_panpsychism">
+     <span class="toc_number toc_depth_1">
+      9
+     </span>
+     How not to think about panpsychism
+    </a>
+    <ul>
+     <li>
+      <a href="#Pathetic_fallacy">
+       <span class="toc_number toc_depth_2">
+        9.1
+       </span>
+       Pathetic fallacy
+      </a>
+     </li>
+     <li>
+      <a href="#Mind_dust">
+       <span class="toc_number toc_depth_2">
+        9.2
+       </span>
+       Mind dust
+      </a>
+     </li>
+     <li>
+      <a href="#Combination_problem">
+       <span class="toc_number toc_depth_2">
+        9.3
+       </span>
+       Combination problem
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li>
+    <a href="#Panpsychism_is_about_ethics">
+     <span class="toc_number toc_depth_1">
+      10
+     </span>
+     Panpsychism is about ethics
+    </a>
+   </li>
+   <li>
+    <a href="#Panpsychism_vs_unconscious_sleep">
+     <span class="toc_number toc_depth_1">
+      11
+     </span>
+     Panpsychism vs. unconscious sleep?
+    </a>
+   </li>
+   <li>
+    <a href="#Panpsychism_does_not_imply_environmentalism">
+     <span class="toc_number toc_depth_1">
+      12
+     </span>
+     Panpsychism does not imply environmentalism
+    </a>
+    <ul>
+     <li>
+      <a href="#1_Ecosystems_may_matter_less_than_animals">
+       <span class="toc_number toc_depth_2">
+        12.1
+       </span>
+       1. Ecosystems may matter less than animals
+      </a>
+     </li>
+     <li>
+      <a href="#2_Not_clear_if_the_environment_wants_to_be_preserved_or_changed">
+       <span class="toc_number toc_depth_2">
+        12.2
+       </span>
+       2. Not clear if the environment wants to be preserved or changed
+      </a>
+     </li>
+     <li>
+      <a href="#3_Ecosystems_may_experience_net_suffering">
+       <span class="toc_number toc_depth_2">
+        12.3
+       </span>
+       3. Ecosystems may experience net suffering
+      </a>
+     </li>
+     <li>
+      <a href="#Personal_spirituality_does_not_imply_universal_joy">
+       <span class="toc_number toc_depth_2">
+        12.4
+       </span>
+       Personal spirituality does not imply universal joy
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li>
+    <a href="#Entropy_and_sentience">
+     <span class="toc_number toc_depth_1">
+      13
+     </span>
+     Entropy and sentience
+    </a>
+   </li>
+   <li>
+    <a href="#Acknowledgments">
+     <span class="toc_number toc_depth_1">
+      14
+     </span>
+     Acknowledgments
+    </a>
+   </li>
+  </ul>
+ </div>
+ <h2 id="introduction">
+  <span id="Introduction">
+   Introduction
+  </span>
+ </h2>
+ <blockquote>
+  <p>
+   "don't hold strong opinions about things you don't understand" --
+   <a href="http://derekhess.com/portfolio-items/dont-hold-strong-opinions-about-things-you-dont-understand/">
+    Derek Hess
+   </a>
+  </p>
+ </blockquote>
+ <p>
+  Susan Blackmore
+  <a href="http://www.pointofinquiry.org/gerald_woerlee_and_susan_blackmore_near-death_experiences_and_consciousness">
+   believes
+  </a>
+  the way we typically think about consciousness is fundamentally wrong. Many "theories of consciousness" that scientists advance and even the language we use set us up for a binary notion of consciousness as being one discrete thing that's either on or off.
+ </p>
+ <p>
+  We can tell there's something wrong with our ordinary conceptions when we think about ourselves. Suppose I grabbed a man on the street and described every detail of what your brain is doing at a physical level -- including neuronal firings, evoked potentials, brain waves, thalamocortical loops, and all the rest -- but without using suggestive words like "vision" or "awareness" or "feeling". Very likely he would conclude that this machine was not conscious; it would seem to be just an automaton computing behavioral choices "in the dark". If our conceptualization of consciousness can't even predict our own consciousness, it must be misguided in an important way.
+ </p>
+ <h2 id="perfect-neuroscience">
+  <span id="Given_perfect_neuroscience_where_is_consciousness">
+   Given perfect neuroscience, where is consciousness?
+  </span>
+ </h2>
+ <p>
+  Imagine we have perfect neuroscience knowledge. We understand how every neuron in the brain is hooked up, how it fires, and what electrical and chemical factors modulate it. We understand how brain networks interact to produce complex patterns. We have high-level intuitions for thinking about what the functions of various neural operations are, in a similar way as a programmer understands the "gist" of what a complex algorithm is doing. Given all this knowledge, we could trace every aspect of your consciousness. Every thought and feeling would have a signature in this neural collective. Nothing would be hidden exclusively to your subjective experience; everything would have a physical, observable correlate in the neural data.
+ </p>
+ <p>
+  We need a conception of consciousness which makes it seem obvious that this collection of observable cognitive operations is conscious. If that's not obvious, and especially if that seems implausible or impossible, then our way of thinking about consciousness is fundamentally flawed, because this neural collective
+  <i>
+   is
+  </i>
+  in fact conscious.
+ </p>
+ <p>
+  Sometimes I have conversations like this:
+ </p>
+ <blockquote>
+  <p>
+   <i>
+    Brian
+   </i>
+   : Do you think insects are conscious?
+  </p>
+  <p>
+   <i>
+    Other person
+   </i>
+   : No, of course not.
+  </p>
+  <p>
+   <i>
+    Brian
+   </i>
+   : Why do you think they're not?
+  </p>
+  <p>
+   <i>
+    Other person
+   </i>
+   : Well, it just seems absurd. How could a little thing executing simple response behaviors be conscious? It's just reacting in an automatic, reflexive way. There's no inner experience.
+  </p>
+  <p>
+   <i>
+    Brian
+   </i>
+   : If you didn't know from your own subjective experience that you were conscious, would you predict that you were conscious, or would you see yourself as executing a bunch of responses "in the dark" as the behaviorists might have seen you?
+  </p>
+  <p>
+   <i>
+    Other person
+   </i>
+   : Hmm, well, I think I would know I'm conscious because I behave more intelligently than an insect and can describe my inner life.
+  </p>
+  <p>
+   <i>
+    Brian
+   </i>
+   : Can you explain what about your brain gives rise to consciousness that's not present in an insect?
+  </p>
+  <p>
+   <i>
+    Other person
+   </i>
+   : Uh....
+  </p>
+  <p>
+   <i>
+    Brian
+   </i>
+   : If you don't understand why you're conscious, how can you be so sure an insect
+   <i>
+    isn't
+   </i>
+   conscious?
+  </p>
+  <p>
+   <i>
+    Other person
+   </i>
+   : Hmm....
+  </p>
+ </blockquote>
+ <h2 id="third-person">
+  <span id="Seeing_consciousness_from_a_third-person_perspective">
+   Seeing consciousness from a third-person perspective
+  </span>
+ </h2>
+ <p>
+  I know that I'm conscious. I also know, from neuroscience combined with Occam's razor, that my consciousness consists only of material operations in my brain -- probably mostly patterns of neuronal firing that help process inputs, compute intermediate ideas, and produce behavioral outputs. Thus, I can see that consciousness is just the first-person view of certain kinds of computations -- as Eliezer Yudkowsky puts it, "
+  <a href="http://lesswrong.com/lw/no/how_an_algorithm_feels_from_inside/">
+   How An Algorithm Feels From Inside
+  </a>
+  ". Consciousness is not something separate from or epiphenomenal to these computations. It
+  <i>
+   is
+  </i>
+  these computations, just from their own perspective of trying to think about themselves.
+ </p>
+ <p>
+  In other words,
+  <a href="http://www.utilitarian-essays.com/boundaries-of-consciousness.html">
+   consciousness is what minds compute
+  </a>
+  . Consciousness is the collection of input operations, intermediate processing, and output behaviors that an entity performs. Now, some people would object at this point and say that maybe consciousness is only a
+  <i>
+   subset
+  </i>
+  of what brains compute -- that most of brain activity is "unconscious", and thoughts and feelings only become "conscious" when certain special kinds of operations happen. In response, I would point out that there's not a major discontinuity in the underlying computations themselves that warrants a binary distinction like this. Sure, some thoughts are globally broadcast and others aren't, and the globally broadcast thoughts are accessible to a much wider array of brain functions, including memory and speech, which allows us to report on them while not reporting on signals that are only locally broadcast. But the distinction between local and global broadcasting is ultimately fuzzy, as will be any other distinction that's suggested as
+  <i>
+   the
+  </i>
+  cutoff point between unconscious and conscious experience.
+ </p>
+ <p>
+  If we look at computations from an abstract perspective, holding in abeyance our intuitions that certain kinds of computations can't be conscious, we can see how the universe contains many varieties of computation of all kinds, in a similar way as nature contains an enormous array of life forms. It's not obvious from this distanced, computation-focused perspective that one subset of computations (namely those in brains of complex animals) is privileged, while all other computations are fundamentally different. Rather, we see a universal continuity among the species of computations, with some being more complex and sophisticated than others, in a similar way as some life forms are more complex and sophisticated than others.
+ </p>
+ <p>
+  From this perspective, it
+  <i>
+   is
+  </i>
+  clear why our neural collective is conscious: It's because (one flavor of) consciousness
+  <i>
+   is
+  </i>
+  the process of doing the computations that our brains do. The reason we're "not conscious" under general anaesthesia is because the kinds of global information distribution that our brain ordinarily does is prevented, so we can't have complex thoughts like "I'm conscious" or store memories that would lead us to think we had been conscious. But there are still some other kinds of computations going on that have their own kinds of "consciousness", even if of a different nature than what our intuitive, analytical, or linguistic brain operations would understand.
+ </p>
+ <p>
+  I should add a note on terminology: All computations occur within physics, so any computation is a physical process. Conversely, any physical process proceeds from input conditions to output conditions in a regular manner and so is a computation. Hence, the set of computations equals the set of physical processes, and where I say "computations" in this piece, one could just as well substitute "physical processes" instead.
+ </p>
+ <h2 id="imagining">
+  <span id="Imagining_other_kinds_of_consciousness">
+   Imagining other kinds of consciousness
+  </span>
+ </h2>
+ <p>
+  Talk about consciousness is always somewhat mystical. Consciousness is not a hard, concrete thing in the universe but is more of an idea that we find important and sublime, perhaps similar to the concept of
+  <a href="https://en.wikipedia.org/wiki/Brahman">
+   Brahman
+  </a>
+  for Hindus. When we think about consciousness, we're essentially doing a kind of poetry in our minds -- one that we find spiritually meaningful.
+ </p>
+ <p>
+  When we conceive of consciousness as being various flavors of computations, the question arises: What is it like to be another kind of computation than the one in our heads? I've
+  <a href="http://www.utilitarian-essays.com/video-games.html#what-is-it-like">
+   suggested elsewhere
+  </a>
+  that there's some extent to which we can't in principle answer this question fully, because our brains are our brains, and they can't perfectly simulate another computation without
+  <i>
+   being
+  </i>
+  that computation, in which case they would no longer be our current brains. But we can still get some intuitive flavor of what it might mean for another consciousness to be different from ours.
+ </p>
+ <p>
+  One way to start is just to notice that
+  <i>
+   our own
+  </i>
+  minds feel different and have many different experiences at different times. Being tired feels different from being alert, which feels different from being scared, which feels different from being content in a warm blanket. Even more trivially, seeing a spoon looks different from seeing a fork, which looks different from seeing a penny. Our brains perform many different computations at different times, and these each have their own textures. More extreme examples include being on the edge of sleep, dreaming, waking up slowly after "going under" for surgery, or meditating.
+ </p>
+ <h3 id="pretending-to-be-a-worm">
+  <span id="Pretending_to_be_a_worm">
+   Pretending to be a worm
+  </span>
+ </h3>
+ <p>
+  What about other animals? Can we imagine what it's like to be a worm? Fundamentally we can't, but here's an exercise that may at least gesture in the right direction. Read the following instructions and then try it:
+ </p>
+ <blockquote>
+  <p>
+   <u>
+    Instructions
+   </u>
+   : Close your eyes. Stay still. Stop noticing sounds and smells. Turn off the linguistic inner voice that thinks verbal thoughts in your head. In fact, try to stop thinking any thoughts as much as possible. Now, poke your head with your fingers. Scratch it softly with your fingernails. Tap it with your hand. Face your head toward a light and notice how it looks bright even though you can't see anything definite due to your eyes being closed. Turn your head away. Notice air moving gently across your skin.
+  </p>
+ </blockquote>
+ <p>
+  This exercise helps mimic the way in which worms have
+  <a href="http://www.learner.org/jnorth/tm/worm/WormLife.html">
+   no eyes or ears
+  </a>
+  and presumably no complex thoughts, especially not linguistic ones. Yet they do have sensitivity to touch, light, and vibrations.
+ </p>
+ <p>
+  Now, even this exercise is far from adequate. Human brains have many internal processes and computing patterns that don't apply to worms. Even if we omit senses that worms lack and try to suppress high-level thoughts, this human-like computing scaffolding remains. For instance, maybe our sense of being a self with unified and integrated sensations is mostly absent from worms. Probably many other things are absent too that I don't have the insight to describe. But at least this exercise helps us
+  <i>
+   begin
+  </i>
+  to imagine another form of consciousness. Then we can multiply whatever differences we felt during this exercise many times more when we contemplate how different a worm's experiences actually are.
+ </p>
+ <h2 id="flavors">
+  <span id="Flavors_of_computation_and_consciousness">
+   Flavors of computation and consciousness
+  </span>
+ </h2>
+ <p>
+  In some sense all I've proposed here is to think of different flavors of consciousness as being various flavors of computation. But this still leaves the question: Which flavors of computation matter most? Clearly whatever computations happen when a person is in pain are vastly more important than what's happening in a brain on a lazy afternoon. How can we capture that difference?
+ </p>
+ <p>
+  Every subjective experience has corresponding objective, measurable brain operations, so the awful experiences of pain must show up in some visible way. It remains to be seen exactly what agony corresponds to, but presumably it includes operations like these: neural networks classifying a stimulus as bad, aversive reactions to the negative stimulus, negative reinforcement learning, focused attention on the source of pain, setting down aversive memory associations with this experience, and goal-directed behavior to escape the situation, even at cost to other things of value. There may be much more, but these basics are likely to remain part of the equation even after further discoveries. (Note: It
+  <a href="http://utilitarian-essays.com/differential-intellectual-progress.html">
+   may be
+  </a>
+  that we should want neuroscience discoveries to come slower rather than faster.) But if so, it becomes plausible that when we see these kinds of operations in other places, we should disvalue them there as well.
+ </p>
+ <p>
+  This is why an ethical viewpoint like
+  <a href="http://www.utilitarian-essays.com/video-games.html#comparison-with-biocentrism">
+   biocentrism
+  </a>
+  has something going for it. (Actually, I prefer "negative biocentrism", analogous to "negative utilitarianism".) All life can display aversive reactions against damage to some degree, and since these are computations of certain flavors, it makes sense to think about them as being conscious with certain flavors. Of course, the degree of importance we place on them may be very small depending on the organism in question, but I don't see fundamental discontinuities in the underlying physics, so our valuations functions should not be discontinuous either. Still, our valuation functions can be very steep. In particular, I think animals like insects are vastly more complex than
+  <a href="http://www.utilitarian-essays.com/bacteria.html">
+   plants, fungi, or bacteria
+  </a>
+  , so I care about their flavors of consciousness more.
+ </p>
+ <p>
+  My perspective is similar to that of Ben Goertzel, who
+  <a href="http://multiverseaccordingtoben.blogspot.com/2009/03/when-net-becomes-consciousness.html">
+   said
+  </a>
+  :
+ </p>
+ <blockquote>
+  <p>
+   My own view of consciousness is a bit eccentric for the scientific world though rather commonplace among Buddhists (which I'm not): I think consciousness is
+   <i>
+    everywhere
+   </i>
+   , but that it manifests itself differently, and to different degrees, in different entities.
+  </p>
+ </blockquote>
+ <p>
+  Alun Anderson, who spent 10 years studying insect sensation,
+  <a href="http://edge.org/q2005/q05_4.html#andersona">
+   believes
+  </a>
+  "that cockroaches are conscious." He elaborates:
+ </p>
+ <blockquote>
+  <p>
+   I don't mean that they are conscious in even remotely the same way as humans are[...]. Rather the world is full of many overlapping alien consciousnesses.
+  </p>
+  [...]
+  <p>
+   To think this way about simple creatures is not to fall into the anthropomorphic fallacy. Bees and spiders live in their own world in which I don't see human-like motives. Rather it is a kind of panpsychism, which I am quite happy to sign up to, at least until we know a lot more about the origin of consciousness. That may take me out of the company of quite a few scientists who would prefer to believe that a bee with a brain of only a million neurones must surely be a collection of instinctive reactions with some simple switching mechanism between them, rather [than having] some central representation of what is going on that might be called consciousness. But it leaves me in the company of poets who wonder at the world of even lowly creatures.
+  </p>
+ </blockquote>
+ <p>
+  <a href="https://www.youtube.com/watch?v=5YxuK7W_Pz0&amp;t=2m45s">
+   William Seager
+  </a>
+  :
+ </p>
+ <blockquote>
+  <p>
+   The argument for panpsychism, I guess, is: If
+   <a href="https://en.wikipedia.org/wiki/Strong_emergence#Strong_and_weak_emergence">
+    strong emergence
+   </a>
+   is ruled out, then you will not be able to get this "jump" from the non-conscious to the conscious, and therefore consciousness must be a fundamental feature in nature.
+  </p>
+ </blockquote>
+ <p>
+  <a href="http://www.overcomingbias.com/2009/12/feels-data-is-in.html" title='"Feels Data Is In"'>
+   Robin Hanson
+  </a>
+  :
+ </p>
+ <blockquote>
+  <p>
+   It seems to me simplest to just presume that none of these [computational, creature-like] systems feel, if I could figure out a way to make sense of that, or that all of them feel, if I can make sense of that. If I feel, a presumption of simplicity leans me toward a pan-feeling position: pretty much everything feels something, but complex flexible self-aware things are aware of their own complex flexible feelings. Other things might not even know they feel, and what they feel might not be very interesting.
+  </p>
+ </blockquote>
+ <p>
+  For many more quotes of this type, from ancient Greeks to contemporary philosophers of mind, see David Skrbina's
+  <a href="http://www.iep.utm.edu/panpsych/">
+   encyclopedia entry on panpsychism
+  </a>
+  . I disagree with at least half of the specific views cited there, but some of them are spot-on.
+ </p>
+ <p>
+  It's unsurprising that a
+  <a href="http://reducing-suffering.org/hard-problem-consciousness/">
+   type-A physicalist
+  </a>
+  should attribute nonzero consciousness to all systems. After all, "consciousness" is a concept -- a "
+  <a href="http://lesswrong.com/lw/nl/the_cluster_structure_of_thingspace/">
+   cluster in thingspace
+  </a>
+  " -- and all points in thingspace are less than infinitely far away from the centroid of the "consciousness" cluster. By a similar argument, we might say that
+  <i>
+   any
+  </i>
+  system displays nonzero similarity to
+  <i>
+   any
+  </i>
+  concept (except maybe for strictly partitioned concepts that map onto the universe's fundamental ontology, like the difference between matter vs. antimatter). Panpsychism on consciousness is just one particular example of that principle.
+ </p>
+ <h2 id="human-correlates-vs-fundamental-principles">
+  <span id="Human_correlates_vs_fundamental_principles">
+   Human correlates vs. fundamental principles
+  </span>
+ </h2>
+ <p>
+  Exploration of
+  <a href="https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness">
+   neural correlates of consciousness
+  </a>
+  helps identify the locations and mechanisms of what we conventionally think of as high-level consciousness in humans and by extension, perhaps the high-level consciousness of similar animal relatives. Stanislas Dehaene's book
+  <i>
+   <a href="https://en.wikipedia.org/wiki/Consciousness_and_the_Brain">
+    Consciousness and the Brain
+   </a>
+  </i>
+  provides a superb overview of the state of neuroscience on how consciousness operates in the brain in terms of
+  <a href="https://en.wikipedia.org/wiki/Global_Workspace_Theory">
+   global workspace theory
+  </a>
+  .
+ </p>
+ <p>
+  But describing how consciousness works in human-like minds can't be the end of the story. It leaves unanswered the question of whether consciousness could exist in slightly different mind architectures as long as they're doing the same sorts of operations. We could imagine gradually tweaking a human-type mind architecture on subtle dimensions. At what point would these theories of consciousness say it stops being conscious? What if an agent performed human-like cognitive feats without centralized information broadcasting? Global-workspace and other neural-correlation theories don't really give answers, because they can only interpolate between a set of points, not extrapolate beyond that set of points.
+ </p>
+ <p>
+  Consciousness cannot be crucially tied up with the specific organization of human minds. Consciousness is just not the kind of thing that could be so arbitrarily determined.
+  <a href="http://www.utilitarian-essays.com/boundaries-of-consciousness.html">
+   Consciousness is what consciousness does
+  </a>
+  : It is the suite of stimulus recognition, internal computation, and action selection that an organism performs when making complex decisions requiring help from many cognitive modules. It can't be something necessarily tied to thalamus-cortex connectivity or cross-brain wave synchronization. Those are too specific to the details of implementation; a particular implementation can't be relevant because it doesn't do anything different from another implementation of the same functionality. Rather, consciousness must be about what the process is actually trying to accomplish: receiving information, manipulating it, combining thoughts in novel ways, and taking actions. In other words, consciousness must be related to computation itself.
+ </p>
+ <p>
+  But if consciousness is about computation in general, then it would seem to appear all over the place. Some embrace this conclusion as a natural deduction from what consciousness as computation must be. For instance, Giulio Tononi's
+  <a href="https://en.wikipedia.org/wiki/Integrated_information_theory">
+   integrated information theory
+  </a>
+  (IIT) suggests that even this metal ball has a small degree of consciousness. Dehaene, on the other hand, says he's "reticent" to accept IIT because it implies a kind of panpsychism (p. 279, Ch. 5's footnote 35).
+ </p>
+ <p>
+  I agree that IIT is
+  <a href="http://www.utilitarian-essays.com/consciousness.html#tononi">
+   not necessarily the ultimate theory of consciousness
+  </a>
+  . There may be many more particular nuances we want to apply to our criteria for what consciousness should be. But ultimately I think Tononi is right that consciousness must be something fundamental about the properties of the system, not something specific to the implementation. Consciousness as a general phenomenon is the kind of thing that needs a general theory. It just doesn't make sense that something so basic and so tied up with functional operations would require particular implementations.
+ </p>
+ <p>
+  Note that the
+  <a href="https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind)">
+   functionalist
+  </a>
+  view I'm defending here is not
+  <a href="https://en.wikipedia.org/wiki/Behaviorism">
+   behaviorism
+  </a>
+  . It's not the case that any mechanism that yields human-like behavior has human-like consciousness, as the example of a
+  <a href="http://lesswrong.com/lw/pa/gazp_vs_glut/">
+   giant lookup table
+  </a>
+  shows. A giant lookup table may have its own kind of consciousness (indeed, it should have at least some vague form of consciousness according to the thesis I'm advancing in this essay), but it's a different, shallower kind than that of a human. We could see this if we looked inside the brains of the two systems. Humans when responding to a question would show activation in auditory centers, conscious broadcasting networks, and speech centers before producing an answer. The lookup table would do some sort of artificial speech recognition to determine the text form of the question and then would use a hash table or tree search on that string to identify and print out the stored answer. Clearly these two mind operations are distinct. If we broaden the definition of "behavior" to include behavior within the brain by neurons or logic gates, then even by behaviorist criteria these two kinds of consciousness aren't the same.
+ </p>
+ <p>
+  Old-school behaviorism is essentially a relic of times past when researchers were less able to look inside brains. Cognitive algorithms must matter in addition to just inputs and outputs. After all, what look from the outside like intermediate computations of a brain can be seen as inputs and outputs of smaller subsystems
+  <i>
+   within
+  </i>
+  the brain, and conversely, the input-output behavior of an organism could be seen as just an internal computation to a larger system like the population of organisms as a whole.
+ </p>
+ <p>
+  So the specific flavor of consciousness that a system exhibits can indeed depend on the algorithms of a mind, which depend on its architecture. But
+  <i>
+   consciousness in general
+  </i>
+  just seems like something too fundamental to be architecture-dependent.
+ </p>
+ <p>
+  In any case, suppose you thought the architecture was fundamental to consciousness, i.e., that consciousness was the static physical pattern of matter arranged in certain ways rather than the dynamic computations that such matter was performing. In this case, we'd still end up with a kind of panpsychism, because patterns with at least a vague resemblance to consciousness would be ubiquitous throughout physics.
+ </p>
+ <h2 id="sentience-and-sapience">
+  <span id="Sentience_and_sapience">
+   Sentience and sapience
+  </span>
+ </h2>
+ <p>
+  If consciousness
+  <i>
+   is
+  </i>
+  the thoughts and computations that an agent performs when acting in the world, there seems to be some relationship between sapience -- the ability to intelligently handle novel situations -- and sentience -- inner "feelings". Of course, it's not a perfect correlation. For instance, Mr. Spock calmly computing an optimal course of action may be more successful than a crying baby demanding its juice bottle. But in general, minds that have more capacity for complex thought, representation, motivational tradeoff among competing options, and so on will also have more rich inner lives that contain more complex sensations. As Daniel Dennett notes in
+  <i>
+   Consciousness Explained
+  </i>
+  (p. 449): "the capacity to suffer is a function of the capacity to have articulated, wide-ranging, highly discriminative desires, expectations, and other sophisticated mental states."
+ </p>
+ <p>
+  In reading
+  <i>
+   Consciousness and the Brain
+  </i>
+  , I realized that many of the abilities characteristic of consciousness are those cognitive functions that are high-level and open-ended, such as holding information in short-term memory for an arbitrary time, being able to pay attention to arbitrary stimuli, and controlling the direction of one's thoughts. The so-called "unconscious" processing tends to involve feedforward neural networks and other fixed algorithms.
+  <a href="http://www.dayonepatch.com/index.php?/topic/89457-towards-a-metric-for-intelligence-and-consciousness/">
+   One forum post
+  </a>
+  proposed that
+  <a href="https://en.wikipedia.org/wiki/Turing_completeness">
+   Turing-completeness
+  </a>
+  may be part of what makes human-like minds special. They not only compute fixed functions but could in theory, given sufficient resources, compute any (computable) function. Maybe Turing-completeness could be seen as a non-arbitrary binary cutoff point for consciousness. I'm skeptical that I'd agree with this definition, because it feels too theoretical. Why should subjectivity be so related to a technical computer-science concept? In any case, I'm not quite sure where the Turing-completeness cutoff would begin among animal brains. But it is an interesting proposal. Rather than thinking in binary terms, I would note that human mental abilities, while powerful, could still be improved upon in practice (given that we don't have infinite memory and so on), and presumably those more advanced minds would be considered even more conscious than humans.
+ </p>
+ <p>
+  <a href="https://commons.wikimedia.org/wiki/File:PSone-Motherboard.jpg">
+   <img align="right" height="40%" src="http://reducing-suffering.org/files/2014/09/PSone-Motherboard.jpg" title="'The motherboard to a Sony PSone video game console.' By Evan-Amos (Own work) [Public domain], via Wikimedia Commons" width="40%"/>
+  </a>
+ </p>
+ <p>
+  The correlation between sapience and sentience seems plausible among Earth's animals, but does it hold in general? Nick Bostrom argues that it doesn't have to. In his book
+  <i>
+   Superintelligence
+  </i>
+  (2014), Bostrom
+  <a href="http://slatestarcodex.com/2014/07/13/growing-children-for-bostroms-disneyland/">
+   explains
+  </a>
+  :
+ </p>
+ <blockquote>
+  <p>
+   We could thus imagine, as an extreme case, a technologically highly advanced society, containing many complex structures, some of them far more intricate and intelligent than anything that exists on the planet today -- a society which nevertheless lacks any type of being that is conscious or whose welfare has moral significance. In a sense, this would be an uninhabited society. It would be a society of economic miracles and technological awesomeness, with nobody there to benefit. A Disneyland with no children.
+  </p>
+ </blockquote>
+ <p>
+  I tend to differ with Bostrom on this. I think if we dissolve our dualist intuitions and see consciousness as flavors of computation, then a highly intelligent and complex society is necessarily consciousness -- at least, with a certain flavor of consciousness. That flavor may be very different from what we have experience with, and so I can see how many people would regard it as not real consciousness. Maybe I would too upon reflection. But the question is to some extent a matter of taste.
+ </p>
+ <p>
+  Imagine robotic aliens visiting Earth. They would observe a mass of carbon-based tissue that performs operations that parts of it find reinforcing. The globs of tissue migrate across the Earth and engage in lots of complex behaviors. The tissue globs change Earth's surface dramatically, much like a bacteria colony transforming a loaf of bread. But the tissue globs don't have alien-consciousness. Hence, the aliens view Earth like a wasteland waiting to be filled with happy alien-children.
+ </p>
+ <p>
+  Note that my view
+  <i>
+   does not
+  </i>
+  equate "consciousness" with "goodness". I think many forms of consciousness are intrinsically bad, and I would prefer for the universe to contain less consciousness on the whole. That said, we have to know the enemy to fight the enemy.
+ </p>
+ <h2 id="classical-music">
+  <span id="Is_The_Rite_of_Spring_classical_music">
+   Is
+   <i>
+    The Rite of Spring
+   </i>
+   classical music?
+  </span>
+ </h2>
+ <p>
+  On 29 May 1913, the opening of Igor Stravinsky's
+  <i>
+   The Rite of Spring
+  </i>
+  in Paris
+  <a href="http://www.theguardian.com/culture/2013/may/27/rite-of-spring-100-years-stravinsky">
+   caused an uproar
+  </a>
+  among the audience:
+ </p>
+ <blockquote>
+  <p>
+   As a riot ensured, two factions in the audience attacked each other, then the orchestra, which kept playing under a hail of vegetables and other objects. Forty people were forcibly ejected.
+  </p>
+ </blockquote>
+ <p>
+  The
+  <a href="http://www.telegraph.co.uk/culture/music/classicalmusic/10061574/The-Rite-of-Spring-1913-Why-did-it-provoke-a-riot.html">
+   reason
+  </a>
+  :
+ </p>
+ <blockquote>
+  <p>
+   It's more likely that the audience was appalled and disbelieving at the level of dissonance, which seemed to many like sheer perversity. "The music always goes to the note next to the one you expect," wrote one exasperated critic.
+  </p>
+  <p>
+   At a deeper level, the music negates the very thing that for most people gives it meaning: the expression of human feelings. [...]
+  </p>
+  <p>
+   There's no sign that any of the creatures in the Rite of Spring has a soul, and there's certainly no sense of a recognisable human culture. The dancers are like automata, whose only role is to enact the ritual laid down by immemorial custom.
+  </p>
+ </blockquote>
+ <p>
+  Arguing over whether an abstract superintelligence is conscious is similar to pre-modern musicians arguing whether
+  <i>
+   The Rite of Spring
+  </i>
+  is classical music, except maybe that the former contrast is even more stark than the latter. Abstract machine intelligence would be a
+  <i>
+   very
+  </i>
+  different flavor of consciousness, so much that we can't do it justice by trying to imagine it. But I find it parochial to assume that it wouldn't be meaningful consciousness.
+ </p>
+ <p>
+  Of course, sometimes being parochial is good. If you don't favor some things over others, you don't favor anything at all. It's completely legitimate to care about some types of physical processes and not others if that's how you feel. I just personally incline toward the view that complex machine consciousness of any sort has moral standing.
+ </p>
+ <h2 id="How-not-to-think-about-panpsychism">
+  <span id="How_not_to_think_about_panpsychism">
+   How not to think about panpsychism
+  </span>
+ </h2>
+ <p>
+  This essay has defended a sort of panpsychism, in which we can think of all computational systems as having their own sorts of conscious experiences. This is one particular kind of panpsychism, which should be distinguished from other variants.
+ </p>
+ <h3>
+  <span id="Pathetic_fallacy">
+   Pathetic fallacy
+  </span>
+ </h3>
+ <p>
+  Panpsychism should not commit the
+  <a href="https://en.wikipedia.org/wiki/Pathetic_fallacy">
+   pathetic fallacy
+  </a>
+  of seeing full-fledged minds in even simple systems.
+ </p>
+ <p>
+  Once I was using a Ziploc bag to carry flies stuck inside a window to the outside. I asked myself whimsically: "Is this what it feels like to be a
+  <a href="https://en.wikipedia.org/wiki/Proton_pump">
+   proton pump
+  </a>
+  -- transporting items to the other side of a membrane?" And of course the answer is "no", because the cognitive operations that constitute "how it feels to remove flies" (visual appearance, subjective effort, conceptual understanding, etc.) are not present in proton pump. Such pumps would need tons of extra machinery to implement this functionality. The pathetic fallacy is only possible for dualist conceptions of mind, according to which elaborate thoughts can happen without corresponding physical processing.
+ </p>
+ <p>
+  On the flip side, it's mainly dualist theories of consciousness that allow a functionalist kind of panpsychism
+  <i>
+   not
+  </i>
+  to be true. If physics represents everything going on, then there must indeed be traces of mind-like operations in physics, depending on how "mind" is defined. In contrast, if mind is another substance or property beyond the physical, then it could not be present in simple physical systems.
+ </p>
+ <h3>
+  <span id="Mind_dust">
+   Mind dust
+  </span>
+ </h3>
+ <p>
+  In "
+  <a href="http://consc.net/reef/goffpanpsychism.pdf">
+   Why panpsychism doesn't help explain consciousness
+  </a>
+  " (2009), Philip Goff presents panpsychism as a theory that the universe's "physical ultimates" are intrinsically conscious. He then argues that if we imagine a person named Clare:
+ </p>
+ <blockquote>
+  <p>
+   Even if the panpsychist is right that Clare's physical ultimates are conscious, the kind of conscious experience had by Clare's ultimates will presumably be qualitatively very different to the kind of conscious experience pre-theoretical common sense attributes to Clare on the basis of our everyday interactions with her [...]. (p. 290)
+  </p>
+ </blockquote>
+ <p>
+  I find this objection misguided, because my version of panpsychism doesn't propose that whole-brain consciousness is constituted from lots of little pieces of consciousness (what some call "mind dust"). Rather, the system of Clare as a whole has its own kind of consciousness, because the system as a whole constitutes its own kind of computation, at the same time that subcomponents of the system have their own, different kinds of consciousness corresponding to different computations, and at the same time that Clare is embedded in larger systems that once again have their own kinds of consciousness. Mine is a "functionalist panpsychism" focused on system behavior rather than on discrete particles of consciousness. On p. 298, Goff admits that functionalists would not agree with his argument. On p. 304, Goff considers a panpsychism similar to mine, in which functional states of the whole organism determine experiential content. He rejects this because he conceives of consciousness as a separate
+  <i>
+   thing
+  </i>
+  (
+  <a href="https://en.wikipedia.org/wiki/Reification_(fallacy)">
+   reification fallacy
+  </a>
+  ). In contrast, I believe that "consciousness" is just another way of regarding the functional behavior of the system. In other words, I'm defending a kind of poetic panpsychism, in which we think about systems as being phenomenal, without trying to turn phenomenality into a
+  <i>
+   separate
+  </i>
+  object.
+ </p>
+ <p>
+  And if you do insist on regarding consciousness as an object, why can't we see a dynamic system itself as an object? Mathematicians and computer scientists are familiar not just with manipulating points but also with manipulating functions and other complex structures. Functions can be seen as points in
+  <a href="https://en.wikipedia.org/wiki/Function_space">
+   their own vector spaces
+  </a>
+  . Some programming languages
+  <a href="https://en.wikipedia.org/wiki/First-class_function">
+   treat functions as
+  </a>
+  first-class citizens. I wonder how much intuitions on philosophy of mind differ based on one's academic department.
+ </p>
+ <p>
+  Marvin Minsky
+  <a href="http://edge.org/conversation/consciousness-is-a-big-suitcase">
+   regards
+  </a>
+  concepts like "consciousness" as "suitcases" -- boxes that we put complicated processes into. "This in turn leads us to regard these as though they were 'things' with no structures to analyze."
+ </p>
+ <p>
+  In a 2012
+  <a href="https://www.youtube.com/watch?v=bCNCR2niqQY" title='"PL9 - TSC 2012 Phillip Goff, Non-Compositional Panpsychism"'>
+   lecture
+  </a>
+  , Goff proposed a kind of panpsychism in which each particle in his mind contains his whole subjective experience, so his mind occupies many locations at once within his brain. This again is misguided, because it reifies a whole subjective experience into a fundamental object. Rather, subjective experience is the
+  <i>
+   collective
+  </i>
+  behavior of one's whole brain; it's not a separate thing that can live in a single particle.
+ </p>
+ <p>
+  I would be okay with a "mind dust" picture if instead of conceiving of each particle as having a complete phenomenal experience, we picture each particle as constituting a little sliver of computation that can combine with other slivers of computation to form more complete computational patterns. As William Seager
+  <a href="https://www.youtube.com/watch?v=eCq5II_a4dU&amp;t=1m10s" title='"William Seager: How Close Is Panpsychism to the Science of Physics?"'>
+   explains
+  </a>
+  : "Presumably the same way that physical complexity grows, there will be a kind of matching or mirroring growth in mental complexity." Our subjective experiences are holistic systems composed of many computational pieces, each of which can poetically be thought of as having its own simple, incomprehensible-to-us form of mentality.
+ </p>
+ <h3>
+  <span id="Combination_problem">
+   Combination problem
+  </span>
+ </h3>
+ <p>
+  Some panpsychist and panprotopsychist philosophers believe that the "
+  <a href="https://en.wikipedia.org/wiki/Quiddity">
+   quiddities
+  </a>
+  " of physical reality may be conscious in a basic way (panpsychism) or may contain the building blocks of consciousness in a sense beyond embodying structural/functional properties (panprotopsychism). David Chalmers toys with a view of this kind, but as he notes, it leads to the "
+  <a href="http://consc.net/papers/combination.pdf">
+   combination problem
+  </a>
+  ": How do these smaller parts combine to yield macrophenomenal consciousness like our own? Note that this sounds an awful lot like the regular mind-body problem: How do physical parts combine to yield phenomenal experience like ours? I suspect that Chalmers finds the panpsychist question less puzzling because at least the panpsychist problem already has phenomenal experience to start with, so phenomenal parts just need to be put together rather than appearing out of nowhere.
+ </p>
+ <p>
+  I think this whole project is wrongheaded. First of all, why should we believe in quiddities? Why should we think there's more to something than how it behaves structurally and functionally? What would it mean for the additional "essence" to be anything? If there were such an essence, either it would have structural/functional implications, in which case we've already accounted for them by structural/functional characterization, or it doesn't have any structural/functional implications, in which case the quiddity is wholly unnecessary to any explanation of anything physical. Quiddities face the same problems as a non-interacting dualist soul. On the other hand, could the same argument be leveled against the existence of physics too? One could say that the "existence" of physics is an additional property over and above the (logical but not actual) structure or function of mathematical descriptions of physical systems. I don't know whether I endorse out-and-out eliminativist
+  <a href="http://plato.stanford.edu/entries/structural-realism/#OntStrReaOSR">
+   Ontic Structural Realism
+  </a>
+  (relations without relata), and I'm more confused about this topic than about consciousness. Still, it seems weird to "squeeze in" extra statements about the relata (beyond that they exist and that they have particular structures/functions), like that they have phenomenal character. It's true that we sometimes need to expand the ontology of physics to accommodate new phenomena, but physics has always been structural/functional, so expanding it to include phenomenal properties would be unlike any past physical revolutions.
+ </p>
+ <p>
+  Anyway, let's say we have quiddities of physics. What does it mean to say they have a phenomenal character? I have no idea what such a state of affairs would look like. Sure, I can conjure up images of little balls of sensation or feeling or whatever, but that act of mental imagination doesn't appear to describe anything more coherent than imagining little particles of good luck being emitted by discovered four-leaf clovers. I mean, where would
+  <i>
+   that
+  </i>
+  mental stuff come from? What is it? The hard problem of consciousness would remain as fierce as ever, just pushed back to the level of explaining why the consciousness primitive exists.
+ </p>
+ <h2 id="Panpsychism-is-about-ethics">
+  <span id="Panpsychism_is_about_ethics">
+   Panpsychism is about ethics
+  </span>
+ </h2>
+ <p>
+  Augustine Lee
+  <a href="https://www.youtube.com/watch?v=PW56SC0vChk" title='"On Panexperientialism"'>
+   rejects panpsychism
+  </a>
+  by suggesting an analogy with a car: A whole car can drive, but that doesn't mean a steering wheel by itself has a "drive"-ness to it. Likewise, consciousness involves complicated brain structures, and simple physics by itself needn't have those same types of structure. This is a valid point, and it suggests that we may want to rein in the extent to which we attribute consciousness to fundamental physical operations.
+ </p>
+ <p>
+  But what's important to emphasize is that panpsychism is always an attribution on our part -- as I say, a kind of poetry. How much "mind" we see in simple physics depends on our intuitions about how broad we want our definitions to be. We can fix definitions anywhere, but the most helpful way to set the definition for consciousness is based on our ethical sentiments -- i.e., we say that process X is conscious to degree Y if we feel degree Y of moral concern about X. So, for instance, if we regarded driving as morally important, we would decide how much (if at all) a steering wheel on its own mattered, and then would set the amount of "drive"-ness of the steering wheel at that value.
+ </p>
+ <p>
+  For what it's worth, I think the operations we consider as "consciousness" are more multifarious and fundamental than what we typically consider "driving", which suggests that "consciousness" will have more broad definitional boundaries than "driving".
+ </p>
+ <h2 id="Panpsychism-vs-unconscious-sleep">
+  <span id="Panpsychism_vs_unconscious_sleep">
+   Panpsychism vs. unconscious sleep?
+  </span>
+ </h2>
+ <p>
+  While we can speculate about some kind of consciousness existing in all entities, it might be objected that we already have firsthand experience with the possibility of non-consciousness -- namely, our own non-REM (NREM) sleep. Doesn't this prove that panpsychism can't be true, because we can see for ourselves that our sleeping brains aren't conscious? Following are some points in reply.
+ </p>
+ <ul>
+  <li>
+   It's worth noting that we can be conscious during NREM sleep, such as with
+   <a href="https://en.wikipedia.org/wiki/Hypnagogia#Physiology">
+    hypnagogia
+   </a>
+   during stage 1 and
+   <a href="https://en.wikipedia.org/wiki/Non-rapid_eye_movement#Dreaming_during_NREM">
+    dreams during various NREM stages
+   </a>
+   . Night terrors
+   <a href="https://en.wikipedia.org/wiki/Night_terror">
+    typically occur
+   </a>
+   during stage 3 of NREM sleep. So the strict delineation of REM as "conscious" and NREM as "unconscious" is too simple. But it still seems that during some parts of sleep, we are not conscious.
+  </li>
+  <li>
+   One might hold that NREM sleeping brains are indeed conscious but with a very different kind of consciousness -- one that looks mostly empty. Maybe we have an extremely low degree of consciousness during NREM sleep, which we call unconscious. If so, we wouldn't reject panpsychism, but we would see that different computational systems may have very different degrees of importance. While conscious experience involves high-frequency brain oscillations (e.g.,
+   <a href="https://en.wikipedia.org/wiki/Gamma_wave">
+    gamma waves
+   </a>
+   around 40 Hz),
+   <a href="https://en.wikipedia.org/wiki/Slow-wave_sleep">
+    slow-wave sleep
+   </a>
+   involves
+   <a href="https://en.wikipedia.org/wiki/Delta_wave">
+    delta waves
+   </a>
+   often less than 1 Hz. So even if there is conscious activity during NREM sleep, it may be vastly slower than during waking consciousness or dreaming.
+  </li>
+  <li>
+   A more speculative response is to suggest that maybe we are conscious during NREM sleep, but our memories don't store the experiences the way they do our waking conscious experiences. Many of our dreams during sleep are forgotten, and dreams are considered "conscious", so it might not be a stretch to suppose that less pronounced NREM activity would be forgotten even more. It seems one could investigate this possibility further by exploring whether the mechanisms that inhibit memory formation are active during NREM sleep. I have no data on this, so right now this is just a (perhaps unlikely) supposition.
+  </li>
+  <li>
+   Even if our brain-wide mind is absent during NREM sleep, smaller subsystems within that brain might still be "conscious" to themselves in some alien way. Sleep seems to resemble the more general question of whether subcomponents of oneself can be considered conscious even if one's explicit, verbal thinking can't access them.
+  </li>
+ </ul>
+ <h2>
+  <span id="Panpsychism_does_not_imply_environmentalism">
+   Panpsychism does not imply environmentalism
+  </span>
+ </h2>
+ <p>
+  David Skrbina
+  <a href="https://www.youtube.com/watch?v=eolCc2FuKAw&amp;t=24s" title='"David Skrbina: Are There Applications for Panpsychism?"'>
+   argues
+  </a>
+  that panpsychism
+ </p>
+ <blockquote>
+  <p>
+   has implications for, e.g., environmentalism. So if we see mind in things in nature -- whether it's animals or plants or even rocks and rivers and streams and so forth -- this has a definite ethical component that I think is very real and has a pragmatic kind of aspect.
+  </p>
+ </blockquote>
+ <p>
+  <a href="http://www.iep.utm.edu/panpsych/" title='"Panpsychism"'>
+   Elsewhere
+  </a>
+  he suggests:
+ </p>
+ <blockquote>
+  <p>
+   Arguably, it is precisely this mechanistic view -- which sees the universe and everything in it as a kind of giant machine -- that lies at the root of many of our philosophical, sociological, and environmental problems. Panpsychism, by challenging this worldview at its root, potentially offers new solutions to some very old problems.
+  </p>
+ </blockquote>
+ <p>
+  Freya Mathews moves from a panpsychist outlook, combined with the Taoist idea of
+  <i>
+   <a href="https://en.wikipedia.org/wiki/Wu_wei">
+    wu wei
+   </a>
+  </i>
+  ("non-action"), to the
+  <a href="http://plato.stanford.edu/entries/ethics-environmental/#DisNewAni" title='"3.3 Disenchantment and the New Animism" in "Environmental Ethics"'>
+   position that
+  </a>
+ </p>
+ <blockquote>
+  <p>
+   The focus in environmental management, development and commerce should be on “synergy” with what is already in place rather than on demolition, replacement and disruption.
+  </p>
+ </blockquote>
+ <p>
+  She
+  <a href="http://www.freyamathews.net/downloads/BeyondMaterialistEnvironment.pdf" title='"Beyond a Materialist Environmentalism"'>
+   writes
+  </a>
+  :
+ </p>
+ <blockquote>
+  <p>
+   from a panpsychist point of view it is not enough merely to conserve energy, unilaterally extracting and transforming it here and storing it there. One has to allow planetary energies to follow their own contours of flow, contours which reveal local and possibly global aspects of a larger world-purpose.
+  </p>
+ </blockquote>
+ <p>
+  There
+  <i>
+   seems
+  </i>
+  to be much in common between panpsychism and deep ecology / other forms of environmental ethics. But there's no necessary connection, and indeed, one can make the opposite case. There are several problems with the leap from panpsychism to environmentalism:
+ </p>
+ <h3>
+  <span id="1_Ecosystems_may_matter_less_than_animals">
+   1. Ecosystems may matter less than animals
+  </span>
+ </h3>
+ <p>
+  If the welfare of an ecosystem as a whole conflicts with that of individual animals within the ecosystem, which takes priority? Unless the ecosystem matters more than many animals, the animals may still dominate the calculations. The highly developed and emotion-rich consciousness of a single mammal or bird brain seems far more pronounced than the crude shadows of sentience that we see in holistic ecosystems. Maybe ecosystems get more weight because they're bigger and more intricate than an animal brain, but I doubt I'd count an ecosystem's welfare more than, say, 10 or 100 individual animals.
+ </p>
+ <h3>
+  <span id="2_Not_clear_if_the_environment_wants_to_be_preserved_or_changed">
+   2. Not clear if the environment wants to be preserved or changed
+  </span>
+ </h3>
+ <p>
+  Suppose we grant, say, the Earth as a whole nontrivial ethical weight compared with animal feelings. Who's to say that changing the environment is against Earth's wishes? Maybe it concords with Earth's wishes.
+ </p>
+ <p>
+  One argument for conservation might be that the Earth tries to rebound from certain forms of destruction. For instance, if we cut a forest, plants grow back. Typically an organism resists damage, so growing back vegetation may be the Earth's way of recovering from the harm inflicted by humans. But then what should we make of cases where Earth seems to go along with human impacts? For instance,
+  <a href="https://en.wikipedia.org/wiki/Climate_change_feedback#Positive">
+   positive greenhouse-gas feedback loops
+  </a>
+  might be the Earth's way of saying, "I liked how you added more CO
+  <sub>
+   2
+  </sub>
+  to my atmosphere, so I'm going to continue to add greenhouse gases on my own accord." In any case, it's also not clear that vegetation isn't like the Earth's hair or toenails -- something it's glad to have cropped even though it keeps coming back. Maybe the Earth created us with the ultimate purpose of keeping it well shaved. The first photosynthesizers also tampered with the Earth when they oxygenated the atmosphere. Was that likewise an assault on the Earth's goals?
+ </p>
+ <p>
+  The language I'm using here is obviously too anthropomorphic, but it's a convenient way of talking about ultimately more abstract and crude quasi-preferences that the Earth's biosphere may imply via its constitution and behavior. And it's probably wrong to think of the Earth as having a single set of quasi-preferences. There are many parts to what the Earth does, each of which might suggest its own kinds of desires, in a similar way as human brains contain many subsystems that can want different things.
+ </p>
+ <p>
+  Finally, who's to say that ecosystems are more valuable subjects of experience than their replacements, such as cities, factories, highways, and the like? Are environmentalists guilty of ecocentrism -- discrimination against industrial and digital systems? Luciano Floridi makes a similar point and argues for replacing biocentrism with "ontocentrism".
+ </p>
+ <h3>
+  <span id="3_Ecosystems_may_experience_net_suffering">
+   3. Ecosystems may experience net suffering
+  </span>
+ </h3>
+ <p>
+  If forests, streams, and the whole Earth do have quasi-feelings, who's to say they're feelings of happiness? They might just as easily be feelings of frustration. These systems are always adapting -- and so perhaps are always restless, never satisfied. Maybe it would be better if this discomfort didn't have to be endured. That is, maybe ecosystems would be better off not existing, even purely for their own sakes. This is particularly clear for those who consider reducing suffering more urgent than creating pleasure. So maybe panpsychism leads to an anti-environmental ethic. Of course, whatever replaces an ecosystem will itself suffer. But hopefully parking lots and solar radiation not converted to energy by plants are on balance less sentient (and hence suffer less) than ecosystems.
+ </p>
+ <h3>
+  <span id="Personal_spirituality_does_not_imply_universal_joy">
+   Personal spirituality does not imply universal joy
+  </span>
+ </h3>
+ <p>
+  I think part of why panpsychism often elicits intuitions of nature's
+  <i>
+   goodness
+  </i>
+  is that the experience of imagining oneself as part of a larger, conscious cosmos is often beautiful and serene. We feel at peace with the universe when thinking such thoughts, and then we project those good feelings onto what we're thinking about -- forgetting how awful it may actually "feel" to be the universe. To her credit, Freya Mathews
+  <a href="http://australianhumanitiesreview.org/archive/Issue-April-2006/EcoRigby.html" title='"Minding (about) Matter: On the Eros and Anguish of Earthly Encounter" by Kate Rigby'>
+   acknowledges
+  </a>
+  the importance of suffering: "The path of awakened intersubjectivity, Mathews cautions in conclusion, is nonetheless far from universally joyous: on the contrary, it renders the pain of more than human others more salient for us, even while we find delight in our surprise encounters with them."
+ </p>
+ <p>
+  Spiritual/panpsychist experiences
+  <a href="https://www.psychologytoday.com/blog/unique-everybody-else/201212/the-spirituality-psychedelic-drug-users" title='"The Spirituality of Psychedelic Drug Users"'>
+   are elevated
+  </a>
+  by certain types of drug use:
+ </p>
+ <blockquote>
+  <p>
+   For example, a recent study found that about 60% of volunteers in an experiment on the effects of psilocybin, who had never before used psychedelic drugs, had a “complete mystical experience” characterised by experiences such as unity with all things, transcendence of time and space, a sense of insight into the ultimate nature of reality, and feelings of ineffability, awe, and profound positive emotions such as joy, peace, and love (Griffiths, Richards, McCann, &amp; Jesse, 2006).
+  </p>
+  [...] Psychedelic drug users endorsed more mystical beliefs (such as in a universal soul, no fear of death, unity of all things, existence of a transcendent reality, and oneness with God, nature and the universe).
+ </blockquote>
+ <p>
+  I wouldn't be surprised if weaker versions of these brain processes are triggered naturally when people think spiritual thoughts. But we shouldn't mistake the bliss we feel in these moments as being what the other entities in the universe themselves feel.
+ </p>
+ <p>
+  (Note: I never have and never intend to try psychedelic drugs, both because they're illegal and because messing with my brain seems risky. But I think it's quite edifying to
+  <i>
+   learn about
+  </i>
+  the effects of such drugs.)
+ </p>
+ <h2>
+  <span id="Entropy_and_sentience">
+   Entropy and sentience
+  </span>
+ </h2>
+ <p>
+  A friend of mine sometimes asks why there's always so much badness in the world. I reply: "It could be worse." Indeed, the
+  <a href="https://en.wikipedia.org/wiki/Second_law_of_thermodynamics">
+   second law of thermodynamics
+  </a>
+  is in some sense a great gift to suffering reducers, because it implies that (complex) suffering can only last so long (within a given Hubble volume at least). We just have to wait it out until the universe's negentropy is used up.
+ </p>
+ <p>
+  It's
+  <a href="https://en.wikipedia.org/wiki/Entropy_and_life">
+   often observed
+  </a>
+  that a characteristic of life is that it has extremely low entropy, and correspondingly that life is very efficient (though
+  <a href="http://www.uncommondescent.com/origin-of-life/rob-sheldon-on-new-origin-of-life-theory-testimony-to-power-of-self-promotion/" title='"Rob Sheldon on new origin of life theory: Testimony to power of self-promotion?"'>
+   not necessarily
+  </a>
+  maximally efficient) at increasing the entropy of the outside environment. This might lead us to wonder whether there's some relationship between "sentience" and "entropy production". If these two things were identical, then we would face a sharp constraint on efforts to reduce the net sentience of our region of the universe, since a given quantity of entropy must be produced as the universe evolves forward.
+ </p>
+ <p>
+  However, I don't think the two quantities are exactly equal. For example:
+ </p>
+ <ul>
+  <li>
+   Your neurons are probably not significantly more effective at generating entropy than, say, your muscle cells, yet your brain has much higher sentience than your muscles.
+  </li>
+  <li>
+   Reversible computing may allow for a high level of sentience with minimal increases in entropy compared against irreversible computing.
+  </li>
+ </ul>
+ <p>
+  So presumably suffering reducers would prefer systems with fewer neuron-like operations and more irreversible computations, which have a lower ratio of sentience per unit entropy increase.
+ </p>
+ <p>
+  Also note that "amount of sentience" is not identical to "amount of suffering". It's better to increase entropy with happy minds rather than agonized ones.
+ </p>
+ <p>
+  We might also wonder whether sentience is proportional to mass+energy. If so, then the law of
+  <a href="https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence#Conservation_of_mass_and_energy">
+   conservation of mass+energy
+  </a>
+  would imply that we can't change the amount of sentience. However, I find it implausible that sentience would be strictly proportional to mass/energy. For instance, a lot of energy can be stored in atomic bonds, which are pretty stable and so don't seem to qualify as a particularly sentient system compared with other systems that contain the same amount of energy in the form of organisms moving around. A stick of butter contains enough food energy to power a person for 5-10 hours, but there seems to be more sentience in a system in which the butter powers the person than a system in which the butter sits idle alongside a person who just died, even though both of these systems have the same amount of mass+energy.
+ </p>
+ <h2 id="acknowledgments">
+  <span id="Acknowledgments">
+   Acknowledgments
+  </span>
+ </h2>
+ <p>
+  Among many inspirations for this piece were conversations with Joseph Kijewski and Ruairí Donnelly.
+ </p>
+ <ol class="ajs-fn">
+ </ol>
+ <div class="sharedaddy sd-sharing-enabled">
+  <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
+   <h3 class="sd-title">
+    Share this:
+   </h3>
+   <div class="sd-content">
+    <ul>
+     <li class="share-facebook">
+      <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-35" href="http://dev.foundational-research.org/flavors-of-computation-are-flavors-of-consciousness/?share=facebook" rel="nofollow" target="_blank" title="Click to share on Facebook">
+       <span>
+       </span>
+       <span class="sharing-screen-reader-text">
+        Click to share on Facebook (Opens in new window)
+       </span>
+      </a>
+     </li>
+     <li class="share-twitter">
+      <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-35" href="http://dev.foundational-research.org/flavors-of-computation-are-flavors-of-consciousness/?share=twitter" rel="nofollow" target="_blank" title="Click to share on Twitter">
+       <span>
+       </span>
+       <span class="sharing-screen-reader-text">
+        Click to share on Twitter (Opens in new window)
+       </span>
+      </a>
+     </li>
+     <li class="share-reddit">
+      <a class="share-reddit sd-button share-icon no-text" data-shared="" href="http://dev.foundational-research.org/flavors-of-computation-are-flavors-of-consciousness/?share=reddit" rel="nofollow" target="_blank" title="Click to share on Reddit">
+       <span>
+       </span>
+       <span class="sharing-screen-reader-text">
+        Click to share on Reddit (Opens in new window)
+       </span>
+      </a>
+     </li>
+     <li class="share-end">
+     </li>
+    </ul>
+   </div>
+  </div>
+ </div>
+</div>
+<div class="clearfix">
+</div>
+<div class="entry-content post-footer-n-pagination">
+ <div class="metadata">
+  <ul>
+   <li class="meta_date">
+   </li>
+   <li class="meta_tags">
+    By
+    <a href="http://dev.foundational-research.org/author/brian-tomasik/">
+     Brian Tomasik
+    </a>
+    .
+   </li>
+   <li class="meta_tags">
+    <span class="tags-links">
+     Topic:
+     <a href="http://dev.foundational-research.org/topic/consciousness/" rel="tag">
+      Consciousness
+     </a>
+     .
+    </span>
+   </li>
+   <li class="meta_tags">
+    <a href="/research">
+     View all research
+    </a>
+    .
+   </li>
+  </ul>
+  <div class="clearfix">
+  </div>
+ </div>
+</div>

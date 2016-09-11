@@ -1,0 +1,808 @@
+<div class="entry-content">
+ <p class="body-dark">
+  First written: 20 Dec. 2013; last update: 7 Nov. 2015
+ </p>
+ <h2>
+  Summary
+ </h2>
+ <p>
+  This piece presents a hypothetical dialogue that explains why instrumental computational processes of a future superintelligence might evoke moral concern. I give some examples of present-day systems that we may consider at least somewhat conscious, such as news reporting or automated stock trading. Agent-like components seem to emerge in many places, and it's plausible this would continue in the computing processes of a future civilization. Whether these subroutines matter, how much they matter, and how to even count them are questions for future generations to figure out, but it's good to keep an open mind to the possibility that our intuitions about what suffering is may change dramatically with new insights.
+ </p>
+ <h2 id="Dialogue">
+  <span id="Dialogue">
+   Dialogue
+  </span>
+ </h2>
+ <p>
+  <i>
+   Alice
+  </i>
+  : Greetings, Brian. I heard that you're concerned about the possibility of what you call "suffering subroutines." You say that artificial intelligences (AIs) in the future -- whether human-inspired or
+  <a href="http://wiki.lesswrong.com/wiki/Paperclip_maximizer">
+   paperclipping
+  </a>
+  -- might run immense numbers of computations that we may consider to be conscious suffering. I find this hard to believe. I mean, why wouldn't instrumental computations be just dumb components of an unfeeling system?
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : They might be, but they might not be, and the latter possibility is important to consider. As one general point, note that sentience evolved on Earth (
+  <a href="https://www.facebook.com/brian.tomasik/posts/620256828222">
+   possibly more than once
+  </a>
+  ), so it seems like a useful algorithmic construct.
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : Sure, sentience was useful on Earth for competitive organisms, but in the subroutines of an AI, every computation is subserving the same goal. Processes are allocated computing resources "each according to his needs from each according to his talents," as Dan Dennett
+  <a href="http://youtu.be/OlRHd-r2LOw?t=14m52s">
+   observed
+  </a>
+  .
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : Possibly. But in that same talk you cite, Dennett goes on to explain that computing processes in the human brain may be competitive rather than cooperative, Darwinian rather than Marxist. Dennett
+  <a href="http://www.youtube.com/watch?v=OlRHd-r2LOw&amp;feature=youtu.be&amp;t=16m24s">
+   proffers
+  </a>
+  a hypothesis that "centrally planned economies don't work, and neither do centrally coordinated, top-down brains."
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : Meh, if that's true, it's probably a vestige of the way evolution came up with the brain. Surely an orderly process could be designed to reduce the wasted energy of competition, and since this would have efficiency advantages, it would be a convergent outcome.
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : That's not obvious.
+  <a href="https://en.wikipedia.org/wiki/Evolutionary_algorithm">
+   Evolutionary algorithms
+  </a>
+  are widely useful and not always replaceable by something else. In any event, maybe non-Darwinian processes could also consciously suffer.
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : Umm, example, please?
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : It seems plausible that many accounts of consciousness would include non-competitive processes under their umbrellas. Take the
+  <a href="https://en.wikipedia.org/wiki/Global_Workspace_Theory">
+   global-workspace theory
+  </a>
+  for instance. Are you familiar with that?
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : Do explain.
+ </p>
+ <p>
+  <a name="LIDA">
+  </a>
+  <i>
+   Brian
+  </i>
+  : In the so-called
+  <a href="http://ccrg.cs.memphis.edu/tutorial/mindAccordingToLIDA/Brief-Account.pdf">
+   LIDA implementation
+  </a>
+  of the global-workspace model, a cognitive cycle includes the following components:
+ </p>
+ <ul>
+  <li>
+   Incoming sensations from the world are momentarily stored by sensory memory.
+  </li>
+  <li>
+   Many parallel unconscious modules operate on these sensations, picking them apart in various ways, and drawing on stored memories for additional insight.
+  </li>
+  <li>
+   These unconscious modules form coalitions, advocating for why their insights are most important.
+   <img align="right" alt="" height="40%" src="http://utilitarian-essays.com/Broadcast.png" title="'Visualisation of broadcast routing scheme.' Uploaded by Easyas12c, who says 'Visual model is based on some similar images hosted at www.gloomfaq.de. They were cached by google image search, but were no longer available, so I don't know the original author. I created these new images from scratch, but the appearance is very similar.' This image is in the public domain worldwide. https://commons.wikimedia.org/wiki/File:Broadcast.svg" width="40%"/>
+   One coalition "wins" the contest and moves on to the global workspace, where the "news" is broadcast throughout the brain. This broadcasting is consciousness. The apparent serial nature of subjective experience despite parallel subcomponents results from the fact that only one news item is broadcast at a time.
+  </li>
+  <li>
+   The broadcasted news then produces updates to memories and learning in various parts of the brain, including inclinations to select different actions (i.e.,
+   <a href="http://www.utilitarian-essays.com/reinforcement-learning.html">
+    reinforcement learning
+   </a>
+   ). Information may also return from the receiver back to the broadcaster.
+  </li>
+  <li>
+   With these updated activations for various behaviors, the organism then acts on the environment, receives new sensations, and the cycle happens again. These cycles are hypothesized to occur at about 10 Hz.
+  </li>
+ </ul>
+ <p>
+  <a href="http://ccrg.cs.memphis.edu/tutorial/synopsis.html">
+   This diagram
+  </a>
+  lays out the various components.
+ </p>
+ <p>
+  Note that Stan Franklin, one of the managers of the LIDA project, believes that the earlier version of his system, IDA, is "functionally conscious" but not "phenomenally conscious," as he explains in his 2003 paper, "
+  <a href="http://ccrg.cs.memphis.edu/assets/papers/IDA-ConsciousArtifact.pdf">
+   IDA, a Conscious Artifact?
+  </a>
+  " This seems to stem from his tentative agreement with David Chalmers about the hard problem of consciousness (see p. 10). Because I believe this view is
+  <a href="http://www.utilitarian-essays.com/consciousness.html">
+   confused
+  </a>
+  , I think the functional consciousness under discussion here
+  <i>
+   is
+  </i>
+  also phenomenal consciousness.
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : I see. So why is this relevant?
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : If consciousness is this kind of "global news broadcasting," it seems to be a fairly common sort of operation. I mean, one obvious example is the news itself: Stories compete for worthiness to be aired, and the most important news segments are broadcast, one at a time, to viewers who then update their memories and actions in response. Then new things happen in the world, new stories take place, many reporters investigate them in parallel, they compete to get their stories aired, and the cycle happens again. "Emotions" and "dispositions" may
+  <a href="https://en.wikipedia.org/wiki/Neuromodulation">
+   modulate
+  </a>
+  this process -- for instance, more conservative news agencies will prefer to air different stories than liberal news agencies, and the resulting messages will be biased in the direction of the given ideology. Likewise, the national mood at a given moment may cause some stories to be more relevant than they would have been given a different mood. People who care a lot about the news stories they hear may get in touch with the news agencies to give feedback and engage in further coordination ("reentrant signaling"). And so on.
+ </p>
+ <p>
+  Of course, we see analogous behavior in other places as well:
+ </p>
+ <ul>
+  <li>
+   The various "unconscious" computing components of an airplane flight system might update their calculations based on a globally broadcast signal about latitude, longitude, wind resistance, turbulence, etc., and "memory" logs of the past data stream may be stored for later reference.
+   <img align="right" alt="" height="40%" src="http://utilitarian-essays.com/Philippine-stock-market-board.jpg" title="'Phillippine stock market board.' By Katrina.Tuliao [CC-BY-2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Philippine-stock-market-board.jpg" width="40%"/>
+  </li>
+  <li>
+   An updated trading price on a stock exchange is broadcast to vast numbers of individual computer-trading systems, which update their actions and save records of the price history for machine learning in the future. Theoretically, the systems could even perform
+   <a href="https://en.wikipedia.org/wiki/Online_machine_learning">
+    online learning
+   </a>
+   like animals do.
+  </li>
+  <li>
+   Data about the latest unemployment rates is announced, and this is distributed to various teams doing macroeconomic prediction. Their policy advice is then adjusted, and the data is logged for future reference. These policies affect the world, unemployment changes, measurement indicators pick up that information, it's aggregated, and then a broadcast about unemployment rates happens again next month.
+  </li>
+  <li>
+   Software patterns like
+   <a href="https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern">
+    publish–subscribe
+   </a>
+   and
+   <a href="https://en.wikipedia.org/wiki/Observer_pattern">
+    observer
+   </a>
+   involve globally broadcasting updates to many receivers who can then act on the new information.
+  </li>
+  <li>
+   <a href="https://en.wikipedia.org/wiki/Insulin#Release">
+    Insulin release
+   </a>
+   happens when glucose enters beta cells and triggers internal processes ("computations") in those cells. Those processes release calcium ions, which unlock stored insulin and "broadcast" it throughout the animal's bloodstream. The broadcast insulin signal produces updates in glucose utilization throughout the animal, which changes the internal behavior of various organs and the external behavior of the organism. (In general, hormones are a form of "information broadcasting", even though we don't normally think of processes outside the brain as being consciousness-like.)
+  </li>
+  <li>
+   In "
+   <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3664777/">
+    Global Workspace Dynamics
+   </a>
+   ," Baars, Franklin, and Ramsoy give the analogy of a fire alarm as a global signal that triggers different local actions for different people. The fire department (one receiver of the alarm) may try to locate the fire alarm itself (the broadcaster) to interact with it better, in analogy with reentrant signaling.
+  </li>
+  <li>
+   The same paper describes brain activity and waves using an analogy with a crowd at a football game. "Chatting" is what happens when people/neurons talk with their neighbors in patterned ways that may appear random when seen from a distance. "Chanting" is when a global delta wave sweeps through the population in a coordinated fashion. "Cheering" is a global wave in response to a strong stimulus.
+  </li>
+  <li>
+   The coordinated communication of large numbers of neurons could also be analogized in phenomena like social movements, where people form coalitions of synchronized activity and compete to gain attention of the media in order to broadcast their message to the whole population and thereby influence action tendencies, memories, learning, etc. This comparison takes the activist goal of "
+   <a href="https://en.wikipedia.org/wiki/Consciousness_raising">
+    raising social consciousness
+   </a>
+   " to a new level.
+  </li>
+ </ul>
+ <p>
+  Note that some of these systems are not competitive, and so the claim that lack of Darwinian competition means lack of conscious suffering may not be accurate.
+ </p>
+ <p>
+  <a name="global-consciousness">
+  </a>
+  These analogies can actually give insight into why consciousness emerges in brains: It's for a similar reason as why national and global news emerges in human society. Global broadcasting of the most important events and knowledge serves to keep every part of the social system up to date, in sync, aware of required actions (e.g., hurricane warnings, voting days), and alerted to global searches ("Have you seen this crime suspect?") and coordination. As the "
+  <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3664777/">
+   Global Workspace Dynamics
+  </a>
+  " paper says: "What is the use of binding and broadcasting in the [cortico-thalamic] C-T system? One function is to update numerous brain systems to keep up with the fleeting present." This process of serializing the most salient updates for global broadcasting may ultimately create a more effective society (organism) than if every local community were isolated and reacted independently with parochial ("unconscious") reflexes or using only
+  <a href="https://en.wikipedia.org/wiki/Tribal_knowledge">
+   tribal knowledge
+  </a>
+  . When a broadcast becomes globally conscious, it's available to all regions, including the verbal/speech centers of a person for conscious report (or to the writers/bloggers of society for verbalization in text). Events in illiterate farming communities would be "unconscious" to the world without journalists who visit to help broadcast those stories. The world can become more conscious of its memories when historians uncover and share information about past events. And the spotlight of attention shifts based on the most emotionally salient events that happen. In general, fast, global network communication over radio, television, and the Internet are making the world more conscious of itself, in a surprisingly literal sense.
+ </p>
+ <p>
+  Why do we only care about conscious experiences? For instance, we'd be horrified to undergo conscious surgery but don't mind undergoing surgery while anaesthetized. Presumably it's because the parts of us that "care about" our experiences -- such as by reacting aversively, triggering stress feelings, planning ways to avoid the experience, encoding traumatic memories, and so on -- only know about the damaging stimuli when they become conscious. Typically a strong negative stimulus will win competitions to be consciously broadcast, but when anaesthesia blocks pathways from nociceptors to access by the full brain, it prevents the suite of "caring about" responses that would ordinarily be triggered. An analogy in the social realm is that society cares about and responds to negative events when they're reported in the media, but if scandals are covered up or reporters are prevented from talking about atrocities, this is like applying local anaesthesia.
+ </p>
+ <p>
+  More often, neglect of certain harms and focus on other types of harms is built in to the system. For instance, a sliver in your eye would hurt vastly more than a sliver in your leg because your eye has many more nerve endings. Similarly, a rich person killed in the United States would attract far more attention and response than a poor person killed in Africa because there are vastly more reporters covering the former, and the story about the rich American would seem more salient to the readers (neurons) who vote it up on Twitter.
+ </p>
+ <p>
+  Another analogy between consciousness and news reporting is that in both cases, once an object enters the spotlight of attention, other events in that spotlight can come to attention that would have otherwise remained hidden. For example, suppose your leg itches, causing you to focus your consciousness on your leg. That may allow you to then feel the breeze on your leg as well, whereas you otherwise would have filtered out that information from your awareness. Likewise, when a news story about X surfaces, this often leads to investigations into other stories Y and Z that relate to X, and stories about V and W that previously would have been ignored become "newsworthy". As an example, following the
+  <a href="https://en.wikipedia.org/wiki/2015_Texas_pool_party_incident">
+   pool party incident
+  </a>
+  in McKinney, Texas on 5 Jun. 2015, a series of other news stories about McKinney, Texas also became national headlines, whereas previously those kinds of stories wouldn't have reached beyond the local news.
+ </p>
+ <p>
+  I haven't explored interpretations of the processes mentioned above according to other
+  <a href="http://www.scholarpedia.org/article/Models_of_consciousness">
+   models of consciousness
+  </a>
+  , but I expect you'd find that systems like these would be at least somewhat conscious in those frameworks as well. In general, most accounts of what consciousness is appeal to general principles that don't go away when neurons stop being involved.
+ </p>
+ <p>
+  And beyond consciousness, we can see other mind-like processes at play in many systems. Take memory for example. Apparently memories consist of neural connections that become strengthened by repeated use, and they fade as the connections decay. This reminds me of a series of dirt roads through a town. They're first created by some event, they become strengthened with use, and they revert back to wilderness with disuse. A road that hasn't been traveled on in years may become overrun by returning vegetation, but it can still be re-activated more easily than creating a new road from scratch somewhere else. And like with neural connections, a stronger road allows things to flow more easily between the regions it connects.
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : Are you really saying that news reports and stock exchanges are conscious? And that roads have memory?
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : I don't know. But I think we should take the possibility seriously. In any case, it could be that future computational systems contain more human-like entities. For instance, suppose an AI wants to undertake a research program on string theory, to better update its models of physics. It will partition some fraction of computing power to that project. It may want to parallelize the work for speed, so it might create lots of different "research teams" that work on the problem separately and publish their results to others. These teams might compete for "grant money" (i.e., additional computing resources) by trying to produce high-quality findings better than the other teams. These components might be sufficiently agent-like as to evoke our moral concern.
+ </p>
+ <p>
+  The process of intelligently searching the space of possibilities based on value assessments is a general phenomenon. Animals search through a field until they find a lush patch of strawberries; then they experience reward at the discovery and focus their efforts there for a while. Humans, too, feel reward while trying to figure things out. For instance, V.S. Ramachandran's
+  <a href="http://jjgallaher.blogspot.com/2009/07/art-in-brain-peekaboo-principle.html">
+   peekaboo principle
+  </a>
+  is based on the idea that humans receive little squirts of pleasure every time they unpack a small piece of a puzzle, and these "mini aha" moments motivate them to keep going. Perhaps there would be a similar process at play for an AI's research teams. When a small discovery is made, the good news is broadcast throughout the team, and this encourages more actions like what led to the discovery.
+ </p>
+ <p>
+  As I stated it, this model suggests something akin to David Pearce's
+  <a href="http://www.hedweb.com/object33.htm">
+   gradients of bliss
+  </a>
+  because the rewards for research discoveries are positive. But perhaps the system would use gradients of agony, with research findings being rewarded by temporary relief from discomfort. If there is a possibility for choice between a "gradients of bliss" and a "gradients of agony" design to achieve roughly similar computational ends, this suggests room for humane concerns to make a meaningful difference.
+ </p>
+ <p>
+  As another illustration, consider economics. Under both capitalism and communism, we see the emergence of hierarchical forms of organization. The CEO of a corporation seems like a decent model for the conscious control center of a brain: The workers perform their duties away from its sight, and then the most important news about the company is bubbled up to the CEO's desk. Then the CEO broadcasts updates to all the workers, including compensation rewards, which adjust worker action inclinations. The company also stores records of these events for later use. The most important ("emotionally salient") historical memories are better preserved, and less relevant ones slowly decay with time. This whole process mimics the global-workspace theory in broad outline. And the fact that hierarchies of this type have emerged in all kinds of governmental and economic systems suggests that they may be common even among the construction workers and researchers of an AI.
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : Hmm, maybe. But if there are just a few companies that the AI is directing, that's not a lot of conscious minds. Maybe these suffering corporations are then not a big deal, relative to much larger numbers of suffering wild animals, etc. What's more, the
+  <a href="http://www.utilitarian-essays.com/computations-i-care-about.html#clock-speed">
+   clock speed
+  </a>
+  of a corporate consciousness would be glacial compared with that of an animal.
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : Well, even if we don't weight by brain size, who says corporations are the only parts of this process that are conscious? Hierarchical organization is a recurrent pattern of organized systems in general. It could happen at the highest level -- the executive AI controlling its component corporations -- but it would also happen in a fractal way at many lower layers too: Each corporation is composed of subdivisions, each subdivision has its own subdivisions, etc. At some point we might hit a level of entities analogous to "workers." Even below that might be the subcomponent coalitions of an individual worker's brain, which compete for attention by the worker brain's executive-control system. Each of these could have consciousness-like components. And their clock speeds would be quite fast.
+ </p>
+ <p>
+  One concept in the LIDA model is that of a "codelet," which
+  <a href="http://people.cs.kuleuven.be/~joaquin.vanschoren/Flexo/uml/glossary/codelet.html">
+   one page
+  </a>
+  defines as
+ </p>
+ <blockquote>
+  <p>
+   tiny agents, carrying small pieces of code (hence the name). They can be interpreted as being a small part of a process, but then leading its own life, very much like an ant is a small part of a "process" to gather food, to defend the anthill or to nurture newborns. They run in parallel [...], and none are indispensable.
+  </p>
+  [...] The entity calling the codelet will estimate its urgency (reflecting the promise of further investigation). Highly urgent codelets can preempt lower urgency codelets [...], and if a codelet's urgency sinks well below that of other's, it just dies out, leaving computer resources to more ambitious codelets. If a codelet sees it has no real work to do in the current situation (due to a bad estimation or changed situation), it sizzles.
+ </blockquote>
+ <p>
+  It's
+  <a href="http://www.utilitarian-essays.com/insect-pain.html">
+   plausible
+  </a>
+  that individual ants are conscious. So too, maybe even tiny components of an individual worker's brain could be seen as conscious.
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : But if a larger consciousness contains many smaller consciousnesses, which each contain many smaller consciousnesses, how do we count them? What are the weights? Do the lowest-level consciousnesses dominate? This discussion is getting curiouser and curiouser!
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : Indeed. But these are issues that we need to resolve at some point. To some extent I'm
+  <a href="http://utilitarian-essays.com/robustness-against-uncertainty.html">
+   punting the question
+  </a>
+  to our more intelligent descendants. Still, it's useful to realize that suffering subroutines
+  <i>
+   could
+  </i>
+  be a big deal in the future, so that we don't naively reach conclusions based on a circumscribed view of what we might care about.
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : From the standpoint of "consciousness as broadcasting," do you think insects are conscious?
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : It's an important question. It certainly seems plausible that insects would have some sort of LIDA-like cognitive cycle: Inputs, unconscious processing, most important insights bubble up and are distributed, and they affect action inclinations. Even if this kind of architecture didn't exist exactly, we might see adumbrations of it in whatever insects do. I mean, for example, if one part of the brain communicates its insights to several other parts of the brain, even if not globally, isn't this like a mini-broadcast? Isn't that sort of like consciousness already? In general, any kind of communication-and-updating process would have shadows of the operation that we think of as consciousness. This illustrates my
+  <a href="http://www.utilitarian-essays.com/computations-i-care-about.html#graded-sentience">
+   more general point
+  </a>
+  that consciousness comes in gradations -- there's not a single cutoff point where what was unconscious matter suddenly has the lights come on. There are just atoms moving in various ways, and some of them activate our sympathies more than others.
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : Well, that raises a question: If we can care about whatever we like, however much we like, why shouldn't I just care about humans and maybe some animals, and forget about these suffering subroutines entirely?
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : You can do that, and perhaps we would choose to upon reflection. I don't know what the best criteria are for carving out our caring-about function. But it seems plausible that algorithms are a big part of it, and then when we see processes that resemble these algorithms somewhere else, it raises the question of why we care about them in some forms but not others. I don't know where our hearts will ultimately fall on the matter.
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : Do you think even basic physics might contain consciousness?
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : I don't know. I hope not, but I wouldn't rule it out. Giulio Tononi's "phi" postulates that even an electron has a nonzero measure of consciousness, for instance.
+ </p>
+ <p>
+  With the global-workspace model, maybe we could see elementary particles as broadcasting information that then influences other regions -- e.g., the nuclear reactions in the sun broadcast photons, and the sun's mass pulls other objects toward it. But it's not clear that any real "agent" process is going on here. Where are the learning, action selection, memories, etc.? So naively it seems like these kinds of dead physical things aren't conscious, but maybe I'm not looking at them right, and maybe we'll discover ways in which there are agents even in the math of microscopic physics.
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : Speaking of math, do you think Darwinism could ultimately go the way of the dodo? I mean, Darwinian competition is just an attempt at
+  <a href="https://en.wikipedia.org/wiki/Hill_climbing">
+   hill climbing
+  </a>
+  in a high-dimensional space. But sometimes we have mathematical tools that let us perform exact optimizations without needing to "guess and check." Could intelligence ultimately be reduced to a series of really big mathematical optimization problems that can be solved (at least somewhat) analytically, thereby averting a lot of this expensive computation of agent-like things? Similarly, reinforcement learning is
+  <a href="http://webdocs.cs.ualberta.ca/~sutton/papers/sutton-barto-williams-91.pdf">
+   direct adaptive optimal control
+  </a>
+  , but optimal-control problems can potentially be solved by analytic methods like the Bellman equations if you know the payoffs and transition probabilities ahead of time.
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : Maybe, though it does seem hard to imagine that we could analytically solve some of these really specific, data-driven problems without computing in detail the process being modeled. Perhaps this just reflects lack of imagination on my part, and of course, there are times when macro-scale approximations can remain ignorant of microfoundations. In any case, the actions of the AI on the galaxy to implement its goals would still require lots of real, physical manipulation -- e.g., supervisors to coordinate workers in building solar colonies and such. The possibility you cite is fun to speculate on, but it's not sufficiently probable to substantially affect the concern about suffering subroutines, given that consciousness-like processes seem to be such a convergent feature of organized systems so far.
+ </p>
+ <p>
+  <a name="ecosystems">
+  </a>
+  <i>
+   Alice
+  </i>
+  : Do ecosystems suffer? Could this broad view of consciousness provide some vindication of the otherwise seemingly absurd idea that nature as a whole can have moral standing apart from the welfare of the individuals it contains?
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : In principle it's certainly possible ecosystems could contain shadows of consciousness, but it's not clear they usually do. Where is the global broadcasting? What are the action components that are being updated? Maybe you could come up with some interpretations. Even if so, it's not clear what an ecosystem wants. Unlike corporations or ants, ecosystems don't have clear goals. Even if we identified a goal, it wouldn't necessarily align conservationism; it might go the other way. In any event, even if an ecosystem's consciousness did align with conservationism, it's dubious whether the interests of the ecosystem as a whole could outweigh those of
+  <a href="http://www.utilitarian-essays.com/number-of-wild-animals.html">
+   quintillions
+  </a>
+  of suffering individual animals within it.
+ </p>
+ <p>
+  If we think ecosystems can suffer, then a natural way to prevent future suffering is to have fewer of them. Even if we adopted the stance from environmental ethics of considering ecosystems objects of intrinsic moral importance regardless of sentience, it's not obvious that ecosystems are inherently
+  <i>
+   good
+  </i>
+  ? We might think they're inherently
+  <i>
+   bad
+  </i>
+  . This kind of "negative environmental ethics" seems a natural idea for a negative-leaning consequentialist.
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : Yeah. Maybe one suggestion could be that the atmospheric CO
+  <sub>
+   2
+  </sub>
+  levels are a global signal broadcast to all subcomponents of the biosphere. This then causes (very small) changes in the behavior of animals, plants, and inorganic entities like sea ice. The responses of these entities then have an impact back on CO
+  <sub>
+   2
+  </sub>
+  levels, which are then broadcast globally. I guess in this model, the broadcasts are continuous rather than discrete.
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : I suppose that's one interpretation you could make, though what would be the valence of CO
+  <sub>
+   2
+  </sub>
+  ? In the stock-trading example, we could say that for the subset of traders that are net long in the security, an increase in the stock price would have positive valence. What about for CO
+  <sub>
+   2
+  </sub>
+  ?
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : Maybe those organisms that do better with more CO
+  <sub>
+   2
+  </sub>
+  would receive it with positive valence, and vice versa? The "learning" of the ecosystem would then be strengthening those organisms that do well with higher CO
+  <sub>
+   2
+  </sub>
+  , just like the dopaminergic learning of an animal involves strengthening connections for action neurons that just fired given the current context.
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : Ok, I can kind of see that, although in the case of dopamine, the action neurons were responsible for bringing the reward; in the case of the atmosphere, a whole bunch of stuff brought the increase in CO
+  <sub>
+   2
+  </sub>
+  levels, and it wasn't necessarily the organisms that benefit from CO
+  <sub>
+   2
+  </sub>
+  who were responsible for the emissions. Indeed, people often remark how humans in the global South are "punished" by the CO
+  <sub>
+   2
+  </sub>
+  emissions of those in the global North.
+ </p>
+ <p>
+  Anyway, even if we did consider the carbon cycle somewhat analogous to a brain, keep in mind that the clock speed of this operation is really slow. Of course, since CO
+  <sub>
+   2
+  </sub>
+  changes are continuous rather than coming in discrete pulses, the idea of a clock speed isn't really appropriate, but I guess we can still create a rough notion about cycles per year of relevant operations.
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : And of course, at the same time, we could have H
+  <sub>
+   2
+  </sub>
+  O levels as another currency of the biosphere, and temperature as another, and so on. There would be multiple broadcasting systems at play.
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : Right. In general, we can pattern-match a complex process in many different ways as being composed of many different systems that each have some resemblance to consciousness. This actually returns us to the old puzzle in the philosophy of computationalism:
+  <a href="http://utilitarian-essays.com/computations-i-care-about.html#what-is-a-computation">
+   What is a computation, anyway?
+  </a>
+  One answer is that we see various physical processes as resembling various computations to various degrees, and we can then care about them in proportion to their resemblance. The same thing is going on here -- only, this is not John Searle's toy Wordstar program in the wall but a genuine instance of seeing consciousness-like operations in various places. It's like
+  <a href="https://en.wikipedia.org/wiki/Pareidolia">
+   pareidolia
+  </a>
+  for our empathy systems.
+ </p>
+ <p>
+  Personally, I don't really care intrinsically about the Earth's carbon cycle, water cycle, etc. to any appreciable degree. I think the connection to animal minds is a pretty far stretch.
+ </p>
+ <p>
+  <i>
+   Alice
+  </i>
+  : Yes. Moreover, the way we've been discussing consciousness has been pretty simple and crude. There may be important pieces of the puzzle that we've neglected, and we might consider these important as well for making an entity conscious in a way that matters.
+ </p>
+ <p>
+  <i>
+   Brian
+  </i>
+  : Agreed! This should not be taken as the end of the conversation but only the beginning.
+ </p>
+ <h2 id="Further-analogies">
+  <span id="Further_analogies">
+   Further analogies
+  </span>
+ </h2>
+ <p>
+  There are many more similarities between operations in our brains and phenomena in the worlds of politics, physics, etc. Sebastian Seung's book
+  <i>
+   <a href="https://en.wikipedia.org/wiki/Connectome:_How_the_Brain%27s_Wiring_Makes_Us_Who_We_Are">
+    Connectome
+   </a>
+  </i>
+  provides several additional comparisons. One of my friends remarked on Seung's work: "I don't think I've ever read a book with so many illuminating analogies!" While most of Seung's readers presumably see these analogies as merely didactic aids, I would suggest that they might also have moral significance if we care about brain-like processes in non-brain places.
+ </p>
+ <h2>
+  <span id="Why_is_pain_so_painful">
+   Why is pain so painful?
+  </span>
+ </h2>
+ <p>
+  Richard Dawkins
+  <a href="http://boingboing.net/2011/06/30/richard-dawkins-on-v.html" title="&quot;Richard Dawkins on vivisection: 'But can they suffer?'&quot;">
+   mentions
+  </a>
+  a common thought:
+ </p>
+ <blockquote>
+  <p>
+   It is an interesting question, incidentally, why pain has to be so damned painful. Why not equip the brain with the equivalent of a little red flag, painlessly raised to warn, "Don't do that again"?
+  </p>
+ </blockquote>
+ <p>
+  The answer is actually suggested by the analogy with a little red flag. When you see small warnings on your computer, do you always attend to them? And do they produce significant shifts in your behavior in the future? Typically, no. Little red flags are all too easy to ignore or close without being given much thought. Pain has to be "so painful" because that's what it looks like for an emotion to demand your attention. Weak pain is less likely to be addressed.
+ </p>
+ <p>
+  In addition, stronger pain experiences produce bigger impacts on the brain, in terms of physiological arousal, reinforcement, memory associations, and so on. Insofar as these functions also contribute to what "pain" is, pain has to be intense when there are big changes to these systems.
+ </p>
+ <p>
+  If an artificial agent didn't need to respond to a harmful stimulus in the short run but only needed to update its learning and memory functions, maybe some of the badness of pain could be averted. But these updates might still count as somewhat painful, and the agent would still acquire "traumatic" memories that would produce suffering when activated later on.
+ </p>
+ <h2>
+  <span id="Suffering_can_be_simple_A_reply_to_Metzinger">
+   Suffering can be simple: A reply to Metzinger
+  </span>
+ </h2>
+ <p>
+  In response to the 2015 Edge question, "What do you think about machines that think?", Thomas Metzinger
+  <a href="http://edge.org/response-detail/26091" title='"What If They Need To Suffer?" for "2015 : WHAT DO YOU THINK ABOUT MACHINES THAT THINK?"'>
+   explored
+  </a>
+  a similar question as the above dialogue addressed: Will AIs necessarily suffer, or could they be intelligent without suffering? Metzinger doesn't give a firm answer, but he enumerates four conditions that he believes are necessary for suffering:
+ </p>
+ <ol>
+  <li>
+   Being conscious
+  </li>
+  <li>
+   Being self-conscious in the sense of having a sense of ownership of suffering (e.g., "this is
+   <i>
+    my
+   </i>
+   suffering")
+  </li>
+  <li>
+   The experience has negative valence
+  </li>
+  <li>
+   The negative valence is transparent in the sense that it can't be doubted.
+  </li>
+ </ol>
+ <p>
+  This list is interesting and provides four helpful criteria that may enhance a holistic conception of suffering, but in my opinion these criteria are neither necessary nor exhaustive. I would consider them like four principles that one might propose for the meaning of "justice" -- a concept sufficiently complex that probably no four concrete criteria by themselves can define it.
+ </p>
+ <p>
+  Let's see why each of these conditions is not strictly necessary. The most straightforward is probably #2, since it seems easy to imagine being in pain without engaging sufficient cognition to attribute that pain to yourself. Suffering can be a flood of "badness" feeling, which needn't be sufficiently differentiated that one recognizes that the badness is an experience of oneself. For instance, a depressed person might feel that the whole world is bad -- that there's just a general badness going on.
+ </p>
+ <p>
+  #4 also doesn't seem necessary, because it can still be morally disvaluable if someone is uncertain whether he's in agony. For instance, suppose you step on something. You're not sure whether the object has punctured the skin of your foot. You think you might feel some sharp pain in your foot, but you're not sure if it's actually there or just imagined, until you actually look at your foot and see the sharp object. (Michael Tye offers a
+  <a href="http://www.michaeltye.us/Pain2.pdf" title='see the last question of the interview, "MICHAEL TYE ON PAIN" (http://philosophybites.com/2012/08/michael-tye-on-pain.html)'>
+   similar example
+  </a>
+  .) I'm not sure what Metzinger would think of this case. In any event, it seems that transparency is actually quite easy to satisfy. It takes a complex cognitive system to produce doubts about experiences. Simple agents should generally have transparent emotions.
+ </p>
+ <p>
+  As far as #1, I think
+  <a href="http://dev.foundational-research.org/flavors-computation-flavors-consciousness/">
+   all systems are
+  </a>
+  at least marginally conscious, so even if condition #1 is necessary, it's always satisfied. Of course, the
+  <i>
+   degree
+  </i>
+  of consciousness of a system matters enormously, but Metzinger's piece seems to be asking whether particular AIs would suffer at all.
+ </p>
+ <p>
+  As far as #3, I agree that valence plays an important, perhaps central, role in human suffering. This valence might prototypically be the
+  <a href="http://reducing-suffering.org/ethical-issues-artificial-reinforcement-learning/#Valence_networks">
+   reward part
+  </a>
+  of a reinforcement-learning (RL) system. If one insists that valence can only make sense in the context of a rigid definition of RL, then I agree that not all AIs would have valence (although many still would, given the importance of RL for autonomous behavior). But if we interpret negative valence more broadly as "information indicating that something should be avoided", or even more compactly as "information that produces avoidance", then this kind of operation can be seen in many more systems, including non-learning agents that merely follow fixed stimulus-response rules. Indeed, the basic template of one physical event causing another avoidance-like event runs as deep as the interactions of fundamental physical particles, if we take enough of a high-level view and don't insist on greater complexity in our definition.
+ </p>
+ <p>
+  Overall, I find Metzinger's criteria too narrow. They leave out vast numbers of simpler systems that I think still deserve some ethical consideration. Nonetheless, I appreciate that Metzinger's proposals enrich our conceptualization of more complex suffering.
+ </p>
+ <h2>
+  <span id="Onion_piece">
+   <i>
+    Onion
+   </i>
+   piece
+  </span>
+ </h2>
+ <p>
+  <i>
+   The Onion
+  </i>
+  has a humorous article, "
+  <a href="http://www.theonion.com/article/scientists-confident-artificially-intelligent-mach-51170">
+   Scientists Confident Artificially Intelligent Machines Can Be Programmed To Be Lenient Slave Masters
+  </a>
+  ," in which AI researchers discuss the goal of shaping AI trajectories in such a way that AIs treat their human workers (what I might call "suffering human subroutines") more humanely. I find it extremely implausible that AIs would actually use human laborers in the long run, but they plausibly would use conscious worker agents of some sort -- both sophisticated scientist/engineer subroutines and other simpler subroutines of the kind discussed in this piece.
+ </p>
+ <p>
+  Unlike human laborers, these subroutines would presumably enjoy working as hard as possible on the task at hand. Humans evolved to dislike exertion as a way to conserve energy except when required, but robots built to carry out a given task would be optimized to want to carry out exactly that task. That said, more sophisticated digital agents might, like humans, feel mild unpleasantness if they expended time or energy on fruitless activities. For instance, a robot should dislike moving around and thereby draining its battery unless it thinks doing so will conduce to achieving a reward.
+ </p>
+ <h2 id="Acknowledgements">
+  <span id="Acknowledgements">
+   Acknowledgements
+  </span>
+ </h2>
+ <p>
+  I learned of the idea that suffering subroutines might be ethically relevant from Carl Shulman in 2009. In response to this piece, Carl
+  <a href="https://www.facebook.com/brian.tomasik/posts/641988228322?comment_id=905370&amp;offset=0&amp;total_comments=7">
+   added
+  </a>
+  :
+ </p>
+ <blockquote>
+  <p>
+   Of course, there can be smiling happy subroutines too! Brian does eventually get around to mentioning "gradients of bliss", but this isn't a general reason for expecting the world to be worse, if you count positive experiences too.
+  </p>
+  <p>
+   I would say "sentient subroutines."
+  </p>
+ </blockquote>
+ <p>
+  Some examples in this piece were also partly inspired from a
+  <a href="https://www.facebook.com/ben.west.1029/posts/10201401708580746">
+   post
+  </a>
+  by Ben West, linking to Eric Schwitzgebel's "
+  <a href="http://www.faculty.ucr.edu/~eschwitz/SchwitzPapers/USAconscious-130208.htm">
+   If Materialism Is True, the United States Is Probably Conscious
+  </a>
+  ," which I discuss more
+  <a href="http://www.utilitarian-essays.com/hedonistic-vs-preference.html#non-conscious">
+   in another piece
+  </a>
+  .
+ </p>
+ <h2 id="A_note_on_terminology">
+  <span id="A_note_on_terminology">
+   A note on terminology
+  </span>
+ </h2>
+ <p>
+  I coined the phrase "suffering subroutines" in a 2011 post on
+  <a href="http://felicifia.org/">
+   Felicifia
+  </a>
+  . I chose the alliteration because it went nicely with "sentient simulations," giving a convenient abbreviation (SSSS) to the conjunction of the two concepts. I define sentient simulations as explicit models of organisms that are accurate enough to count as conscious, while suffering subroutines are
+  <i>
+   incidental
+  </i>
+  computational processes that nonetheless may matter morally. Sentient synthetic
+  <a href="https://en.wikipedia.org/wiki/Artificial_life">
+   artificial-life
+  </a>
+  agents are somewhere on the border between these categories, depending on whether they're used for psychology experiments or entertainment (sentient simulations) vs. whether they're used for optimization or other industrial processes (suffering subroutines).
+ </p>
+ <p>
+  It appears that
+  <a href="https://web.archive.org/web/20140220185104/http://www.rotman.uwo.ca/who-we-are/our-members/meghan-winsby/">
+   Meghan Winsby
+  </a>
+  (coincidentally?) used the same "suffering subroutines" phrase in an excellent 2013 paper: "
+  <a href="http://www.iacap.org/proceedings_IACAP13/paper_48.pdf">
+   Suffering Subroutines: On the Humanity of Making a Computer that Feels Pain
+  </a>
+  ." It seems that her usage may refer to what I call sentient simulations, or it may refer to general artificial suffering of either type.
+ </p>
+ <ol class="ajs-fn">
+ </ol>
+ <div class="sharedaddy sd-sharing-enabled">
+  <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
+   <h3 class="sd-title">
+    Share this:
+   </h3>
+   <div class="sd-content">
+    <ul>
+     <li class="share-facebook">
+      <a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-251" href="http://dev.foundational-research.org/a-dialogue-on-suffering-subroutines/?share=facebook" rel="nofollow" target="_blank" title="Click to share on Facebook">
+       <span>
+       </span>
+       <span class="sharing-screen-reader-text">
+        Click to share on Facebook (Opens in new window)
+       </span>
+      </a>
+     </li>
+     <li class="share-twitter">
+      <a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-251" href="http://dev.foundational-research.org/a-dialogue-on-suffering-subroutines/?share=twitter" rel="nofollow" target="_blank" title="Click to share on Twitter">
+       <span>
+       </span>
+       <span class="sharing-screen-reader-text">
+        Click to share on Twitter (Opens in new window)
+       </span>
+      </a>
+     </li>
+     <li class="share-reddit">
+      <a class="share-reddit sd-button share-icon no-text" data-shared="" href="http://dev.foundational-research.org/a-dialogue-on-suffering-subroutines/?share=reddit" rel="nofollow" target="_blank" title="Click to share on Reddit">
+       <span>
+       </span>
+       <span class="sharing-screen-reader-text">
+        Click to share on Reddit (Opens in new window)
+       </span>
+      </a>
+     </li>
+     <li class="share-end">
+     </li>
+    </ul>
+   </div>
+  </div>
+ </div>
+</div>
+<div class="clearfix">
+</div>
+<div class="entry-content post-footer-n-pagination">
+ <div class="metadata">
+  <ul>
+   <li class="meta_date">
+   </li>
+   <li class="meta_tags">
+    By
+    <a href="http://dev.foundational-research.org/author/brian-tomasik/">
+     Brian Tomasik
+    </a>
+    .
+   </li>
+   <li class="meta_tags">
+    <span class="tags-links">
+     Topic:
+     <a href="http://dev.foundational-research.org/topic/consciousness/" rel="tag">
+      Consciousness
+     </a>
+     .
+    </span>
+   </li>
+   <li class="meta_tags">
+    <a href="/research">
+     View all research
+    </a>
+    .
+   </li>
+  </ul>
+  <div class="clearfix">
+  </div>
+ </div>
+</div>
