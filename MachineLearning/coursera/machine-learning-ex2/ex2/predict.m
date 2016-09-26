@@ -15,7 +15,20 @@ p = zeros(m, 1);
 %               You should set p to a vector of 0's and 1's
 %
 
+% Compute probabilites
+p = sigmoid(X*theta)
 
+% Choose threshlevel
+threshlevel = 0.5
+
+% Set p > threslevel to 1 (positive)
+% and p < threshlevel to 0 (negative)
+% Get indices first
+above = find(p >= threshlevel);
+below = find(p < threshlevel);
+% u
+p(above) = 1;
+p(below) = 0;
 
 
 
