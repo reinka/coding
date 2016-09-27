@@ -23,7 +23,8 @@ h = sigmoid(z);
 
 % Remember not to regularize theta 1 which is the intercept
 % So exclude theta(1) in the regularization term
-J = 1/m * ( (-y' * log(h)) - ((1-y)' * log(1 - h)) ) + lambda/(2*m) * theta(2:end)'*theta(2:end);
+J = 1/m * ( (-y' * log(h)) - ((1-y)' * log(1 - h)) ) ... 
+    + lambda/(2*m) * theta(2:end)'*theta(2:end);
 
 grad = 1/m * X' * (h - y);
 grad(2:end) = grad(2:end) + theta(2:end)*lambda/m;
