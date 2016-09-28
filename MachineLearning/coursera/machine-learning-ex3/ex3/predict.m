@@ -20,11 +20,21 @@ p = zeros(size(X, 1), 1);
 %       information see 'help max'. If your examples are in rows, then, you
 %       can use max(A, [], 2) to obtain the max for each row.
 %
+% Add bias 
+X = [ones(m, 1) X];
+% Theta1 = [ones(1,size(Theta1,2))] nvm Theta1 contains it already...
 
+% Compute activation of hiden layer
+z2 = X*Theta1';
+a2 = sigmoid(z2);
+% Add bias
+a2 = [ones(m,1) a2];
+h = sigmoid(a2 * Theta2');
 
-
-
-
+% Extract digit with max probability and us this as a prediction
+% since the p-values are in columns ranging form 1-10 we can just
+% use the according column index as our label prediction 
+[p_value, p] = max(h, [], 2);
 
 
 
