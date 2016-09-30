@@ -64,27 +64,28 @@ Theta2_grad = zeros(size(Theta2));
 
 % Transform y into dummy variables
 
-y_matrix = eye(num_labels)
+y_matrix = eye(num_labels);
 y = y_matrix(y,:); % see https://goo.gl/mQ0v3U
-size(y)
+size(y);
 % Cost function without regularization
 
 % FEEDFORWARD
 % Add bias to input
-X = [ones(m,1) X]; % -> 5000 x 401
+a1 = [ones(m,1) X]; % -> 5000 x 401
 
-    % Compute activation a2
-    z2 = X * Theta1'; 
-    a2 = sigmoid(z2);   % -> 5000x25 
+% Compute activation a2
+z2 = a1 * Theta1'; 
+a2 = sigmoid(z2);   % -> 5000x25 
 
 % Add bias to a2
-    a2 = [ones(size(a2,1),1) a2];   % 5000x26
+a2 = [ones(size(a2,1),1) a2];   % 5000x26
 
 % Compute activation a3
-    z3 = a2 * Theta2';   % 5000x10
-    a3 = sigmoid(z3);    % 5000x10
+z3 = a2 * Theta2';   % 5000x10
+a3 = sigmoid(z3);    % 5000x10
+
 % Compute Ouput h
-    h = a3;
+h = a3;
 
 % Compute Cost
 J = 0;
@@ -109,18 +110,44 @@ J =  J + lambda/(2*m) * ( reg1 + reg2 );
 
 
 
+% Backprop
+Delta1 = zeros(size(Theta1));
+Delta2 = zeros(size(Theta2));
+for t = 1:m
+    % use already computed values by cost function code above
+    a1_loop = a1(t,:);
+    a2_loop = a2(t,:);
+    z2_loop = z2(t,:); 
+    a3_loop = h(t,:);
+    
+    % Compute error from ouput layer
+    delta3 = (a3_loop - y(t,:));
+    
+    % Hidden layer l=2 now
+    z2_loop = [1  z2_loop];
+    delta2 =  delta3 * Theta2 .* sigmoidGradient(z2_loop);
+    
+    %size(delta3)
+    %size(a2_loop')
+    % Accumulate Gradient
+    Delta1 = Delta1 +  delta2(2:end)' * a1_loop;
+    Delta2 = Delta2 + delta3' * a2_loop;
+end
 
 
+Theta1_grad = 1/m * Delta1;
+Theta2_grad = 1/m * Delta2;
+
+% Add Regularization 
+Theta1_noBias = [ zeros(size(Theta1, 1), 1) Theta1(:,2:end) ];
+Theta2_noBias = [ zeros(size(Theta2, 1), 1) Theta2(:,2:end) ];
+Theta1_grad = (1 / m) * Delta1 + (lambda / m) * Theta1_noBias;
+Theta2_grad = (1 / m) * Delta2 + (lambda / m) * Theta2_noBias;
 
 
-
-
-
-
-
-% -------------------------------------------------------------
-
+% -------------------------------------------------------------------------
 % =========================================================================
+
 
 % Unroll gradients
 grad = [Theta1_grad(:) ; Theta2_grad(:)];
