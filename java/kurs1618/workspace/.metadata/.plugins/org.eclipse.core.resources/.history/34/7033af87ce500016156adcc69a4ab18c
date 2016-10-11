@@ -1,0 +1,44 @@
+package study;
+
+class Box {
+    double width;
+    double height;
+    double depth;
+    
+    //display volume of box
+    void volumen() {
+        System.out.println("Volume is " + width*height*depth);
+    }
+    
+    /**
+     * calculate volume of box
+     * @param none
+     * @return double which represents the value
+     */
+    double volume() {
+        return width*height*depth;
+    }
+}
+
+
+public class BoxDemo {
+    public static void main(String args[]) {
+        Box myBox1 = new Box();
+        Box myBox2 = new Box();
+        double vol;
+        
+        myBox1.width = 10;
+        myBox1.height = 20;
+        myBox1.depth = 15;
+        
+        myBox2.width = 6;
+        myBox2.height = 3;
+        myBox2.depth = 0.5;
+        
+        //print value
+        myBox1.volumen();
+        myBox2.volumen();
+        
+        
+    }
+}

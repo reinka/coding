@@ -1,0 +1,19 @@
+package recursion;
+
+public class RecTest {
+    int arr[];
+    
+    RecTest(int i){
+        arr = new int[i];
+    }
+    
+    /**
+     * Display array
+     * @param   n Number of index up to which elements should be displayed 
+     * @return    first n array elements 
+     */
+    void printArray(int n) {
+        if(n == 0) return;
+        System.out.println(printArray(n - 1));
+    }
+}

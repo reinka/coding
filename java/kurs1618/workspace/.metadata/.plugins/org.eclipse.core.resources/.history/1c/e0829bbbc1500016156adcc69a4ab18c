@@ -1,0 +1,9 @@
+package study;
+
+public class BoxDemo {
+    double width;
+    double height;
+    double depth;
+    
+    public static void main(String args[])
+}
