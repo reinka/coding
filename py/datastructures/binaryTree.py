@@ -104,13 +104,21 @@ def printTree(tree):
             
     print("Done traversing")
 
-x = BinaryTree()
-printTree(x)
-x.insert(35)
-x.insert(40)
-x.insert(32)
-x.insert(45)
-x.insert(2)
-x.insert(1)
-x.insert(18)
-x.insert(39)
+def main():
+
+	x = BinaryTree()
+	
+	x.insert(35)
+	x.insert(40)
+	x.insert(32)
+	x.insert(45)
+	x.insert(2)
+	x.insert(1)
+	x.insert(18)
+	x.insert(39)
+	
+	printTree(x)
+
+
+if __name__ == '__main__':
+	main()
