@@ -7,29 +7,48 @@ class BinaryTree():
         self.right = None
     
     def insert(self, data):
+        
         if self.root is None:
             self.root = data
+        
         elif data <= self.root:
-            print("Root is taken -> left")
+            
+            # check if empty
             if self.left is None:
                 self.left = data
+            
+            # if not empty
             else:
                 temp = self.left
+                
+                # check whether leaf or subtree
+                # if subtree, recursively 
+                # traverse subtree
                 if not isinstance(temp, int):
                     self.left.insert(data)
+                    
+                # else append a new subtree with current
+                # leaf being the new root/parent node 
                 else:
                     self.left = BinaryTree(temp)
                     self.left.insert(data)
         else:
-            print("Root is taken -> right")
+            # check if empty
             if self.right is None:
-                print("Right empty")
                 self.right = data
+            
+            # if not empty
             else:
-                print("Right taken. Create new subtree.")
                 temp = self.right
+                
+                # check whether leaf or subtree
+                # if subtree, recursively 
+                # traverse subtree
                 if not isinstance(temp, int):
                     self.left.insert(data)
+                    
+                # else append a new subtree with current
+                # leaf being the new root/parent node 
                 else:
                     self.right = BinaryTree(temp)
                     self.right.insert(data)
@@ -80,8 +99,8 @@ def printTree(tree):
             
     print("Done traversing")
 
-
 x = BinaryTree()
+printTree(x)
 x.insert(35)
 x.insert(40)
 x.insert(32)
@@ -90,4 +109,3 @@ x.insert(2)
 x.insert(1)
 x.insert(18)
 x.insert(39)
-printTree(x)
