@@ -8,9 +8,12 @@ class BinaryTree():
     
     def insert(self, data):
         
+        # if empty tree create root
         if self.root is None:
             self.root = data
         
+        # if new data point <= current root
+        # append as left child
         elif data <= self.root:
             
             # check if empty
@@ -32,6 +35,8 @@ class BinaryTree():
                 else:
                     self.left = BinaryTree(temp)
                     self.left.insert(data)
+        
+        # append as right child
         else:
             # check if empty
             if self.right is None:
