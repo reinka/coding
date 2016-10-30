@@ -1,0 +1,21 @@
+package sorting;
+
+public class Array {
+
+	int n, k;
+
+	Array(int[] a, int b){
+	
+	
+	}
+	
+	int[] countingSort(int[] a, int k){
+		int[] c = new int[k];
+		for(int i = 0; i < a.length; i++){
+			c[a[i]]++;
+		}
+		this.n = a.length;
+		this.k = k;	
+	}
+
+}

@@ -1,0 +1,15 @@
+package sorting;
+
+public class CountingSort {
+	int n, k;
+	int[] A, B, C;
+
+	
+	CountingSort(int[] a, int k){
+		A = a;
+		this.n = a.length;
+		this.k = k;
+		
+		
+	}
+}

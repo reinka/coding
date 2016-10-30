@@ -1,0 +1,12 @@
+package sorting;
+
+public class TestSorts {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Sort apply = new Sort();
+
+		apply.countingSort(new int[] {4,1,3,4,3}, 4);
+	}
+
+}
