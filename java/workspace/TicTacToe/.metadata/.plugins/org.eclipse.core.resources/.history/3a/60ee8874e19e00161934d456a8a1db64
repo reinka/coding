@@ -1,0 +1,283 @@
+import de.ovgu.dke.teaching.ml.tictactoe.api.IBoard;
+import de.ovgu.dke.teaching.ml.tictactoe.api.IPlayer;
+import de.ovgu.dke.teaching.ml.tictactoe.api.IllegalMoveException;
+import de.ovgu.dke.teaching.ml.tictactoe.game.Move;
+import java.util.*;
+
+/**
+ * Some comments ...
+ * 
+ * @author Andrei Poehlmann
+ */
+public class NewPlayer implements IPlayer {
+	private double EPSILON = 0.2, ALPHA = 0.3, GAMMA = 0.9;
+	private Map<String, HashMap<Integer, Double>> qvalues = new HashMap<String, HashMap<Integer, Double>>();
+	private int reward = 0;
+	private Random rand = new Random();
+	private boolean playOptimal = false;
+	private boolean gameEnded = false;
+	private boolean verbose = false;
+	
+	private String stateKey;
+	private String nextKey;
+	private int action;
+			
+	//private double getQ(int state, int action){
+		//int stateKey = makeK
+		//	if(this.q[state][action] == null){
+		//	q[state][action] = 1.0;
+//		}
+//		return q.getQ(state, action);
+	//}
+			
+	public String getName() {
+		// TODO Auto-generated method stub
+		return "Q-learner";
+	}
+
+	public int[] makeMove(IBoard board) {
+		// TODO Auto-generated method stub
+
+		// create a clone of the board that can be modified
+		IBoard copy = board.clone();
+		
+		int[] curState = this.getActions(copy); 
+		
+		//String curPlayer = this.getName();
+		
+		stateKey = makeKey(curState);
+		action = chooseAction(stateKey, curState);
+		/*
+		System.out.println("CONVERTIIIIIING" + Arrays.toString(this.convertAction(action)));
+		System.out.println(action);
+		System.out.println("Test 1: " + action);
+		*/
+		
+		// calculate next state
+		int[] nextState = new int[curState.length];
+		
+		
+		System.arraycopy(curState, 0, nextState, 0, curState.length);
+		nextState[action] = 0;
+		nextKey = makeKey(nextState);
+		
+		//System.out.println("Test 2: " + Arrays.toString(nextState));
+		
+		//System.out.println("bla" + Arrays.toString(this.getActions(copy)));
+		
+
+		// do a move using the cloned board
+		try {
+			copy.makeMove(new Move(this, new int[] { 0, 4, 4 }));
+		} catch (IllegalMoveException e) {
+			// move was not allowed
+		}
+
+		// return your final decision for your next move
+		return this.convertAction(action);
+	}
+	
+	private int[] convertAction(int action){
+		int i, j, k;
+		
+		if(action < 25){
+			k = 0;
+		}
+		else if(action < 50){
+			action -= 25;
+			k = 1;
+		}
+		else if(action < 75){
+			action -= 50;
+			k = 2;
+		}
+		else if(action < 100){
+			action -= 75;
+			k = 3; 
+		} else {
+			action -= 100;
+			k = 4;
+		}
+
+		j = action / 5;
+		i = action % 5;
+		
+		return new int[] {i, j, k};
+	}
+	
+	/**
+	 * Returns a flattened 3D Array which
+	 * indicates free positions on the board
+	 * 
+	 * @param	copy of current board
+	 * @return	1D Array with 0s and 1s,
+	 * 			where 1 indicates free position
+	 */
+	private int[] getActions(IBoard board){
+		int[] actions = new int[5*5*5];
+		
+		IBoard copy = board.clone();
+		int m,n= 1;
+		for(int i = 0; i < 5; i++){
+			
+			for(int j = 0; j < 5; j++){
+				switch (j){
+				case 0: n = 0; break;
+				case 1: n = 5; break;
+				case 2: n = 10; break;
+				case 3: n = 15; break;
+				case 4: n = 20; break;
+				default: n = 1999;
+			}
+				for(int k = 0; k < 5; k++){
+					switch (k){
+					case 0: m = 0; break;
+					case 1: m = 25; break;
+					case 2: m = 50; break;
+					case 3: m = 75; break;
+					case 4: m = 100; break;
+					default: m = 1000;
+				}
+					if(copy.getFieldValue(new int[] {i,j,k}) == null){
+						actions[m + n + i ] = 1;
+					}
+				}
+			}
+		}
+		
+		return actions;
+	}
+	
+	private void updateQValue(String stateKey, int action, String nextKey, double reward)
+	{
+		double expected = 0.0;
+		if(gameEnded)
+			expected = reward;
+		else {
+			// assumes that the opponent always makes the best move (similar to minimax)
+				expected = reward + (GAMMA * maxQ(nextKey));
+		}
+		double q = getQ(stateKey, action);
+		if(verbose)
+			System.out.printf("updating q: %.6f expected: %.6f immediate reward: %.6f", q, expected, reward);
+		q += ALPHA * (expected - q);
+		if(verbose)
+			System.out.printf(" to: %.6f\n", q);
+		setQ(stateKey, action, q);
+	}
+	
+	private int chooseAction(String stateKey, int[] curState)
+	{
+		// testing
+		if(playOptimal) {
+				return getMaxQAction(stateKey);  // play best policy
+		}
+		// learning
+		else {
+			// (1-EPSILON) % of the time choose greedy policy
+			if(rand.nextDouble() > EPSILON) {
+					return getMaxQAction(stateKey);
+			}
+			// EPSILON % of the time choose random action
+			else {
+				return randomMove(curState);
+			}
+		}
+	}
+
+	private String makeKey(int[] state)
+	{
+		String key = Arrays.toString(state);
+		// if key not in the table then add key
+		Map<Integer, Double> thisKeyEntry = qvalues.get(key);
+		if(thisKeyEntry == null) {
+			// create hashmap of all valid actions in this state and random initial qvalues
+			HashMap<Integer, Double> vals = new HashMap<Integer, Double>();
+			for(int i = 0; i < state.length; i++) {
+				if(state[i] == 1)
+					vals.put(i, (rand.nextDouble()*0.3)-0.15); // random [-0.15, 0.15] 
+			}
+			// add the hashmap to qvalues hashmap
+			qvalues.put(key, vals);
+		}
+		return key;
+	}
+	
+	private int randomMove(int[] state)
+	{
+		ArrayList<Integer> moveList = new ArrayList<Integer>();
+		for(int i = 0; i < state.length; i++)
+			if(state[i] == 1)
+				moveList.add(i);
+		return moveList.get(rand.nextInt(moveList.size()));
+	}
+	
+
+	
+	private int getMaxQAction(String stateKey)
+	{
+		double maxValue = -1.0;
+		int bestAction = -1;
+		Map<Integer, Double> vals = qvalues.get(stateKey);
+		for(Map.Entry<Integer, Double> entry : vals.entrySet()) {
+			if(entry.getValue() > maxValue) {
+				maxValue = entry.getValue();
+				bestAction = entry.getKey();
+			}  
+		}
+		return bestAction;
+	}
+
+	
+	private double maxQ(String stateKey)
+	{
+		int action = getMaxQAction(stateKey);
+		return qvalues.get(stateKey).get(action);
+	}
+
+
+	private void setQ(String key, int action, double value)
+	{
+		// overwrite previous q value
+		qvalues.get(key).put(action, value);
+	}
+
+	private double getQ(String key, int action)
+	{
+		return qvalues.get(key).get(action);
+	}
+
+	
+	
+	private double eval(IBoard board)
+	{
+		if(board.getWinner() == this) {
+			return 1.0;
+		}
+		else if(board.getWinner() == null) {
+			return 0.0;
+		}
+		else{
+				return -1.0;
+			
+		}
+			
+	}
+
+	public void onMatchEnds(IBoard board) {
+		IPlayer winner = board.getWinner();
+		if(winner == null){
+			return;
+		} else if(winner == this){
+			reward =  100;
+			System.out.println(winner.getName() + "faggggott!!");
+		} else{
+			reward = -100;
+		}
+		gameEnded = true;
+		updateQValue(stateKey, action, nextKey, reward);
+	}
+	
+
+
+}
