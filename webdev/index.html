@@ -21,6 +21,31 @@
 </head>
 
 <body>
+    <nav class="navbar navbar-inverse" role="navigation">
+        <div class="container">
+            <button type="button" class="navbar-toggle collapsed"
+                    data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div class="nav navbar-header">
+                <a class="navbar-brand" href="#">A. Pöhlmann</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Home</a></li> 
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Menu</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#">Sign in</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
 
     <header class="jumbotron">
 
@@ -41,13 +66,14 @@
 
     <div class='container'>
         <div class="row">
-            <div class="col-xs-12 col-sm-3">
+            <div class="col-xs-12 col-sm-3 col-sm-push-9">
                 <p style="padding:20px;"></p>
-                <h3 align=center>Our Lipsmacking Culinary Creations</h3>
+                <h3 align=center>Webdesign</h3>
             </div>
-            <div class="col-xs-12 col-sm-9">
-                <h2>Uthappizza</h2>
-                <p>A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.</p>
+            <div class="col-xs-12 col-sm-9 col-sm-pull-3">
+                <h2>Bootstraping</h2>
+                <h4>Not only datasets but also websites</h4>
+                <p>With Bootstrap you can't only get the most out of your data but also out of your website. Don't believe it? Check this out!</p>
                 <p><a  href="#">More &raquo;</a></p>
             </div>
         </div>
@@ -56,33 +82,32 @@
         <div class="row">
             <div class="col-xs-12 col-sm-3">
                 <p style="padding:20px;"></p>
-                <h3 align=center>This Month's Promotions</h3>
+                <h3 align=center>Machine Learning</h3>
             </div>
             <div class="col-xs-12 col-sm-9">
-                <h2>Weekend Grand Buffet</h2>
-                <p>Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person </p>
+                <h2>With Scikit-Learn, Tensorflow &amp; R</h2>
+                <p>Because teaching machines was never as easy as today. </p>
                 <p><a href="#">More &raquo;</a></p>
             </div>
         </div>
 
         <div class="row">
-            <div class="col-xs-12 col-sm-3">
+            <div class="col-xs-12 col-sm-3 col-sm-push-9">
                 <p style="padding:20px;"></p>
-                <h3 align=center>Meet our Culinary Specialists</h3>
+                <h3 align=center>Webdevelopment</h3>
             </div>
-            <div class="col-xs-12 col-sm-9">
-                <h2>Alberto Somayya</h2>
-                <h4>Executive Chef</h4>
+            <div class="col-xs-12 col-sm-9 col-sm-pull-3">
+                <h2>Tango with Django</h2>
                 <p>Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. </p>
                 <p><a href="#">More &raquo;</a></p>
             </div>
         </div>
     </div>
 
-    <footer>
+    <footer class="footer-inverse">
         <div class="container">
             <div class="row">             
-                <div class="col-xs-6 col-sm-3">
+                <div class="col-xs-3 col-sm-3">
                     <h5>Links</h5>
                     <ul>
                         <li><a href="#">Home</a></li>
@@ -91,9 +116,9 @@
                         <li><a href="#">Contact</a></li>
                     </ul>
                 </div>
-                 <div class="col-xs-6 col-sm-5">
+                 <div class="col-xs-9 col-sm-5">
                 <div class="row">
-                    <div class="col-xs-6 col-sm-6">
+                    <div class="col-xs-6">
                         <h5>Our Address</h5>
                         <address>
 		                  121, Clear Water Bay Road<br>
@@ -101,7 +126,7 @@
 		                  HONG KONG<br>
                         </address>
                     </div>
-                    <div style="margin-top: 35px" class="col-xs-6 col-sm-6">
+                    <div style="margin-top: 35px" class="col-xs-6 ">
                         <address>
                           Tel.: +852 1234 5678<br>
 		                  Fax: +852 8765 4321<br>
@@ -122,7 +147,7 @@
                 </div>
                 <div class="col-xs-12">
                     <p style="padding:10px;"></p>
-                    <p align=center>© Copyright 2015 Ristorante Con Fusion</p>
+                    <p align=center>© Copyright 2017 Andrei Pöhlmann</p>
                 </div>
             </div>
         </div>
