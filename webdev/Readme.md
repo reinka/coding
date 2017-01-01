@@ -1,1 +1,1 @@
-[Preview](https://htmlpreview.github.io/?https://github.com/reinka/coding/blob/master/webdev/index.html#)
+[Preview](https://goo.gl/GJvvKU)
