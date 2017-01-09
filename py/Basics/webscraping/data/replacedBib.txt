@@ -1,0 +1,1546 @@
+@ARTICLE{Siegel1990reply,
+  title    = "{Reply to R. Leverant's review of Intoxication: Life in pursuit of
+              artificial paradise}",
+  author   = "Siegel, R K",
+  journal  = "Journal of psychoactive drugs",
+  volume   =  22,
+  number   =  2,
+  pages    = "259--260",
+  month    =  aug,
+  year     =  1990,
+  howpublished = "\url{http://www.tandfonline.com/doi/full/10.1080/02791072.1990.10472548}",
+  keywords = "Drug Policy/Scientific and medical reports",
+  issn     = "0279-1072",
+  pmid     = "2374072",
+  doi      = "10.1080/02791072.1990.10472548"
+}
+
+@BOOK{Siegel2005,
+  title     = "{Intoxication: The Universal Drive for Mind-Altering Substances}",
+  author    = "Siegel, R K",
+  publisher = "Inner Traditions/Bear",
+  year      =  2005,
+  howpublished = "\url{https://books.google.de/books?id=qcprAwAAQBAJ}",
+  keywords  = "Drug Policy/Scientific and medical reports",
+  isbn      = "9781594776366"
+}
+
+@BOOK{Siegel1989,
+  title     = "{Intoxication: Life in pursuit of artificial paradise}",
+  author    = "Siegel, R K",
+  publisher = "E. P. Dutton",
+  volume    =  22,
+  year      =  1989,
+  howpublished = "\url{http://psycnet.apa.org/psycinfo/1989-98074-000}",
+  keywords  = "Drug Policy/Scientific and medical reports",
+  language  = "en",
+  issn      = "0279-1072"
+}
+
+@BOOK{Bourgois2003,
+  title     = "{In Search of Respect: Selling Crack in El Barrio}",
+  author    = "Bourgois, Philippe",
+  publisher = "Cambridge University Press",
+  series    = "Structural Analysis in the Social Sciences",
+  year      =  2003,
+  howpublished = "\url{https://books.google.de/books?id=XTC1ny-utfgC}",
+  keywords  = "Drug Policy/Crime statistics",
+  isbn      = "9780521017114",
+  lccn      = "2003265509"
+}
+
+@MISC{BPRU_Caffeine,
+  title       = "{Caffeine Dependence}",
+  author      = "{BPRU Fact Sheet}",
+  institution = "Johns Hopkins School of Medicine",
+  howpublished = "\url{https://www.hopkinsmedicine.org/psychiatry/research/bpru/docs/caffeine_dependence_fact_sheet.pdf}",
+  keywords    = "Drug Policy/Scientific and medical reports"
+}
+
+@REPORT{VapeBritain,
+  title       = "{Use of electronic cigarettes (vapourisers) among adults in
+                 Great Britain}",
+  author      = "{Action on Smoking and Health}",
+  institution = "ASH",
+  month       =  may,
+  year        =  2016,
+  howpublished = "\url{http://www.ash.org.uk/files/documents/ASH_891.pdf}",
+  keywords    = "Drug Policy/Scientific and medical reports"
+}
+
+@MISC{VapeUSA,
+  title        = "{Electronic Cigarette Statistics}",
+  booktitle    = "{Statistic Brain}",
+  month        =  "2~" # mar,
+  year         =  2016,
+  howpublished = "\url{http://www.statisticbrain.com/electronic-cigarette-statistics/}",
+  howpublished = "\url{http://www.statisticbrain.com/electronic-cigarette-statistics/}",
+  note         = "Accessed: 2016-11-18",
+  keywords     = "Drug Policy/Scientific and medical reports"
+}
+
+@ARTICLE{Bammer1999,
+  title       = "{The heroin prescribing debate: integrating science and
+                 politics}",
+  author      = "Bammer, G and Dobler-Mikola, A and Fleming, P M and Strang, J
+                 and Uchtenhagen, A",
+  affiliation = "National Centre for Epidemiology and Population Health,
+                 Australian National University, Canberra ACT 0200, Australia.
+                 Gabriele.Bammer@anu.edu.au",
+  journal     = "Science",
+  volume      =  284,
+  number      =  5418,
+  pages       = "1277--1278",
+  month       =  "21~" # may,
+  year        =  1999,
+  howpublished = "\url{https://www.ncbi.nlm.nih.gov/pubmed/10383306}",
+  keywords    = "Drug Policy/Scientific and medical reports",
+  language    = "en",
+  issn        = "0036-8075",
+  pmid        = "10383306",
+  doi         = "10.1126/science.284.5418.1277"
+}
+
+@MISC{UNGASS2016,
+  title    = "{Special Session of the General Assembly UNGASS 2016: Resolution
+              adopted by the General Assembly}",
+  author   = "{United Nations}",
+  journal  = "United Nations Office on Drugs and Crime",
+  month    =  "19~" # apr,
+  year     =  2016,
+  howpublished = "\url{http://www.unodc.org/ungass2016/}",
+  keywords = "Drug Policy/Treaties, policies and laws"
+}
+
+@MISC{DPA_HAT,
+  title        = "{Heroin Assisted Treatment}",
+  booktitle    = "{Drug Policy Alliance}",
+  howpublished = "\url{http://www.drugpolicy.org/resource/heroin-assisted-treatment-hat}",
+  howpublished = "\url{http://www.drugpolicy.org/resource/heroin-assisted-treatment-hat}",
+  note         = "Accessed: 2016-11-16",
+  keywords     = "Drug Policy/Scientific and medical reports"
+}
+
+@ARTICLE{UN_News_Philippines_18Aug2016,
+  title     = "{UN rights experts urge Philippines to end wave of extrajudicial
+               killings amid major drug crackdown}",
+  author    = "{United Nations News Service Section}",
+  publisher = "United Nations-DPI/NMD - UN News Service Section",
+  month     =  "18~" # aug,
+  year      =  2016,
+  howpublished = "\url{http://www.un.org/apps/news/story.asp?NewsID=54707&Kw1=Philippines&Kw2=&Kw3=#.WCsIuOErJhE}",
+  keywords  = "Drug Policy/News articles"
+}
+
+@MISC{BanKi-moonRemarks2016,
+  title      = "{Secretary-General's remarks at the UN Correspondents
+                Association Reception [As prepared for delivery]}",
+  author     = "{United Nations Secretary General Ban Ki-moon}",
+  month      =  "8~" # jun,
+  year       =  2016,
+  howpublished = "\url{https://www.un.org/sg/en/content/sg/statement/2016-06-08/secretary-generals-remarks-un-correspondents-association-reception}",
+  keywords   = "Drug Policy/News articles",
+  conference = "UNCA Reception"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{UNNewsPhilippines_24Sep2016,
+  title     = "{Philippines’ anti-drug fight ‘grabs headlines for wrong
+               reasons,’ Foreign Secretary tells UN}",
+  author    = "{United Nations News Service Section}",
+  publisher = "United Nations-DPI/NMD - UN News Service Section",
+  month     =  "24~" # sep,
+  year      =  2016,
+  howpublished = "\url{http://www.un.org/apps/news/story.asp?NewsID=55108#.WCmYxeErJhF}",
+  keywords  = "Drug Policy/News articles"
+}
+
+@MISC{UNCharter1945,
+  title    = "{Charter of the United Nations}",
+  author   = "{United Nations member states}",
+  journal  = "United Nations",
+  month    =  "26~" # jun,
+  year     =  1945,
+  howpublished = "\url{http://www.un.org/en/charter-united-nations/}",
+  keywords = "Drug Policy/Treaties, policies and laws"
+}
+
+@ARTICLE{Nutt2007,
+  title       = "{Development of a rational scale to assess the harm of drugs of
+                 potential misuse}",
+  author      = "Nutt, David and King, Leslie A and Saulsbury, William and
+                 Blakemore, Colin",
+  affiliation = "Psychopharmacology Unit, University of Bristol, Bristol, UK.
+                 david.j.nutt@bristol.ac.uk",
+  journal     = "The Lancet",
+  volume      =  369,
+  number      =  9566,
+  pages       = "1047--1053",
+  month       =  "24~" # mar,
+  year        =  2007,
+  howpublished = "\url{http://dx.doi.org/10.1016/S0140-6736(07)60464-4}",
+  keywords    = "Drug Policy/Scientific and medical reports",
+  language    = "en",
+  issn        = "0140-6736, 1474-547X",
+  pmid        = "17382831",
+  doi         = "10.1016/S0140-6736(07)60464-4"
+}
+
+@ARTICLE{Danenberg2013,
+  title       = "{Modernizing methodology for the WHO assessment of substances
+                 for the international drug control conventions}",
+  author      = "Danenberg, E and Sorge, L A and Wieniawski, W and Elliott, S
+                 and Amato, L and Scholten, W K",
+  affiliation = "Access to Controlled Medicines, World Health Organization,
+                 1211 Geneva 27, Switzerland.",
+  journal     = "Drug and alcohol dependence",
+  volume      =  131,
+  number      =  3,
+  pages       = "175--181",
+  month       =  "1~" # aug,
+  year        =  2013,
+  howpublished = "\url{http://dx.doi.org/10.1016/j.drugalcdep.2013.02.032}",
+  keywords    = "Drug evaluation; Evaluation methods; History; League of
+                 Nations; World Health Organization;Drug Policy/Treaties,
+                 policies and laws",
+  language    = "en",
+  issn        = "0376-8716, 1879-0046",
+  pmid        = "23548737",
+  doi         = "10.1016/j.drugalcdep.2013.02.032"
+}
+
+@REPORT{UNDESAMigration15,
+  title       = "{International Migration Report 2015: Highlights}",
+  author      = "{UNDESA Population Division}",
+  number      = "(ST/ESA/SER.A/375)",
+  institution = "United Nations Department of Economic and Social Affairs",
+  year        =  2016,
+  howpublished = "\url{http://www.un.org/en/development/desa/population/migration/publications/migrationreport/docs/MigrationReport2015_Highlights.pdf}",
+  keywords    = "Drug Policy/Meta-studies and commission reports"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{UNNewsPhilippines_GenocideAdviser,
+  title     = "{UN News - UN adviser on preventing genocide alarmed over
+               ‘disrespectful’ comments by Philippines President}",
+  author    = "{United Nations News Service Section}",
+  publisher = "United Nations",
+  month     =  "30~" # sep,
+  year      =  2016,
+  howpublished = "\url{http://www.un.org/apps/news/story.asp?NewsID=55180#.WCHk4OErK_A}",
+  keywords  = "Drug Policy/News articles"
+}
+
+@REPORT{UNODC_OpiateFlows,
+  title       = "{Opiate flows through Northern Afghanistan and Central Asia: a
+                 threat assessment}",
+  author      = "{United Nations Office on Drugs and Crime}",
+  institution = "UNODC",
+  month       =  may,
+  year        =  2012,
+  howpublished = "\url{http://www.unodc.org/documents/data-and-analysis/Studies/Afghanistan_northern_route_2012_web.pdf}",
+  keywords    = "Drug Policy/Crime statistics;Drug policy/Crime statistics"
+}
+
+@REPORT{UNODC_GlobalizationOfCrime,
+  title       = "{The Globalization of Crime: A Transnational Organized Crime
+                 Threat Assessment}",
+  author      = "{United Nations Office on Drugs and Crime}",
+  institution = "UNODC",
+  year        =  2010,
+  keywords    = "Drug Policy/Crime statistics;Drug policy/Crime statistics"
+}
+
+@MISC{TNI_UNDrugConventions,
+  title        = "{The UN Drug Control Conventions}",
+  booktitle    = "{Transnational Institute}",
+  month        =  "8~" # oct,
+  year         =  2015,
+  howpublished = "\url{https://www.tni.org/en/publication/the-un-drug-control-conventions}",
+  howpublished = "\url{https://www.tni.org/en/publication/the-un-drug-control-conventions}",
+  note         = "Accessed: 2016-11-8",
+  keywords     = "Drug Policy/Treaties, policies and laws;Drug policy/Int'l
+                  treaties and nat'l laws"
+}
+
+@MISC{UNConventionPsychotropic1971,
+  title    = "{Convention on Psychotropic Substances}",
+  author   = "{United Nations}",
+  journal  = "United Nations Office on Drugs and Crime",
+  year     =  1971,
+  howpublished = "\url{https://www.unodc.org/pdf/convention_1971_en.pdf}",
+  keywords = "Drug Policy/Treaties, policies and laws;Drug policy/Int'l
+              treaties and nat'l laws"
+}
+
+@MISC{UNConventionTraffic19889,
+  title    = "{Convention against Illicit Traffic in Narcotic Drugs and
+              Psychotropic Substances}",
+  author   = "{United Nations}",
+  journal  = "United Nations Office on Drugs and Crime",
+  year     =  1988,
+  howpublished = "\url{https://www.unodc.org/pdf/convention_1988_en.pdf}",
+  keywords = "Drug Policy/Treaties, policies and laws;Drug policy/Int'l
+              treaties and nat'l laws"
+}
+
+@MISC{UNSingleConvention1961,
+  title     = "{Single Convention on Narcotic Drugs, 1961, as amended by the
+               1972 Protocol}",
+  author    = "{United Nations}",
+  journal   = "United Nations Office on Drugs and Crime",
+  publisher = "United Nations Office on Drugs and Crime",
+  pages     = "23--66",
+  year      =  1972,
+  howpublished = "\url{http://www.un-ilibrary.org/drugs-crime-and-terrorism/the-international-drug-control-conventions\_8701620f-en}",
+  keywords  = "Drug Policy/Treaties, policies and laws;Drug policy/Int'l
+               treaties and nat'l laws",
+  doi       = "10.18356/8701620f-en"
+}
+
+@REPORT{AmnestyMexicoTorture,
+  title       = "{Known Abusers, but Victims Ignored: Torture and ill-treatment
+                 in Mexico}",
+  author      = "{Amnesty International}",
+  institution = "Amnesty International",
+  month       =  oct,
+  year        =  2012,
+  keywords    = "Drug Policy/Ethics and human rights;Drug policy/Ethics and
+                 human rights"
+}
+
+@INPROCEEDINGS{CoercionToCohesion,
+  title           = "{From coercion to cohesion: Treating drug dependence
+                     through health care, not punishment}",
+  booktitle       = "{UNODC Discussion paper}",
+  author          = "Gerra, Gilberto and Clark, Nicolas",
+  institution     = "United Nations Office on Drugs and Crime",
+  howpublished = "\url{https://www.unodc.org/docs/treatment/Coercion_Ebook.pdf}",
+  keywords        = "Drug Policy/Scientific and medical reports;Drug
+                     policy/Health and social reports"
+}
+
+@REPORT{Grover_RightToHealth_2010,
+  title       = "{Right of everyone to the enjoyment of the highest attainable
+                 standard of physical and mental health}",
+  author      = "Grover, Anand",
+  number      = "A/65/255",
+  institution = "United Nations Human Rights Council",
+  month       =  "6~" # aug,
+  year        =  2010,
+  howpublished = "\url{https://www.tni.org/files/publication-downloads/a_65_225_final.pdf}",
+  keywords    = "Drug Policy/Treaties, policies and laws;Drug Policy/Ethics and
+                 human rights;Drug policy/Int'l treaties and nat'l laws;Drug
+                 policy/Ethics and human rights"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@MISC{Hussein_UNCommissionerHumanRights,
+  title        = "{Statement by Mr. Zeid Ra’ad Al Hussein, United Nations High
+                  Commissioner for Human Rights at the United Nations Work on
+                  the World Drug Problem}",
+  booktitle    = "{UN Office of the High Commissioner for Human Rights}",
+  howpublished = "\url{http://ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=16791&LangID=E}",
+  howpublished = "\url{http://ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=16791&LangID=E}",
+  note         = "Accessed: 2016-11-7",
+  keywords     = "Drug Policy/Treaties, policies and laws;Drug Policy/Ethics
+                  and human rights;Drug policy/Int'l treaties and nat'l
+                  laws;Drug policy/Ethics and human rights"
+}
+
+@ARTICLE{Lines2011,
+  title    = "{Deliver us from evil? The Single Convention on Narcotic Drugs, 50
+              years on}",
+  author   = "Lines, Rick",
+  journal  = "International Journal on Human Rights and Drug Policy",
+  volume   =  1,
+  pages    = "3--13",
+  year     =  2011,
+  howpublished = "\url{http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1837554}",
+  keywords = "Drug Policy/Ethics and human rights;Drug policy/Ethics and human
+              rights"
+}
+
+@MISC{noauthor_undated-rb,
+  title        = "{Crime, Arrests, and US Law Enforcement}",
+  booktitle    = "{Drug War Facts}",
+  howpublished = "\url{http://www.drugwarfacts.org/cms/Crime}",
+  howpublished = "\url{http://www.drugwarfacts.org/cms/Crime}",
+  note         = "Accessed: 2016-11-7",
+  keywords     = "Drug Policy/Crime statistics;Drug policy/Crime statistics"
+}
+
+@BOOK{Reuter1990,
+  title     = "{Money from crime}",
+  author    = "Reuter, Peter H and MacCoun, Robert J and Murphy, Patrick and
+               Abrahamse, Allan and Simon, Barbara",
+  publisher = "Rand Corporation",
+  year      =  1990,
+  howpublished = "\url{http://www.rand.org/cgi-bin/Abstracts/e-getabbydoc.pl?R-3894}",
+  keywords  = "Drug Policy/Crime statistics;Drug policy/Crime statistics"
+}
+
+@ARTICLE{Schmitt2011,
+  title     = "{Ex-offenders and the Labor Market}",
+  author    = "Schmitt, John and Warner, Kris",
+  journal   = "WorkingUSA",
+  publisher = "Wiley Online Library",
+  volume    =  14,
+  number    =  1,
+  pages     = "87--109",
+  year      =  2011,
+  howpublished = "\url{http://onlinelibrary.wiley.com/doi/10.1111/j.1743-4580.2011.00322.x/full}",
+  keywords  = "Drug Policy/Crime statistics;Drug policy/Crime statistics"
+}
+
+@REPORT{WorldDrugReport2010,
+  title       = "{World Drug Report 2010}",
+  author      = "{United Nations Office on Crime and Drugs}",
+  publisher   = "United Nations",
+  series      = "World Drug Report",
+  institution = "UNODC",
+  year        =  2010,
+  howpublished = "\url{https://books.google.de/books?id=HB9PuEhHahQC}",
+  keywords    = "Drug Policy/Meta-studies and commission reports;Drug
+                 policy/Meta-studies and commission reports",
+  isbn        = "9789211482560"
+}
+
+@REPORT{WorldDrugReport2005,
+  title       = "{World Drug Report 2005}",
+  author      = "{United Nations Office on Drugs and Crime}",
+  publisher   = "United Nations Publications",
+  institution = "UNODC",
+  year        =  2005,
+  howpublished = "\url{https://market.android.com/details?id=book-eTwedbDPUYIC}",
+  keywords    = "Drug Policy/Meta-studies and commission reports;Drug
+                 policy/Meta-studies and commission reports",
+  isbn        = "9789211482003"
+}
+
+@REPORT{Thomas2007,
+  title       = "{Comparing the Perceived Serious and Actual Costs of Substance
+                 Abuse in Canada: Analysis Drawn from the 2004 Canadian
+                 Addiction Survey}",
+  author      = "Thomas, Gerald and Davis, Christopher G",
+  institution = "Canadian Centre on Substance Abuse",
+  month       =  mar,
+  year        =  2007,
+  howpublished = "\url{www.ccsa.ca/Resource%20Library/ccsa-011350-2007.pdf}",
+  keywords    = "Drug Policy/Scientific and medical reports;Drug policy/Health
+                 and social reports"
+}
+
+@REPORT{Geffray2002,
+  title       = "{Globalisation, Drugs and Criminalisation: Final Research
+                 Report on Brazil, China, India and Mexico}",
+  author      = "Geffray, C and Fabre, G and Schiray, M",
+  institution = "UNESCO",
+  year        =  2002,
+  howpublished = "\url{unesdoc.unesco.org/images/0012/001276/127644e.pdf}",
+  keywords    = "Drug Policy/Crime statistics;Drug policy/Crime statistics"
+}
+
+@ARTICLE{Haken2011,
+  title    = "{Transnational crime in the developing world}",
+  author   = "Haken, Jeremy",
+  journal  = "Global financial integrity",
+  volume   =  22,
+  pages    = "1724",
+  year     =  2011,
+  howpublished = "\url{www.illicittrade.com/reports/downloads/Transnational-Crime-In-The-Developing-World.pdf}",
+  keywords = "Drug Policy/Crime statistics;Drug policy/Crime statistics"
+}
+
+@REPORT{OAS_DrugProblem13,
+  title       = "{The Drug Problem in the Americas: Studies}",
+  author      = "{Organization of American States}",
+  institution = "Organization of American States",
+  month       =  "20~" # may,
+  year        =  2013,
+  howpublished = "\url{www.cicad.oas.org/drogas/elinforme/informeDrogas2013/laEconomicaNarcotrafico_ENG.pdf}",
+  keywords    = "Drug Policy/Meta-studies and commission reports;Drug
+                 Policy/Crime statistics;Drug policy/Crime statistics;Drug
+                 policy/Meta-studies and commission reports"
+}
+
+@REPORT{Pietschmann2011,
+  title       = "{Estimating illicit financial flows resulting from drug
+                 trafficking and other transnational organized crimes}",
+  author      = "Pietschmann, Thomas and Walker, John",
+  institution = "UNODC Studies and Threat Analysis Section",
+  year        =  2011,
+  keywords    = "Drug Policy/Crime statistics;Drug policy/Crime statistics"
+}
+
+@MISC{Maio_CommissionOnNarcoticDrugs16,
+  title        = "{Commission on Narcotic Drugs puts drug control in the context
+                  of security, health and development}",
+  booktitle    = "{United Nations Office on Drugs and Crime}",
+  author       = "Maio, Susannah",
+  howpublished = "\url{https://www.unodc.org/unodc/en/frontpage/cnd-roundup.html}",
+  howpublished = "\url{https://www.unodc.org/unodc/en/frontpage/cnd-roundup.html}",
+  note         = "Accessed: 2016-11-7",
+  keywords     = "Drug Policy/Meta-studies and commission reports;Drug
+                  policy/Meta-studies and commission reports"
+}
+
+@BOOK{Miller1991,
+  title     = "{The case for legalizing drugs}",
+  author    = "Miller, Richard Lawrence",
+  publisher = "Praeger",
+  volume    =  91,
+  year      =  1991,
+  howpublished = "\url{https://www.ncjrs.gov/App/abstractdb/AbstractDBDetails.aspx?id=128307}",
+  keywords  = "Drug Policy/Ethics and human rights;Drug policy/Ethics and human
+               rights"
+}
+
+@BOOK{Hari2015,
+  title     = "{Chasing the scream: The first and last days of the war on drugs}",
+  author    = "Hari, Johann",
+  publisher = "Bloomsbury Publishing USA",
+  year      =  2015,
+  keywords  = "Drug Policy/Ethics and human rights;Drug policy/Ethics and human
+               rights"
+}
+
+@REPORT{CTCPeaceSecurity2011,
+  title    = "{The War on Drugs: Undermining peace and security}",
+  author   = "{Count The Costs}",
+  year     =  2011,
+  howpublished = "\url{http://www.countthecosts.org/sites/default/files/Security-briefing.pdf}",
+  keywords = "Drug Policy/Meta-studies and commission reports;Drug
+              Policy/Ethics and human rights;Drug policy/Meta-studies and
+              commission reports;Drug policy/Ethics and human rights"
+}
+
+@REPORT{CTCDevelopmentConflict_2011,
+  title    = "{The War on Drugs: Undermining international development and
+              security, increasing conflict}",
+  author   = "{Count The Costs}",
+  year     =  2011,
+  howpublished = "\url{http://www.countthecosts.org/sites/default/files/Development_and_security_briefing.pdf}",
+  keywords = "Drug Policy/Meta-studies and commission reports;Drug
+              Policy/Ethics and human rights;Drug policy/Meta-studies and
+              commission reports;Drug policy/Ethics and human rights"
+}
+
+@REPORT{DPA_GoodSamaritan2016,
+  title       = "{911 Good Samaritan Laws: Preventing Overdose Deaths, Saving
+                 Lives}",
+  author      = "{Drug Policy Alliance}",
+  institution = "The Drug Policy Alliance",
+  month       =  "10~" # feb,
+  year        =  2016,
+  howpublished = "\url{http://www.drugpolicy.org/resource/911-good-samaritan-laws-preventing-overdose-deaths-saving-lives}",
+  keywords    = "Drug Policy/Scientific and medical reports;Drug policy/Health
+                 and social reports"
+}
+
+@MISC{Rotberg2016,
+  title        = "{The little-understood connection between Islamic terror and
+                  drug profits}",
+  booktitle    = "{The Conversation}",
+  author       = "Rotberg, Robert",
+  year         =  2016,
+  howpublished = "\url{http://theconversation.com/the-little-understood-connection-between-islamic-terror-and-drug-profits-53602}",
+  howpublished = "\url{http://theconversation.com/the-little-understood-connection-between-islamic-terror-and-drug-profits-53602}",
+  note         = "Accessed: 2016-10-26",
+  keywords     = "Drug Policy/Crime statistics;Drug policy/Crime statistics"
+}
+
+@MISC{noauthor_2008-kd,
+  title        = "{Zogby/Inter-American Dialogue Survey: Public Views Clash with
+                  U.S. Policy on Cuba, Immigration, and Drugs}",
+  booktitle    = "{Zogby International}",
+  month        =  "28~" # oct,
+  year         =  2008,
+  howpublished = "\url{https://web.archive.org/web/20100202043355/http://www.zogby.com/templates/printnews.cfm?id=1568}",
+  howpublished = "\url{https://web.archive.org/web/20100202043355/http://www.zogby.com/templates/printnews.cfm?id=1568}",
+  note         = "Accessed: 2016-10-26",
+  keywords     = "Drug Policy/News articles;Drug policy/News articles"
+}
+
+@MISC{Fields2009,
+  title        = "{White House Czar Calls for End to 'War on Drugs'}",
+  booktitle    = "{WSJ}",
+  author       = "Fields, Gary",
+  publisher    = "wsj.com",
+  month        =  "14~" # may,
+  year         =  2009,
+  howpublished = "\url{http://www.wsj.com/articles/SB124225891527617397}",
+  howpublished = "\url{http://www.wsj.com/articles/SB124225891527617397}",
+  note         = "Accessed: 2016-10-26",
+  keywords     = "Drug Policy/News articles;Drug policy/News articles"
+}
+
+@MISC{noauthor_undated-ps,
+  title        = "{Drug War Statistics}",
+  booktitle    = "{Drug Policy Alliance}",
+  howpublished = "\url{http://www.drugpolicy.org/drug-war-statistics}",
+  howpublished = "\url{http://www.drugpolicy.org/drug-war-statistics}",
+  note         = "Accessed: 2016-10-26",
+  keywords     = "Drug Policy/Crime statistics;Drug policy/Crime statistics"
+}
+
+@MISC{noauthor_2012-ok,
+  title        = "{Politics this week}",
+  booktitle    = "{The Economist}",
+  month        =  "31~" # mar,
+  year         =  2012,
+  howpublished = "\url{http://webcache.googleusercontent.com/search?q=cache%3Ahttp%3A%2F%2Fwww.economist.com%2Fnode%2F21551550&pws=0&gl=us&gws_rd=cr}",
+  howpublished = "\url{http://webcache.googleusercontent.com/search?q=cache%3Ahttp%3A%2F%2Fwww.economist.com%2Fnode%2F21551550&pws=0&gl=us&gws_rd=cr}",
+  note         = "Accessed: 2016-10-26",
+  keywords     = "Drug Policy/News articles;Drug policy/News articles"
+}
+
+@REPORT{Count_The_Costs2011-ov,
+  title    = "{The War on Drugs: Undermining Human Rights}",
+  author   = "{Count The Costs}",
+  year     =  2011,
+  howpublished = "\url{http://www.countthecosts.org/sites/default/files/Human_rights_briefing.pdf}",
+  keywords = "Drug Policy/Meta-studies and commission reports;Drug
+              Policy/Ethics and human rights;Drug policy/Meta-studies and
+              commission reports;Drug policy/Ethics and human rights"
+}
+
+@BOOK{Domoslawski2011-pp,
+  title     = "{Drug policy in Portugal: The benefits of decriminalizing drug
+               use}",
+  author    = "Domoslawski, Artur and Siemaszko, Hanna",
+  publisher = "Open Society Foundations New York",
+  year      =  2011,
+  howpublished = "\url{https://www.tni.org/en/issues/decriminalization/item/2725-drug-policy-in-portugal}",
+  keywords  = "Drug Policy/Treaties, policies and laws;Drug policy/Int'l
+               treaties and nat'l laws"
+}
+
+@MISC{New_York_Times1935-hx,
+  title    = "{Roosevelt Asks Narcotic War Aid}",
+  author   = "{New York Times}",
+  series   = "Schaffer Library of Drug Policy",
+  month    =  "22~" # mar,
+  year     =  1935,
+  howpublished = "\url{http://www.druglibrary.net/schaffer/History/e1930/rooseveltasks.htm}",
+  keywords = "Drug Policy/Historical records;Drug policy/Historical records"
+}
+
+@REPORT{Reuter1987-wx,
+  title       = "{Sealing the Borders}",
+  author      = "Reuter, Peter H and Crawford, Gordon and Cave, Jonathan and
+                 Murphy, Patrick and Henry, Don and Lisowski, William and
+                 Wainstein, Eleanor Sullivan",
+  publisher   = "RAND Corporation",
+  institution = "RAND Corporation",
+  month       =  "31~" # dec,
+  year        =  1987,
+  howpublished = "\url{http://www.rand.org/pubs/reports/R3594.html}",
+  keywords    = "Drug Policy/Crime statistics;Drug policy/Crime statistics"
+}
+
+
+@MISC{BBCGuatemalanpresident,
+  title        = "{Guatemala's president urges debate on drug legalisation}",
+  booktitle    = "{BBC News}",
+  howpublished = "\url{http://www.bbc.com/news/world-latin-america-17502417}",
+  howpublished = "\url{http://www.bbc.com/news/world-latin-america-17502417}",
+  note         = "Accessed: 2016-10-24"
+}
+
+@REPORT{CTCHealth,
+  title  = "{The War on Drugs: Threatening public health, spreading disease and
+            death}",
+  author = "{Count The Costs}",
+  year   =  2011,
+  howpublished = "\url{http://www.countthecosts.org/sites/default/files/Health-briefing.pdf}"
+}
+
+@ARTICLE{Beck1998-kn,
+  title     = "{100 Years of" Just Say No" Versus" Just Say Know" Reevaluating
+               Drug Education Goals for the Coming Century}",
+  author    = "Beck, Jerome",
+  journal   = "Evaluation review",
+  publisher = "Sage Publications",
+  volume    =  22,
+  number    =  1,
+  pages     = "15--45",
+  year      =  1998,
+  howpublished = "\url{http://erx.sagepub.com/content/22/1/15.short}",
+  issn      = "0193-841X"
+}
+
+
+@ARTICLE{Ninnemann2013-sk,
+  title       = "{The NBOMe series: a novel, dangerous group of hallucinogenic
+                 drugs}",
+  author      = "Ninnemann, Andrew and Stuart, Gregory L",
+  affiliation = "University of Maryland, College Park, Department of
+                 Psychology, College Park, Maryland aninn@umd.edu.",
+  journal     = "Journal of studies on alcohol and drugs",
+  volume      =  74,
+  number      =  6,
+  pages       = "977--978",
+  month       =  nov,
+  year        =  2013,
+  howpublished = "\url{https://www.ncbi.nlm.nih.gov/pubmed/24172126}",
+  language    = "en",
+  issn        = "1937-1888, 1938-4114",
+  pmid        = "24172126",
+  doi         = "10.15288/jsad.2013.74.977"
+}
+
+@ARTICLE{Vevelstad2012-my,
+  title       = "{The PMMA epidemic in Norway: comparison of fatal and non-fatal
+                 intoxications}",
+  author      = "Vevelstad, Merete and \O{}iestad, Elisabeth Leere and
+                 Middelkoop, Gerrit and Hasvold, Inger and Lilleng, Peer and
+                 Delaveris, Gerd Jorunn M and Eggen, Tormod and M\o{}rland,
+                 J\o{}rg and Arnestad, Marianne",
+  affiliation = "Division of Forensic Medicine and Drug Abuse Research (DFMDA),
+                 Norwegian Institute of Public Health (NIPH), Oslo, Norway.
+                 meve@fhi.no",
+  journal     = "Forensic science international",
+  volume      =  219,
+  number      = "1-3",
+  pages       = "151--157",
+  month       =  "10~" # jun,
+  year        =  2012,
+  howpublished = "\url{http://dx.doi.org/10.1016/j.forsciint.2011.12.014}",
+  language    = "en",
+  issn        = "0379-0738, 1872-6283",
+  pmid        = "22257968",
+  doi         = "10.1016/j.forsciint.2011.12.014"
+}
+
+
+
+@ARTICLE{Reinarman2004-vg,
+  title       = "{The limited relevance of drug policy: cannabis in Amsterdam
+                 and in San Francisco}",
+  author      = "Reinarman, Craig and Cohen, Peter D A and Kaal, Hendrien L",
+  affiliation = "Department of Sociology, University of California-Santa Cruz,
+                 1156 High Street, Santa Cruz, CA 95064, USA. craigo@ucsc.edu",
+  journal     = "American journal of public health",
+  volume      =  94,
+  number      =  5,
+  pages       = "836--842",
+  month       =  may,
+  year        =  2004,
+  howpublished = "\url{https://www.ncbi.nlm.nih.gov/pubmed/15117709}",
+  language    = "en",
+  issn        = "0090-0036",
+  pmid        = "15117709",
+  pmc         = "PMC1448346"
+}
+
+
+@REPORT{European_Monitoring_Centre_for_Drugs_and_Drug_Addiction2011-bg,
+  title       = "{Drug policy profiles: Portugal}",
+  author      = "{European Monitoring Centre for Drugs and Drug Addiction}",
+  institution = "EMCDDA",
+  month       =  jun,
+  year        =  2011,
+  howpublished = "\url{http://www.emcdda.europa.eu/publications/drug-policy-profiles/portugal}"
+}
+
+@MISC{Portugal_drugwarfacts,
+  title        = "{Portugal Data and Policies}",
+  booktitle    = "{Drug War Facts}",
+  howpublished = "\url{http://www.drugwarfacts.org/cms/Portugal}",
+  howpublished = "\url{http://www.drugwarfacts.org/cms/Portugal}",
+  note         = "Accessed: 2016-11-27"
+}
+
+
+@TECHREPORT{Portugal2012_EMCDDA,
+  title       = "{National report 2012: Portugal}",
+  author      = "{European Monitoring Centre for Drugs and Drug Addiction}",
+  institution = "EMCDDA",
+  month       =  jun,
+  year        =  2013,
+  howpublished = "\url{http://www.emcdda.europa.eu/html.cfm/index214059EN.html}"
+}
+
+
+@REPORT{Global_Commission_on_Drug_Policy2011-li,
+  title    = "{Report of the Global Commission on Drug Policy}",
+  author   = "{Global Commission on Drug Policy}",
+  month    =  jun,
+  year     =  2011,
+  howpublished = "\url{https://www.scribd.com/fullscreen/56924096?access_key=key-xoixompyejnky70a9mq}",
+  keywords = "Drug Policy/Meta-studies and commission reports;Drug
+              policy/Meta-studies and commission reports"
+}
+
+@MISC{noauthor_undated-nu,
+  title        = "{EMCDDA report presents latest evidence on heroin-assisted
+                  treatment for hard-to-treat opioid users}",
+  booktitle    = "{European Monitoring Centre for Drugs and Drug Addiction}",
+  howpublished = "\url{http://www.emcdda.europa.eu/news/2012/1}",
+  howpublished = "\url{http://www.emcdda.europa.eu/news/2012/1}",
+  note         = "Accessed: 2016-10-24",
+  keywords     = "Drug Policy/Meta-studies and commission reports;Drug
+                  Policy/Scientific and medical reports;Drug policy/Health and
+                  social reports;Drug policy/Meta-studies and commission
+                  reports"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@MISC{Jamie_Hale2010-oa,
+  title        = "{Scared Straight? Not Really | World of Psychology}",
+  booktitle    = "{World of Psychology}",
+  author       = "Jamie Hale, M S and View all posts by Jamie Hale, M S →",
+  month        =  "26~" # nov,
+  year         =  2010,
+  howpublished = "\url{http://psychcentral.com/blog/archives/2010/11/26/scared-straight-not-really/}",
+  howpublished = "\url{http://psychcentral.com/blog/archives/2010/11/26/scared-straight-not-really/}",
+  note         = "Accessed: 2016-10-24",
+  keywords     = "Drug Policy/Scientific and medical reports;Drug policy/Health
+                  and social reports"
+}
+
+@MISC{Lopez2015-dw,
+  title        = "{More evidence that harsh mandatory minimums for drug offenses
+                  don't work}",
+  booktitle    = "{Vox}",
+  author       = "Lopez, German",
+  month        =  "5~" # aug,
+  year         =  2015,
+  howpublished = "\url{http://www.vox.com/2015/8/5/9097307/mandatory-minimums-fair-sentencing-act}",
+  howpublished = "\url{http://www.vox.com/2015/8/5/9097307/mandatory-minimums-fair-sentencing-act}",
+  note         = "Accessed: 2016-10-24",
+  keywords     = "Drug Policy/News articles;Drug policy/News articles"
+}
+
+@ARTICLE{Hari2016-mz,
+  title    = "{The old global consensus on the war on drugs is crumbling}",
+  author   = "Hari, Johann",
+  journal  = "Los Angeles Times",
+  month    =  "10~" # apr,
+  year     =  2016,
+  howpublished = "\url{http://www.latimes.com/opinion/op-ed/la-oe-0410-hari-un-drug-rebellion-20160410-story.html}",
+  keywords = "Drug Policy/News articles;Drug policy/News articles",
+  issn     = "0458-3035"
+}
+
+@MISC{noauthor_undated-xe,
+  title        = "{Drugs and Human Rights}",
+  booktitle    = "{Human Rights Watch}",
+  howpublished = "\url{https://www.hrw.org/tag/drugs-and-human-rights}",
+  howpublished = "\url{https://www.hrw.org/tag/drugs-and-human-rights}",
+  note         = "Accessed: 2016-10-24",
+  keywords     = "Drug Policy/Ethics and human rights;Drug policy/Ethics and
+                  human rights"
+}
+
+@INCOLLECTION{Mill1966-zh,
+  title     = "{On Liberty}",
+  booktitle = "{A Selection of his Works}",
+  author    = "Mill, John Stuart",
+  editor    = "Robson, John M",
+  publisher = "Macmillan Education UK",
+  pages     = "1--147",
+  year      =  1966,
+  howpublished = "\url{http://link.springer.com/chapter/10.1007/978-1-349-81780-1_1}",
+  language  = "en",
+  isbn      = "9781349817825, 9781349817801",
+  doi       = "10.1007/978-1-349-81780-1\_1"
+}
+
+
+@MISC{noauthor_undated-ec,
+  title        = "{The war on drugs has failed. Now what?}",
+  booktitle    = "{World Economic Forum}",
+  howpublished = "\url{https://www.weforum.org/agenda/2016/01/the-war-on-drugs-has-failed-now-what/}",
+  howpublished = "\url{https://www.weforum.org/agenda/2016/01/the-war-on-drugs-has-failed-now-what/}",
+  note         = "Accessed: 2016-10-24",
+  keywords     = "Drug Policy/Ethics and human rights;Drug policy/Ethics and
+                  human rights"
+}
+
+@REPORT{WorldDrugReport15,
+  title       = "{World Drug Report 2015}",
+  author      = "{United Nations Office on Drugs and Crime}",
+  institution = "United Nations",
+  month       =  may,
+  year        =  2015,
+  howpublished = "\url{www.unodc.org/documents/wdr2015/World_Drug_Report_2015.pdf}",
+  keywords    = "Drug Policy/Meta-studies and commission reports;Drug
+                 policy/Meta-studies and commission reports"
+}
+
+@ARTICLE{Ross2016-kw,
+  title    = "{David Cameron: 'Black people more likely to be in prison than at
+              a top university'}",
+  author   = "Ross, Tim",
+  journal  = "The Daily Telegraph",
+  month    =  "31~" # jan,
+  year     =  2016,
+  howpublished = "\url{http://www.telegraph.co.uk/news/politics/david-cameron/12131928/Labours-David-Lammy-to-lead-government-race-review.html}",
+  keywords = "Drug Policy/Crime statistics;Drug Policy/Ethics and human
+              rights;Drug policy/Crime statistics;Drug policy/Ethics and human
+              rights",
+  issn     = "0307-1235"
+}
+
+@ARTICLE{Caulkins2006-lp,
+  title   = "{Long-Run Trends in Incarceration of Drug Offenders in the United
+             States}",
+  author  = "Caulkins, Jonathan P and Chandler, Sara",
+  journal = "Crime \& Delinquency",
+  volume  =  52,
+  number  =  4,
+  pages   = "619--641",
+  month   =  "1~" # oct,
+  year    =  2006,
+  howpublished = "\url{http://cad.sagepub.com/content/52/4/619.abstract}",
+  doi     = "10.1177/0011128705284793"
+}
+
+@ARTICLE{Ha2010-kn,
+  title     = "{Blanket Policies for Strip Searching Pretrial Detainees: An
+               Interdisciplinary Argument for Reasonableness}",
+  author    = "Ha, Daphne",
+  journal   = "Fordham law review / edited by Fordham law students",
+  publisher = "HeinOnline",
+  volume    =  79,
+  pages     = "2721",
+  year      =  2010,
+  howpublished = "\url{http://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/flr79&section=91}",
+  issn      = "0015-704X"
+}
+
+@ARTICLE{Saad2013-ts,
+  title    = "{Gallup poll: In U.S., 38\% Have Tried Marijuana, Little Changed
+              Since '80s}",
+  author   = "Saad, Lydia",
+  journal  = "Gallup",
+  month    =  "2~" # aug,
+  year     =  2013,
+  howpublished = "\url{http://www.gallup.com/poll/163835/tried-marijuana-little-changed-80s.aspx}"
+}
+
+@REPORT{National_Resource_Center_on_Children_Families_of_the_Incarcerated2014-fw,
+  title       = "{Children and Families of the Incarcerated Fact Sheet}",
+  author      = "{National Resource Center on Children \& Families of the
+                 Incarcerated}",
+  institution = "Rutgers University",
+  year        =  2014,
+  howpublished = "\url{https://nrccfi.camden.rutgers.edu/files/nrccfi-fact-sheet-2014.pdf}"
+}
+
+@REPORT{Drug_Policy_Alliance2011-am,
+  title       = "{Drug Courts Are Not the Answer: Toward a Health-Centered
+                 Approach to Drug Use}",
+  author      = "{Drug Policy Alliance}",
+  institution = "Drug Policy Alliance",
+  month       =  mar,
+  year        =  2011,
+  howpublished = "\url{http://www.drugpolicy.org/sites/default/files/Drug%20Courts%20Are%20Not%20the%20Answer_Final2.pdf}"
+}
+
+@MISC{noauthor_undated-jy,
+  title        = "{Prisoners in 2014}",
+  booktitle    = "{United States Bureau of Justice Statistics}",
+  howpublished = "\url{http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5387}",
+  howpublished = "\url{http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5387}",
+  note         = "Accessed: 2016-11-25"
+}
+
+@MISC{drugwarfactsHIV,
+  title        = "{HIV/AIDS \& Injection Drug Use (IDU)}",
+  booktitle    = "{Drug War Facts}",
+  howpublished = "\url{http://www.drugwarfacts.org/cms/HIV-AIDS}",
+  howpublished = "\url{http://www.drugwarfacts.org/cms/HIV-AIDS}",
+  note         = "Accessed: 2016-11-26"
+}
+
+@MISC{PTSDprevalence,
+  title        = "{How Common Is PTSD?}",
+  booktitle    = "{National Center for PTSD}",
+  howpublished = "\url{http://www.ptsd.va.gov/public/PTSD-overview/basics/how-common-is-ptsd.asp}",
+  howpublished = "\url{http://www.ptsd.va.gov/public/PTSD-overview/basics/how-common-is-ptsd.asp}",
+  note         = "Accessed: 2016-11-26"
+}
+
+
+@ARTICLE{Ferro2013-vr,
+  title    = "{Why It's So Hard For Scientists To Study Medical Marijuana}",
+  author   = "Ferro, Shaunacy",
+  journal  = "Popular Science",
+  month    =  "18~" # apr,
+  year     =  2013,
+  howpublished = "\url{http://www.popsci.com/science/article/2013-04/why-its-so-hard-scientists-study-pot}"
+}
+
+
+@MISC{noauthor_undated-cy,
+  title        = "{MAPS Research}",
+  booktitle    = "{Multidisciplinary Association for Psychedelic Studies}",
+  howpublished = "\url{http://www.maps.org/research}",
+  howpublished = "\url{http://www.maps.org/research}",
+  note         = "Accessed: 2016-11-26"
+}
+
+
+@ARTICLE{Touw1981-us,
+  title    = "{The religious and medicinal uses of Cannabis in China, India and
+              Tibet}",
+  author   = "Touw, M",
+  journal  = "Journal of psychoactive drugs",
+  volume   =  13,
+  number   =  1,
+  pages    = "23--34",
+  month    =  jan,
+  year     =  1981,
+  howpublished = "\url{http://dx.doi.org/10.1080/02791072.1981.10471447}",
+  language = "en",
+  issn     = "0279-1072",
+  pmid     = "7024492",
+  doi      = "10.1080/02791072.1981.10471447"
+}
+
+@MISC{drugwarfactsEUcrime,
+  title        = "{European Union Data and Policies - An Overview}",
+  booktitle    = "{Drug War Facts}",
+  howpublished = "\url{http://www.drugwarfacts.org/cms/EU#Crime}",
+  howpublished = "\url{http://www.drugwarfacts.org/cms/EU#Crime}",
+  note         = "Accessed: 2016-11-26"
+}
+
+
+@REPORT{Wagner2016-ki,
+  title       = "{Mass Incarceration: The Whole Pie 2016}",
+  author      = "Wagner, Peter and Rabuy, Bernadette",
+  institution = "Prison Policy Initiative",
+  month       =  "14~" # mar,
+  year        =  2016,
+  howpublished = "\url{https://www.prisonpolicy.org/reports/pie2016.html}"
+}
+
+
+@ARTICLE{Atwoli2015-hx,
+  title       = "{Epidemiology of posttraumatic stress disorder: prevalence,
+                 correlates and consequences}",
+  author      = "Atwoli, Lukoye and Stein, Dan J and Koenen, Karestan C and
+                 McLaughlin, Katie A",
+  affiliation = "aDepartment of Mental Health, School of Medicine, Moi
+                 University College of Health Sciences, Eldoret, Kenya
+                 bDepartment of Psychiatry and Mental Health, University of
+                 Cape Town, Cape town, South Africa cDepartment of
+                 Epidemiology, Mailman School of Public Health, Columbia
+                 University, New York, New York dDepartment of Psychology,
+                 University of Washington, Seattle, Washington, USA.",
+  journal     = "Current opinion in psychiatry",
+  volume      =  28,
+  number      =  4,
+  pages       = "307--311",
+  month       =  jul,
+  year        =  2015,
+  howpublished = "\url{http://dx.doi.org/10.1097/YCO.0000000000000167}",
+  language    = "en",
+  issn        = "0951-7367, 1473-6578",
+  pmid        = "26001922",
+  doi         = "10.1097/YCO.0000000000000167",
+  pmc         = "PMC4452282"
+}
+
+@ARTICLE{Kessler2003-cp,
+  title       = "{The epidemiology of major depressive disorder: results from
+                 the National Comorbidity Survey Replication (NCS-R)}",
+  author      = "Kessler, R C and Berglund, P and Demler, O and
+                 Jin, R and Koretz, D and Merikangas, K R and
+                 Rush, A J and Walters, E E and Wang, P S",
+  affiliation = "Department of Health Care Policy, Harvard Medical School,
+                 Boston, MA 02115, USA. NCS@hcp.med.harvard.edu",
+  journal     = "JAMA: the journal of the American Medical Association",
+  volume      =  289,
+  number      =  23,
+  pages       = "3095--3105",
+  month       =  "18~" # jun,
+  year        =  2003,
+  howpublished = "\url{http://dx.doi.org/10.1001/jama.289.23.3095}",
+  language    = "en",
+  issn        = "0098-7484, 1538-3598",
+  pmid        = "12813115",
+  doi         = "10.1001/jama.289.23.3095"
+}
+
+@ARTICLE{Andrade2003-ky,
+  title       = "{The epidemiology of major depressive episodes: results from
+                 the International Consortium of Psychiatric Epidemiology
+                 (ICPE) Surveys}",
+  author      = "Andrade, L and Caraveo-Anduaga, J J and Berglund,
+                 P and Bijl, R V and De Graaf, R and Vollebergh,
+                 W and Dragomirecka, E and Kohn, R and Keller,
+                 M and Kessler, R C and Kawakami, N and
+                 Kili\c{c}, C and Offord, D and Ustun, T B and
+                 Wittchen, H",
+  affiliation = "Institute and Department of Psychiatry, School of Medicine,
+                 University of S\~{a}o Paulo, Brazil.",
+  journal     = "International journal of methods in psychiatric research",
+  volume      =  12,
+  number      =  1,
+  pages       = "3--21",
+  year        =  2003,
+  howpublished = "\url{https://www.ncbi.nlm.nih.gov/pubmed/12830306}",
+  language    = "en",
+  issn        = "1049-8931",
+  pmid        = "12830306"
+}
+
+
+@BOOK{Strassman2001-nt,
+  title     = "{DMT: The Spirit Molecule}",
+  author    = "Strassman, Rick",
+  publisher = "Park Street Press",
+  chapter   =  6,
+  year      =  2001,
+  howpublished = "\url{https://www.rickstrassman.com/books/the-spirit-molecule/chapter-summaries/}",
+  address   = "Rochester"
+}
+
+@PHDTHESIS{Doblin2001-qk,
+  title    = "{Regulation of the Medical Use of Psychedelics and Marijuana}",
+  author   = "Doblin, Richard",
+  editor   = "Scherer, Frederick Michael",
+  month    =  jun,
+  year     =  2001,
+  howpublished = "\url{http://www.maps.org/index.php?option=com_content&amp;view=article&amp;id=5402}",
+  school   = "Harvard University"
+}
+
+@ARTICLE{Nutt2015-rr,
+  title       = "{Illegal drugs laws: clearing a 50-year-old obstacle to
+                 research}",
+  author      = "Nutt, David",
+  affiliation = "Division of Brain Sciences, Imperial College London, London,
+                 United Kingdom.",
+  journal     = "PLoS biology",
+  volume      =  13,
+  number      =  1,
+  pages       = "e1002047",
+  month       =  jan,
+  year        =  2015,
+  howpublished = "\url{http://dx.doi.org/10.1371/journal.pbio.1002047}",
+  language    = "en",
+  issn        = "1544-9173, 1545-7885",
+  pmid        = "25625189",
+  doi         = "10.1371/journal.pbio.1002047",
+  pmc         = "PMC4307971"
+}
+
+
+@REPORT{Global_Commission_on_Drug_Policy2016-zx,
+  title       = "{The War on Drugs and HIV/AIDS: How the Criminalization of Drug
+                 Use Fuels the Global Pandemic}",
+  author      = "{Global Commission on Drug Policy}",
+  institution = "Global Commission on Drug Policy",
+  month       =  "4~" # mar,
+  year        =  2016,
+  howpublished = "\url{http://www.globalcommissionondrugs.org/reports/the-war-on-drugs-and-hivaids/}"
+}
+
+@MISC{noauthor_undated-ko,
+  title        = "{Prisons, Jails \& Probation - Overview}",
+  booktitle    = "{Drug War Facts}",
+  howpublished = "\url{http://www.drugwarfacts.org/cms/Prisons_and_Jails}",
+  howpublished = "\url{http://www.drugwarfacts.org/cms/Prisons_and_Jails}",
+  note         = "Accessed: 2016-11-26"
+}
+
+
+@BOOK{On_Drug_Policy2013-jk,
+  title     = "{The Negative Impact of the War on Drugs on Public Health: The
+               Hidden Hepatitis C Epidemic: Report of the Global Commission on
+               Drug Policy}",
+  author    = "on Drug Policy, Global Commission",
+  publisher = "Global Commission on Drug Policy",
+  year      =  2013,
+  howpublished = "\url{http://www.globalcommissionondrugs.org/reports/the-negative-impact-of-the-war-on-drugs-on-public-health-the-hidden-hepatitis-c-epidemic/}"
+}
+
+
+
+@MISC{DPA_race,
+  title        = "{Race and the Drug War: Racial Discrimination in Drug Law
+                  Enforcement}",
+  booktitle    = "{Drug Policy Alliance}",
+  howpublished = "\url{http://www.drugpolicy.org/race-and-drug-war}",
+  howpublished = "\url{http://www.drugpolicy.org/race-and-drug-war}",
+  note         = "Accessed: 2016-11-25"
+}
+
+
+
+@REPORT{Fellner2009-nm,
+  title       = "{Decades of Disparity: Drug Arrests and Race in the United
+                 States}",
+  author      = "Fellner, J",
+  publisher   = "Human Rights Watch",
+  series      = "Human Rights Watch short reports, United States",
+  institution = "Human Rights Watch",
+  year        =  2009,
+  howpublished = "\url{https://books.google.de/books?id=cf71SxHo_00C}",
+  isbn        = "9781564324504",
+  lccn        = "2009288337"
+}
+
+@ARTICLE{Breslow2015-is,
+  title    = "{The Staggering Death Toll of Mexico's Drug War}",
+  author   = "Breslow, J M",
+  journal  = "FRONTLINE",
+  month    =  "27~" # jul,
+  year     =  2015,
+  howpublished = "\url{http://www.pbs.org/wgbh/frontline/article/the-staggering-death-toll-of-mexicos-drug-war/}"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Doward2016-pj,
+  title    = "{The UN’s war on drugs is a failure. Is it time for a different
+              approach?}",
+  author   = "Doward, Jamie",
+  journal  = "The Guardian",
+  month    =  "2~" # apr,
+  year     =  2016,
+  howpublished = "\url{http://www.theguardian.com/world/2016/apr/02/un-war-on-drugs-failure-prohibition-united-nations}",
+  keywords = "Drug Policy/News articles;Drug policy/News articles",
+  issn     = "0261-3077"
+}
+
+@ARTICLE{Nutt2010-mp,
+  title     = "{Drug harms in the UK: a multicriteria decision analysis}",
+  author    = "Nutt, David J and King, Leslie A and Phillips, Lawrence D",
+  journal   = "The Lancet",
+  publisher = "Elsevier",
+  volume    =  376,
+  number    =  9752,
+  pages     = "1558--1565",
+  month     =  "6~" # nov,
+  year      =  2010,
+  howpublished = "\url{http://dx.doi.org/10.1016/S0140-6736(10)61462-6}",
+  keywords  = "Drug Policy/Scientific and medical reports;Drug policy/Health
+               and social reports",
+  issn      = "0140-6736",
+  doi       = "10.1016/S0140-6736(10)61462-6"
+}
+
+@MISC{noauthor_undated-uc,
+  title        = "{A Brief History of the Drug War}",
+  booktitle    = "{Drug Policy Alliance}",
+  howpublished = "\url{http://www.drugpolicy.org/facts/new-solutions-drug-policy/brief-history-drug-war-0}",
+  howpublished = "\url{http://www.drugpolicy.org/facts/new-solutions-drug-policy/brief-history-drug-war-0}",
+  note         = "Accessed: 2016-10-24",
+  keywords     = "Drug Policy/Historical records;Drug policy/Historical records"
+}
+
+@REPORT{Federal_Office_of_Public_Health2006-au,
+  title       = "{Switzerland's National Drugs Policy}",
+  author      = "{Federal Office of Public Health}",
+  institution = "Swiss Confederation",
+  month       =  nov,
+  year        =  2006,
+  howpublished = "\url{http://www.bag.admin.ch/shop/00035/00204/index.html?lang=en&download=NHzLpZeg7t,lnp6I0NTU042l2Z6ln1ad1IZn4Z2qZpnO2Yuq2Z6gpJCFfXx3f2ym162epYbg2c_JjKbNoKSn6A--}",
+  keywords    = "Drug Policy/Treaties, policies and laws;Drug policy/Int'l
+                 treaties and nat'l laws"
+}
+
+@ARTICLE{Guerra-Doce2015-gu,
+  title   = "{Psychoactive Substances in Prehistoric Times: Examining the
+             Archaeological Evidence}",
+  author  = "Guerra-Doce, Elisa",
+  journal = "Time and Mind",
+  volume  =  8,
+  number  =  1,
+  pages   = "91--112",
+  year    =  2015,
+  howpublished = "\url{http://www.tandfonline.com/doi/abs/10.1080/1751696X.2014.993244}",
+  eprint  = "http://www.tandfonline.com/doi/pdf/10.1080/1751696X.2014.993244",
+  doi     = "10.1080/1751696X.2014.993244"
+}
+
+@ARTICLE{Sullivan2008-ov,
+  title       = "{Revealing the paradox of drug reward in human evolution}",
+  author      = "Sullivan, Roger J and Hagen, Edward H and Hammerstein, Peter",
+  affiliation = "Department of Anthropology, California State University,
+                 Sacramento, CA 95819, USA. sullivar@csus.edu",
+  journal     = "Proceedings. Biological sciences / The Royal Society",
+  volume      =  275,
+  number      =  1640,
+  pages       = "1231--1241",
+  month       =  "7~" # jun,
+  year        =  2008,
+  howpublished = "\url{http://dx.doi.org/10.1098/rspb.2007.1673}",
+  language    = "en",
+  issn        = "0962-8452",
+  pmid        = "18353749",
+  doi         = "10.1098/rspb.2007.1673",
+  pmc         = "PMC2367444"
+}
+
+@ARTICLE{Unodc2016-xs,
+  title  = "{Report of the International Narcotics Control Board for 2015}",
+  author = "{UNODC}",
+  year   =  2016,
+  howpublished = "\url{http://dx.doi.org/10.18356/efa6bbe5-en}",
+  doi    = "10.18356/efa6bbe5-en"
+}
+
+@REPORT{World_Health_Organization2011-rt,
+  title  = "{Access to Controlled Medications Programme: Improving access to
+            medications controlled under international drug conventions}",
+  author = "{World Health Organization}",
+  year   =  2011,
+  howpublished = "\url{http://www.eapcnet.eu/LinkClick.aspx?fileticket=dcbb0ZdvpvQ%3D&tabid=1690}"
+}
+
+@MISC{United_Nations2014-lm,
+  title     = "{International Covenant on Economic, Social and Cultural Rights}",
+  author    = "{United Nations}",
+  journal   = "Office of the High Commissioner on Human Rights",
+  publisher = "United Nations",
+  month     =  "28~" # may,
+  year      =  2014,
+  howpublished = "\url{http://www.un-ilibrary.org/human-rights-and-refugees/the-core-international-human-rights-treaties_a93bf03c-en}",
+  doi       = "10.18356/a93bf03c-en"
+}
+
+@MISC{IMF_dataset_2016,
+  title        = "{Nominal GDP Report for Selected Countries and Subjects}",
+  booktitle    = "{International Monetary Fund}",
+  howpublished = "\url{http://www.imf.org/external/pubs/ft/weo/2016/02/weodata/WEOOct2016all.xls}",
+  howpublished = "\url{http://www.imf.org/external/pubs/ft/weo/2016/02/weodata/WEOOct2016all.xls}",
+  note         = "Accessed: 2016-11-23"
+}
+
+@ARTICLE{Rodd2002-qg,
+  title       = "{Snuff synergy: preparation, use and pharmacology of yopo and
+                 Banisteriopsis caapi among the Piaroa of southern Venezuela}",
+  author      = "Rodd, Robin",
+  affiliation = "Anthropology Department, University of Western Australia,
+                 Nedlands. thylacine\_rr@hotmail.com",
+  journal     = "Journal of psychoactive drugs",
+  volume      =  34,
+  number      =  3,
+  pages       = "273--279",
+  month       =  jul,
+  year        =  2002,
+  howpublished = "\url{http://dx.doi.org/10.1080/02791072.2002.10399963}",
+  language    = "en",
+  issn        = "0279-1072",
+  pmid        = "12422937",
+  doi         = "10.1080/02791072.2002.10399963"
+}
+
+@ARTICLE{Glass-Coffin2010-cx,
+  title     = "{Shamanism and San Pedro through time: some notes on the
+               archaeology, history, and continued use of an entheogen in
+               northern Peru}",
+  author    = "Glass-Coffin, Bonnie",
+  journal   = "Anthropology of Consciousness",
+  publisher = "Wiley Online Library",
+  volume    =  21,
+  number    =  1,
+  pages     = "58--82",
+  year      =  2010,
+  howpublished = "\url{http://onlinelibrary.wiley.com/doi/10.1111/j.1556-3537.2010.01021.x/full}"
+}
+
+
+
+@BOOK{Stewart1987-an,
+  title     = "{Peyote Religion: A History}",
+  author    = "Stewart, O C",
+  publisher = "University of Oklahoma Press",
+  series    = "The Civilization of the American Indian Series",
+  year      =  1987,
+  howpublished = "\url{https://books.google.de/books?id=ZesN1ZJNMQYC}",
+  isbn      = "9780806124575",
+  lccn      = "87005941"
+}
+
+@BOOK{Aberle1991-vh,
+  title     = "{The peyote religion among the Navaho}",
+  author    = "Aberle, David F and Moore, Harvey C and Johnston, Denis F",
+  publisher = "University of Oklahoma Press",
+  year      =  1991
+}
+
+@BOOK{Moerman1998-ut,
+  title     = "{Native american ethnobotany}",
+  author    = "Moerman, Daniel E",
+  publisher = "Timber Press",
+  year      =  1998,
+  howpublished = "\url{http://agris.fao.org/agris-search/search.do?recordID=US201300026896}"
+}
+
+@ARTICLE{Badham1984-wa,
+  title    = "{Ethnobotany of psilocybin mushrooms, especially Psilocybe
+              cubensis}",
+  author   = "Badham, E R",
+  journal  = "Journal of ethnopharmacology",
+  volume   =  10,
+  number   =  2,
+  pages    = "249--254",
+  month    =  apr,
+  year     =  1984,
+  howpublished = "\url{https://www.ncbi.nlm.nih.gov/pubmed/6539409}",
+  language = "en",
+  issn     = "0378-8741",
+  pmid     = "6539409"
+}
+
+@ARTICLE{Nicholson1971-nf,
+  title     = "{Religion in pre-Hispanic central Mexico}",
+  author    = "Nicholson, Henry B",
+  journal   = "Handbook of Middle American Indians",
+  publisher = "University of Texas Press Austin",
+  volume    =  10,
+  number    = "pt 1",
+  pages     = "395--446",
+  year      =  1971
+}
+
+@ARTICLE{Luna2011-hw,
+  title   = "{Indigenous and mestizo use of ayahuasca: an overview}",
+  author  = "Luna, Luis Eduardo",
+  journal = "The Ethnopharmacology of Ayahuasca. Kerala: Transworld Research
+             Network",
+  pages   = "1--22",
+  year    =  2011,
+  howpublished = "\url{http://ejournal.narotama.ac.id/files/Indigenous%20and%20mestizo%20use%20of%20Ayahuasca.%20An%20overview.pdf}"
+}
+
+@MISC{Iaccino2016-pf,
+  title        = "{Decapitated bodies of nine men found in Mexico's Guerrero
+                  state as cartel violence continues}",
+  booktitle    = "{International Business Times UK}",
+  author       = "Iaccino, Ludovica",
+  month        =  "22~" # nov,
+  year         =  2016,
+  howpublished = "\url{http://www.ibtimes.co.uk/decapitated-bodies-nine-men-found-mexicos-guerrero-state-cartel-violence-continues-1592796}",
+  howpublished = "\url{http://www.ibtimes.co.uk/decapitated-bodies-nine-men-found-mexicos-guerrero-state-cartel-violence-continues-1592796}",
+  note         = "Accessed: 2016-11-23"
+}
+
+@MISC{Woody2016-eb,
+  title        = "{Homicides are on the rise in Mexico after years of decline,
+                  and it's the result of a new criminal dynamic}",
+  booktitle    = "{Business Insider Deutschland}",
+  author       = "Woody, Christopher",
+  month        =  "27~" # jul,
+  year         =  2016,
+  howpublished = "\url{http://www.businessinsider.de/homicides-rising-in-mexico-drug-cartel-violence-2016-7}",
+  howpublished = "\url{http://www.businessinsider.de/homicides-rising-in-mexico-drug-cartel-violence-2016-7}",
+  note         = "Accessed: 2016-11-23"
+}
+
+@ARTICLE{Rapplercom2016-vt,
+  title    = "{Duterte: I'm being portrayed as a 'cousin of Hitler'}",
+  author   = "{Rappler.com}",
+  month    =  "30~" # sep,
+  year     =  2016,
+  howpublished = "\url{http://www.rappler.com/nation/147797-duterte-portrayed-hitler-cousin}"
+}
+
+@BOOK{West_Africa_Commission_on_Drugs2014-gn,
+  title       = "{Not Just in Transit: Drugs, the State and Society in West
+                 Africa}",
+  author      = "{West Africa Commission on Drugs}",
+  institution = "West Africa Commission on Drugs",
+  month       =  jun,
+  year        =  2014
+}
+
+@BOOK{Global_Commission_on_Drug_Policy2016-qo,
+  title       = "{Advancing Drug Policy Reform: A New Approach to
+                 Decriminalization}",
+  author      = "{Global Commission on Drug Policy}",
+  institution = "Global Commission on Drug Policy",
+  year        =  2016,
+  howpublished = "\url{http://www.globalcommissionondrugs.org/reports/advancing-drug-policy-reform/}"
+}
+
+@BOOK{Global_Commission_on_Drug_Policy2014-ym,
+  title       = "{Taking Control: Pathways to Drug Policies that Work}",
+  author      = "{Global Commission on Drug Policy}",
+  institution = "Global Commission on Drug Policy",
+  month       =  sep,
+  year        =  2014,
+  howpublished = "\url{http://www.globalcommissionondrugs.org/reports/taking-control-pathways-to-drug-policies-that-work/}"
+}
+
+@BOOK{Global_Commission_on_Drug_Policy2011-ci,
+  title     = "{War on Drugs: Report}",
+  author    = "{Global Commission on Drug Policy}",
+  publisher = "Global Commission on Drug Policy",
+  year      =  2011,
+  howpublished = "\url{http://www.globalcommissionondrugs.org/reports/war-on-drugs/}"
+}
+
+@REPORT{CTCEconomics2011,
+  title  = "{The War on Drugs: Wasting billions and undermining economies}",
+  author = "{Count The Costs}",
+  year   =  2011,
+  howpublished = "\url{http://www.countthecosts.org/sites/default/files/Economics-briefing.pdf}"
+}
+
+@ARTICLE{Mendoza2010-xw,
+  title    = "{U.S. drug war has met none of its goals}",
+  author   = "Mendoza, Martha",
+  journal  = "NBC News",
+  month    =  "13~" # may,
+  year     =  2010,
+  howpublished = "\url{http://www.nbcnews.com/id/37134751/ns/}"
+}
+
+@BOOK{MacRae1992-ed,
+  title  = "{Guided by the moon---Shamanism and the ritual use of ayahuasca in
+            the Santo Daime religion in Brazil}",
+  author = "MacRae, Edward",
+  year   =  1992,
+  howpublished = "\url{https://www2.catbull.com/alamut/Bibliothek/t_edw2.doc}"
+}
+
+
+@ARTICLE{Noble2008-ax,
+  title       = "{Long-term opioid therapy for chronic noncancer pain: a
+                 systematic review and meta-analysis of efficacy and safety}",
+  author      = "Noble, M and Tregear, S J and Treadwell, J
+                 R and Schoelles, K",
+  affiliation = "ECRI Institute, Evidence-Based Practice Center and Health
+                 Technology Assessment Group, Plymouth Meeting, Pennsylvania,
+                 USA.",
+  journal     = "Journal of pain and symptom management",
+  volume      =  35,
+  number      =  2,
+  pages       = "214--228",
+  month       =  feb,
+  year        =  2008,
+  howpublished = "\url{http://dx.doi.org/10.1016/j.jpainsymman.2007.03.015}",
+  language    = "en",
+  issn        = "0885-3924",
+  pmid        = "18178367",
+  doi         = "10.1016/j.jpainsymman.2007.03.015"
+}
+
+@ARTICLE{Sullivan2002-xe,
+  title     = "{Psychotropic substance-seeking: evolutionary pathology or
+               adaptation?}",
+  author    = "Sullivan, Roger J and Hagen, Edward H",
+  journal   = "Addiction",
+  publisher = "Wiley Online Library",
+  volume    =  97,
+  number    =  4,
+  pages     = "389--400",
+  year      =  2002,
+  howpublished = "\url{http://onlinelibrary.wiley.com/doi/10.1046/j.1360-0443.2002.00024.x/full}",
+  issn      = "0965-2140"
+}
+
