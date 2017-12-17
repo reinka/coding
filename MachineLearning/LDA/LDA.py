@@ -228,7 +228,7 @@ class LDA(object):
 
         self.S_B = np.zeros((p, p))
         for klass, mean_vec in self.group_mean_vectors.iterrows():
-            n = X[y == klass + 1, :].shape[0]
+            n = X[y == klass, :].shape[0]
             mean_vec = mean_vec.values.reshape(4, 1)  # make column vector
             overall_mean = overall_mean.reshape(4, 1)  # make column vector
             self.S_B += n * (mean_vec - overall_mean).dot(
