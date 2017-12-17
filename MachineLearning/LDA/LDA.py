@@ -135,9 +135,9 @@ class LDA(object):
         return {c: (a == c).nonzero()[0] for c in np.unique(a)}
 
     def compute_S_W(self, features=None, verbose=0):
-        """Compute within-class scatter matrix.
+        """Compute within-groups scatter matrix.
 
-        A pxp within-class scatter matrix is computed where p is the number
+        A pxp within-groups scatter matrix is computed where p is the number
         of features being considered. Missing values will be dropped before
         computing the actual scatter matrix.
 
@@ -152,7 +152,6 @@ class LDA(object):
 
         .. math:: \frac{1}{n_i} \\sum_{x \in G_i}^n_i x
 
-
         Parameters
         ----------
         features : list of str, optional
@@ -160,12 +159,12 @@ class LDA(object):
             of the given features.
 
         verbose : bool, optional
-            If 1 or True, the within-class scatter matrix will be printed.
+            If 1 or True, the within-groups scatter matrix will be printed.
 
         Returns
         -------
         S_W : array-like
-            Within-class scatter matrix.
+            Within-groups scatter matrix.
         """
         X, y = self.prepare_data(features)
 
@@ -181,20 +180,20 @@ class LDA(object):
         self.S_W = np.zeros((p, p))
         self.group_mean_vectors = self.compute_group_means(features, verbose)
 
-        for klass, mv in self.group_mean_vectors.iterrows():
+        for klass, mean_vec in self.group_mean_vectors.iterrows():
             #  Compute group mean difference x - mu_p
-            dif = X[y == klass] - mv.values.reshape(-1, )
+            dif = X[y == klass] - mean_vec.values.reshape(-1, )
             self.S_W += np.tensordot(dif, dif, axes=((0), (0)))
 
         if verbose:
-            print('within-class Scatter Matrix:\n', pd.DataFrame(self.S_W))
+            print('within-groups Scatter Matrix:\n', pd.DataFrame(self.S_W))
 
         return self.S_W
 
     def compute_S_B(self, features=None, verbose=0):
-        """Compute between-class scatter matrix.
+        """Compute between-groups scatter matrix.
 
-        A pxp between-class scatter matrix is computed where p is the number
+        A pxp between-groups scatter matrix is computed where p is the number
         of features being considered. Missing values will be dropped before
         computing the actual scatter matrix.
 
@@ -212,11 +211,12 @@ class LDA(object):
             of the given features.
 
         verbose : bool, optional
-            If 1 or True, the within-class scatter matrix will be printed.
+            If 1 or True, the between-groups scatter matrix will be printed.
 
         Returns
         -------
-
+        S_B : array-like
+            Between-groups scatter matrix.
         """
         X, y = self.prepare_data(features)
 
@@ -234,7 +234,7 @@ class LDA(object):
             self.S_B += n * (mean_vec - overall_mean).dot(
                 (mean_vec - overall_mean).T)
         if verbose:
-            print('between-class Scatter Matrix:\n', pd.DataFrame(self.S_B))
+            print('between-groups Scatter Matrix:\n', pd.DataFrame(self.S_B))
 
         return self.S_B
 
@@ -280,7 +280,7 @@ class LDA(object):
         -------
         X, y : np.array
             X : Matrix consisting of the dependent variables
-            y : Vector containing the class labels.
+            y : Vector containing the groups labels.
         """
         df = self.df.dropna()
         if features:
@@ -301,7 +301,7 @@ class LDA(object):
             of the given features.
 
         verbose : bool, optional
-            If 1 or True, the within-class scatter matrix might be printed.
+            If 1 or True, the within-groups scatter matrix might be printed.
 
         Returns
         -------
