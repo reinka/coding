@@ -250,9 +250,9 @@ class LDA(object):
 
         """
         if not hasattr(self, 'S_B'):
-            self.compute_S_B()
+            self.compute_S_B(verbose=verbose)
         if not hasattr(self, 'S_W'):
-            self.compute_S_W()
+            self.compute_S_W(verbose=verbose)
 
         eig_vals, eig_vecs = np.linalg.eig(
             np.linalg.inv(self.S_W).dot(self.S_B))
