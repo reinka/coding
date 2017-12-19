@@ -325,7 +325,7 @@ class LDA(object):
                                  'first.')
 
         for i in range(len(self.eig_vals)):
-            eigv = self.eig_vecs[:, i].reshape(4, 1)
+            eigv = self.eig_vecs[:, i].reshape(self.p, 1)
             np.testing.assert_array_almost_equal(
                 np.linalg.inv(self.S_W).dot(self.S_B).dot(eigv),
                 self.eig_vals[i] * eigv,
